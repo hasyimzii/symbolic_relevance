@@ -1,0 +1,10 @@
+
+Strain limits vs. reinforcement ratio limits - A collection of new and old formulas for the design of reinforced concrete sections
+
+
+
+
+ 
+© 2015 The Author. This paper presents a formulation for the design of reinforced concrete flexural members. The formulation yields exactly the same results as the current American Concrete Institute (ACI) design approach but it is based entirely on the concept of reinforcement ratios. This is in contrast to the current ACI approach which relies on strain limits [1]. A formulation based on reinforcement ratios is simpler and more intuitive and therefore has important pedagogical advantages. The formulation presented here can be thought of as an attempt to reconcile the new approach to design introduced by the ACI code in 2002, with the traditional approach to design that was in use from 1963 to 2002. The traditional approach to design of reinforced concrete sections uses the concept of reinforcement ratios. The new ACI approach, referred to here as the unified design method (UDM), requires consideration of rather cumbersome strain limits and/or geometric strain relationships. In this paper, it is shown that the UDM approach can be formulated much in the same way as the traditional approach, as long as a series of formulas involving reinforcement ratios are introduced. These formulas are presented in this paper. Many of them are well known, but some are new. In particular, a new formula for the compression-controlled reinforcement ratio limit, and a new direct procedure for the design of transition-zone sections are presented. The formulation presented in this paper should prove useful both for the instructor in the classroom, and for the practicing structural engineer. Derivation details for many of the formulas in the paper are given and several numerical examples to illustrate their use are provided at the end.
+
+

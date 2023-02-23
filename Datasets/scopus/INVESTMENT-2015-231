@@ -1,0 +1,10 @@
+
+Time-consistent reinsurance and investment strategies for mean-variance insurer under partial information
+
+
+
+
+ 
+© 2015 Elsevier B.V. In this paper, based on equilibrium control law proposed by Björk and Murgoci (2010), we study an optimal investment and reinsurance problem under partial information for insurer with mean-variance utility, where insurer's risk aversion varies over time. Instead of treating this time-inconsistent problem as pre-committed, we aim to find time-consistent equilibrium strategy within a game theoretic framework. In particular, proportional reinsurance, acquiring new business, investing in financial market are available in the market. The surplus process of insurer is depicted by classical Lundberg model, and the financial market consists of one risk free asset and one risky asset with unobservable Markov-modulated regime switching drift process. By using reduction technique and solving a generalized extended HJB equation, we derive closed-form time-consistent investment-reinsurance strategy and corresponding value function. Moreover, we compare results under partial information with optimal investment-reinsurance strategy when Markov chain is observable. Finally, some numerical illustrations and sensitivity analysis are provided.
+
+

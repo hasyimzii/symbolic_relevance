@@ -1,0 +1,10 @@
+
+Power Quality Analysis Using a Hybrid Model of the Fuzzy Min-Max Neural Network and Clustering Tree
+
+
+
+
+ 
+A hybrid intelligent model comprising a modified fuzzy min-max (FMM) clustering neural network and a modified clustering tree (CT) is developed. A review of clustering models with rule extraction capabilities is presented. The hybrid FMM-CT model is explained. We first use several benchmark problems to illustrate the cluster evolution patterns from the proposed modifications in FMM. Then, we employ a case study with real data related to power quality monitoring to assess the usefulness of FMM-CT. The results are compared with those from other clustering models. More importantly, we extract explanatory rules from FMM-CT to justify its predictions. The empirical findings indicate the usefulness of the proposed model in tackling data clustering and power quality monitoring problems under different environments.
+
+

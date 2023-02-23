@@ -1,0 +1,10 @@
+
+Automatic determination of cutoff frequency for filter design using neuro-fuzzy systems
+
+
+
+
+ 
+© 2015 Elsevier B.V. The cutoff frequency of filter has a great influence on the image quality of positron emission tomography (PET). Understanding this physical phenomenon and developing some intelligent strategies to effectively determine cutoff frequency have both theoretical and practical significance. This paper proposes a new algorithm for automatically choosing filter cutoff frequency using neuro-fuzzy system. In the proposed method, wavelet theory is used to extract noise information which enhances the accuracy of cutoff frequency calculation and improves filtering performance. A neuro-fuzzy system is developed for modeling cutoff frequency function and adjusting weight values using gradient descent scheme. As a general method, the proposed approach is tested by using typical window functions. Results show that proposed techniques are effective and efficient for automatically determining cutoff frequency.
+
+

@@ -1,0 +1,10 @@
+
+Evolving neural networks and fuzzy clustering for multireservoir operations
+
+
+
+
+ 
+© 2015 The Natural Computing Applications Forum This research presents complex reservoir operation problems based on evolving neural network (ENN), which derive operating policies directly. Four models are studied in this paper. Elitist-mutated particle swarm optimization algorithm is used for training these models. At first, ENN is analyzed when inputs are either actual or normalized data, and then, ENN is developed based on cluster analysis. Since hard classification assigns each fact to one class, this cannot consider the data which may belong to two clusters or more. In contrast, fuzzy clustering can overcome the difficulty. Among fuzzy clustering programs, fuzzy c-means (FCM) is a very popular technique and is chosen for the purposes of this research. To validate the applicability of this methodology, a complex multireservoir system in Karkheh River Basin, southwestern Iran, is chosen. To allocate water, a technique based on simulation is developed. The results show that ENN based on actual data outperforms the model based on normalized data. Moreover, ENN conditioned on FCM is demonstrated to outperform K-means clustering-based ENN and regular ENN. The main contributions of this paper are threefold: first, improvement of ENN when applied for parallel-series reservoirs, second, further improvement via fuzzy clustering, and third, development of an allocation technique for reservoirs with parallel and cascade configuration.
+
+

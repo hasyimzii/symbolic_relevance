@@ -1,0 +1,9 @@
+
+On Asymmetric Market Model with Heteroskedasticity and Quantile Regression
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York The capital asset pricing model is widely used in financial risk management due to its simplicity and utility in a variety of situations. Many of the constructs of this market model are widely used in investment, but the simple assumptions of a constant beta coefficient and variance in the original market model are not convincing from the empirical viewpoint. In this paper we propose a general asymmetric market model embedding both the leverage effect of market news and the previous return to express the instability of beta and the error with heteroskedasticity to capture the time-varying conditional variance. Because extreme values occur quite frequently in financial markets, the quantile regression is employed to explore the different behaviors in the market beta and lagged autoregressive effect for different quantile levels. We analyze fifteen stocks, which are heavily traded in the Dow Jones Industrial Average, to demonstrate the empirical performance of our methodology. The evidence indicates that each market beta and impact of negative news vary with different quantile levels, capturing different states of market conditions.
+

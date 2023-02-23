@@ -1,0 +1,2 @@
+A breast self examination program for high school students.
+Breast self examination (BSE) is an important adjunct to the detection of breast  cancer at an early stage. High school students were instructed in the importance and methods of BSE. By use of questionnaires, the program was evaluated for interest, acceptability, and compliance. It was found that high school students were not adverse to learning about BSE, found the program acceptable, and maintained some compliance at one year.

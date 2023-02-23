@@ -1,0 +1,10 @@
+
+Unsupervised aspect level sentiment analysis using Ant Clustering and Self-organizing Maps
+
+
+
+
+ 
+© 2015 IEEE. We present an approach for aspect based opinion mining, which uses an unsupervised neural network as the opinion classifier. To identify the aspects, we use the Ant Clustering Algorithm. It is able to group similar sentences into clusters and then to extract from each cluster one different aspect of the opinion target object. The neural model used for sentiment analysis is an extension of the Growing Hierarchical Self-organizing Maps. In our aspect based sentiment analysis method, we assume that different sentences in a product review refer to the different aspects of the reviewed product. We use the Growing Hierarchical Self-organizing Maps in order to classify the review sentences. This way we determine whether the various aspects of the target entity (e.g. a product) are opinionated with positive or negative sentiment in the review sentences. We classify the sentences against a domain specific tree-like ontological taxonomy of aspects and (positive/ negative) opinions associated with the aspects. As a consequence, we really classify the sentiment polarity about the different aspects of the target object, as expressed in the sentences. Moreover, being based on a classification against an ontology of aspects, our approach is semantic oriented, where the aspects themselves are also defined semantically. The approach proposed has been tested on a collection of product reviews, more exactly reviews about photo cameras.
+
+

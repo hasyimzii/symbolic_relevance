@@ -1,0 +1,10 @@
+
+Plantecophys - An R package for analysing and modelling leaf gas exchange data
+
+
+
+
+ 
+© 2015 Remko A. Duursma. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Here I present the R package 'plantecophys', a toolkit to analyse and model leaf gas exchange data. Measurements of leaf photosynthesis and transpiration are routinely collected with portable gas exchange instruments, and analysed with a few key models. These models include the Farquhar-von Caemmerer-Berry (FvCB) model of leaf photosynthesis, the Ball-Berry models of stomatal conductance, and the coupled leaf gas exchange model which combines the supply and demand functions for CO2 in the leaf. The 'plantecophys' R package includes functions for fitting these models to measurements, as well as simulating from the fitted models to aid in interpreting experimental data. Here I describe the functionality and implementation of the new package, and give some examples of its use. I briefly describe functions for fitting the FvCB model of photosynthesis to measurements of photosynthesis- CO2 response curves ('A-Ci curves'), fitting Ball-Berry type models, modelling C3 photosynthesis with the coupled photosynthesis-stomatal conductance model, modelling C4 photosynthesis, numerical solution of optimal stomatal behaviour, and energy balance calculations using the Penman-Monteith equation. This open-source package makes technically challenging calculations easily accessible for many users and is freely available on CRAN.
+
+

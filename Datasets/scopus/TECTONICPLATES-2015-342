@@ -1,0 +1,10 @@
+
+KALREF - A Kalman filter and time series approach to the International Terrestrial Reference Frame realization
+
+
+
+
+ 
+©2015. American Geophysical Union. All Rights Reserved. The current International Terrestrial Reference Frame is based on a piecewise linear site motion model and realized by reference epoch coordinates and velocities for a global set of stations. Although linear motions due to tectonic plates and glacial isostatic adjustment dominate geodetic signals, at today's millimeter precisions, nonlinear motions due to earthquakes, volcanic activities, ice mass losses, sea level rise, hydrological changes, and other processes become significant. Monitoring these (sometimes rapid) changes desires consistent and precise realization of the terrestrial reference frame (TRF) quasi-instantaneously. Here, we use a Kalman filter and smoother approach to combine time series from four space geodetic techniques to realize an experimental TRF through weekly time series of geocentric coordinates. In addition to secular, periodic, and stochastic components for station coordinates, the Kalman filter state variables also include daily Earth orientation parameters and transformation parameters from input data frames to the combined TRF. Local tie measurements among colocated stations are used at their known or nominal epochs of observation, with comotion constraints applied to almost all colocated stations. The filter/smoother approach unifies different geodetic time series in a single geocentric frame. Fragmented and multitechnique tracking records at colocation sites are bridged together to form longer and coherent motion time series. While the time series approach to TRF reflects the reality of a changing Earth more closely than the linear approximation model, the filter/smoother is computationally powerful and flexible to facilitate incorporation of other data types and more advanced characterization of stochastic behavior of geodetic time series.
+
+

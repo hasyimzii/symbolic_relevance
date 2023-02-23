@@ -1,0 +1,10 @@
+
+A reinforcement learning algorithm based technique for thermal energy management of a PEM fuel cell power plant
+
+
+
+
+ 
+© 2015 IEEE. In this paper, a reinforcement learning dynamic programming algorithm (RLDP) has been developed to manage the cogenerated thermal energy and the operation of a PEM fuel cell power plant. The solution methodology is based on selecting the optimal operational schedule of a fuel cell to minimize the total expected cost of generation incurred during a specified schedule period. The optimal operation schedule of the PEM fuel cell power plant is based on estimating the hourly generated electrical power, electrical energy trade with a local utility, and the recovered thermal energy utilization and storage based on electrical and thermal demand. The proposed technique is based on the Q-learning algorithm. At the training stage, the reinforcement learning (RL) is scheduled to explore and learn the Q values using the epsilon greedy policy, and after that, decision making is done using the learned Q values. The proposed algorithm is tested using a 24-hour based electrical and thermal load, the obtained results indicate the viability of the proposed approach.
+
+

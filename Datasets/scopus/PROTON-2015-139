@@ -1,0 +1,10 @@
+
+Computational study on the inhibition mechanism of a cyclic peptide MaD5 to PfMATE: Insight from molecular dynamics simulation, free energy calculation and dynamical network analysis
+
+
+
+
+ 
+© 2015 Elsevier B.V. Multidrug and toxic compound extrusion (MATE) family transporters confer multiple-drug resistance (MDR) to bacterial pathogens and cancer cells. Therefore, the development of molecules capable of antagonizing the functions of MATE transporters is urgent because of their clinical importance. Recently, macrocyclic peptide inhibitors of Pyrococcus furiosus multidrug and toxic compound extrusion (PfMATE) transporter have been reported. However, the detailed interaction and inhibition mechanism remains elusive. In this work, molecular dynamics (MD) simulations, cross-correlation analysis, potential of mean force (PMF) calculation, dynamical community analysis and free energy calculation were performed to investigate the allosteric inhibition mechanism of a macrocyclic peptide MaD5 on PfMATE. Our simulation results demonstrate that TM1 of PfMATE tends to bend in the apo system during the simulation. In the inhibitor-bound system, PfMATE experiences a small conformational change in the inhibition process induced by MaD5. Dynamical community analysis shows that there are allosteric regulation pathways between different TMs, such as TM1 and TM8, TM8 and TM6, TM4 and TM8. These allosteric pathways may play an important role for substrate transporting of PfMATE. In contrast, the inhibitor MaD5 blocks the allosteric pathways between TMs including TM1 and TM8, TM8 and TM6 in the inhibitor-bound system. The free energy calculations indicate that interactions between the minicycle head of MaD5 and the binding pocket in the N-lope of PfMATE are mainly responsible for binding of MaD5. Our simulation results can provide an important insight for the design of more potent macrocyclic peptide inhibitors.
+
+

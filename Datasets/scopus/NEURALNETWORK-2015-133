@@ -1,0 +1,11 @@
+
+Traffic analysis without motion features
+				
+
+
+
+
+ 
+© 2015 IEEE. In this paper, we investigate the possibility of monitoring traffic without using any motion features. The goal of our system is to process videos with ultra-low frame rate, i.e. videos for which reliable motion features cannot be computed. In this work, we investigate how 2D spatial features combined with a machine learning method can assess traffic conditions such as fluid traffic, dense traffic, and traffic jam. The underlying hypothesis that we ought to validate is that traffic images are heavily characterized by their 2D spatial textures. In that perspective, we tested different 2D texture features and machine learning methods to see how accurate such an approach can be. We also performed a regression on the image descriptor in order to estimate traffic density. Experimental results obtained on the UCSD traffic dataset reveal that our approach generalizes well to various weather and lighting conditions. It even outperforms state-of-the-art traffic analysis methods relying on spatio-temporal features.
+
+

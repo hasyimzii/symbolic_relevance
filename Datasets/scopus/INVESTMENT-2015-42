@@ -1,0 +1,10 @@
+
+The Sharpe ratio of estimated efficient portfolios
+
+
+
+
+ 
+© 2016. Investors often adopt mean-variance efficient portfolios for achieving superior risk-adjusted returns. However, such portfolios are sensitive to estimation errors, which affect portfolio performance. To understand the impact of estimation errors, I develop simple and intuitive formulas of the squared Sharpe ratio that investors should expect from estimated efficient portfolios. The new formulas show that the expected squared Sharpe ratio is a function of the length of the available data, the number of assets and the maximum attainable Sharpe ratio. My results enable the portfolio manager to assess the value of efficient portfolios as investment vehicles, given the investment environment.
+
+

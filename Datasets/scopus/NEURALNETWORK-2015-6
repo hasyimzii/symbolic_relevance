@@ -1,0 +1,10 @@
+
+Autocorrelation descriptor improvements for QSAR: 2DA_Sign and 3DA_Sign
+
+
+
+
+ 
+© 2015 Springer International Publishing Switzerland Quantitative structure–activity relationship (QSAR) is a branch of computer aided drug discovery that relates chemical structures to biological activity. Two well established and related QSAR descriptors are two- and three-dimensional autocorrelation (2DA and 3DA). These descriptors encode the relative position of atoms or atom properties by calculating the separation between atom pairs in terms of number of bonds (2DA) or Euclidean distance (3DA). The sums of all values computed for a given small molecule are collected in a histogram. Atom properties can be added with a coefficient that is the product of atom properties for each pair. This procedure can lead to information loss when signed atom properties are considered such as partial charge. For example, the product of two positive charges is indistinguishable from the product of two equivalent negative charges. In this paper, we present variations of 2DA and 3DA called 2DA_Sign and 3DA_Sign that avoid information loss by splitting unique sign pairs into individual histograms. We evaluate these variations with models trained on nine datasets spanning a range of drug target classes. Both 2DA_Sign and 3DA_Sign significantly increase model performance across all datasets when compared with traditional 2DA and 3DA. Lastly, we find that limiting 3DA_Sign to maximum atom pair distances of 6 Å instead of 12 Å further increases model performance, suggesting that conformational flexibility may hinder performance with longer 3DA descriptors. Consistent with this finding, limiting the number of bonds in 2DA_Sign from 11 to 5 fails to improve performance.
+
+

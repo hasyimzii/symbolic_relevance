@@ -1,0 +1,10 @@
+
+A Radial Strain Sensor for the Characterization of Concrete Under Triaxial Loading
+
+
+
+
+ 
+© 2015 Society for Experimental Mechanics Whenever concrete structures are subjected to impacts or blast loadings, high confining pressures generate a triaxial loading on the concrete at the material scale. This paper presents a new Radial Strain Sensor (RSS) dedicated to concrete specimens (7 cm in diameter) for use in triaxial compression tests under very high lateral confining pressure (about 600 MPa). The objective here is to better characterize the behavior of concrete under stresses potentially encountered during severe loadings, which would complicate the use of strain gauges, especially when the tested sample becomes saturated with water. Moreover, while volumetric behavior is an important parameter in concrete behavior modeling, strain gauge measurements constitute local observations and hence are not representative of global specimen behavior when localized damage appears (i.e., post-peak behavior). To achieve the stated objective, a new radial sensor that takes into account geometric and technical constraints imposed by the triaxial cell has been designed, tested and validated. This radial strain sensor (RSS) is capable of supporting very high confining pressures generated during the triaxial test (850 MPa). After introducing the geometric constraints leading to the initial sensor shape, the pressure effects, temperature and boundary conditions involved in strain analyses are all presented, in emphasizing that greater sensor sensitivity is indeed necessary. By means of a numerical approach, an RSS dimensional optimization protocol is proposed and discussed. Lastly, the calibration procedure is described and the sensor measurement validated thanks to a triaxial test conducted on concrete at a 600-MPa confining pressure.
+
+

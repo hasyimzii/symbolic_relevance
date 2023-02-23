@@ -1,0 +1,10 @@
+
+Pedestrian detection based on Region Proposal Fusion
+
+
+
+
+ 
+© 2015 IEEE. Almost all existing state-of-the-art pedestrian detection methods use combination of hand-crafted features, which cannot well handle the particular challenges in real-world situation. In this paper, we take advantage of Regions with Convolution Neural Networks features (R-CNN) to extract more robust pedestrian features for effective pedestrian detection in complicated environments. To further improve the performance: 1) we propose a Region Proposal Fusion algorithm to get effective region proposals since after careful observation, we found that the quality of region proposals is crucially important for detection performance. 2) we exploit a pedestrian detection expansion method based on image retrieval with color moment features due to R-CNN's requirements of large number of training samples to avoid overfitting. Consequently, the final average miss rate is greatly reduced to 23% in the INRIA pedestrian detection dataset, which is much (23%) lower than that of original HOG (46%).
+
+

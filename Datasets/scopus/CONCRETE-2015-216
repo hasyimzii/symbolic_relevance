@@ -1,0 +1,10 @@
+
+Optimization of reinforced concrete retaining walls via hybrid firefly algorithm with upper bound strategy
+
+
+
+
+ 
+© 2015 Korean Society of Civil Engineers and Springer-Verlag Berlin Heidelberg This paper represents a novel hybrid optimization method that uses an improved firefly algorithm with a harmony search algorithm (IFA-HS), for optimizing the cost of reinforced concrete retaining walls. The IFA-HS is utilized to find an economical design adhering to ACI 318-05 provisions. Two design examples regarding retaining walls are optimized using the proposed hybrid method, and the optimization results confirm the validity and efficiency of the developed algorithm. The IFA-HS method offers improvements on the recently developed firefly algorithm. These improvements include utilizing the memory that contains information extracted online during a search, employing pitch adjusting operation of HS during firefly updates, and modifying the movement phase of the FA. Moreover, to decrease the computational effort of the IFA-HS, the upper bound strategy, which is a recently developed strategy for reducing the total number of structural analyses, is incorporated during the optimization process.
+
+

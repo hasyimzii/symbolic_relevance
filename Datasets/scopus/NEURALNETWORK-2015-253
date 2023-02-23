@@ -1,0 +1,10 @@
+
+Intrusion detection using artificial neural networks with best set of features
+
+
+
+
+ 
+© 2015, Zarka Private Univ. All rights reserved. An Intrusion Detection System (IDS) monitors the behavior of a given environment and identifies the activities are malicious (intrusive) or legitimate (normal) based on features obtained from the network traffic data. In the proposed method, instead of considering all features for intrusion detection and wasting up the time in analyzing it, only the relevant feature for the particular attack is selected and intrusion detection is done with help of supervised learning Neural Network (NN). The feature selection is done with the help of information gain algorithm and genetic algorithm. The Multi Layer Perceptron (MLP) supervised NN is used to train the relevant features alone in our proposed system. This system improves the Detection Rate (DTR) for all types of attacks when compared to Intrusion detection system which uses all features and selected features using genetic algorithm with MLP NN as the classifier. Our proposed system results, in detecting intrusions with higher accuracy, especially for Remote to Local (R2L), User to Root (U2R) and Denial of Service (DoS) attacks.
+
+

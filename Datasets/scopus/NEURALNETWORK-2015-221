@@ -1,0 +1,10 @@
+
+Classification of Skeletal Wireframe Representation of Hand Gesture Using Complex-Valued Neural Network
+
+
+
+
+ 
+© 2014, Springer Science+Business Media New York. Complex-valued neural networks (CVNNs), that allow processing complex-valued data directly, have been applied to a number of practical applications, especially in signal and image processing. In this paper, we apply CVNN as a classification algorithm for the skeletal wireframe data that are generated from hand gestures. A CVNN having one hidden layer that maps complex-valued input to real-valued output was used, a training algorithm based on Levenberg Marquardt algorithm (CLMA) was derived, and a task to recognize 26 different gestures that represent English alphabet was given. The initial image processing part consists of three modules: real-time hand tracking, hand-skeletal construction, and hand gesture recognition. We have achieved; (1) efficient and accurate gesture extraction and representation in complex domain, (2) training of the CVNN utilising CLMA, and (3) providing a proof of the superiority of the aforementioned methods by utilising complex-valued learning vector quantization. A comparison with real-valued neural network shows that a CVNN with CLMA provides higher recognition performance, accompanied by significantly faster training. Moreover, a comparison of six different activation functions was performed and their utility is argued.
+
+

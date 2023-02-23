@@ -1,0 +1,10 @@
+
+Stochastic finite element reliability analysis of composite beams considering longitudinal slip
+
+
+
+
+ 
+© 2015, Editorial Board of Journal of Harbin Engineering. All right reserved. Steel-concrete composite beams are characterized by complex structure, material variety, and strong uncertainty, thus it is necessary to analyze them from the view of randomness. Based on the Newmark geometric model, considering the concrete slab, steel beams, and shear connectors as a whole element,and making use of the T.L. column incremental method, a nonlinear composite beam element model was developed by taking the longitudinal slip effect into consideration. Then, based on the model, and the characteristics of composite beams, structural response gradients of composite beams were obtained by the direct differentiation method (DDM), while the reliability index was achieved using the FORM method. For proof of reliability, an example steel-concrete composite beam was analyzed by the stochastic finite element program. The results show that, for practical engineering, it does not need a completely rigid connection to ensure structural reliability. However for security, it is necessary to consider geometric nonlinearity in the calculation of structure reliability.
+
+

@@ -1,0 +1,10 @@
+
+Automatic classification of skin lesions using geometrical measurements of adaptive neighborhoods and local binary patterns
+
+
+
+
+ 
+© 2015 IEEE. This paper introduces a method for characterizing and classifying skin lesions in dermoscopic color images with the goal of detecting which ones are melanoma (cancerous lesions). The images are described by means of the Local Binary Patterns (LBPs) computed on geometrical feature maps of each color component of the image. These maps are extracted from geometrical measurements of the General Adaptive Neighborhoods (GAN) of the pixels. The GAN of a pixel is a region surrounding it and fitting its local image spatial structure. The performance of the proposed texture descriptor has been evaluated by means of an Artificial Neural Network, and it has been compared with the classical LBPs. Experimental results using ROC curves show that the GAN-based method outperforms the classical one and the dermatologists' predictions.
+
+

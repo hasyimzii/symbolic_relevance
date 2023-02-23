@@ -1,0 +1,10 @@
+
+A non-standard view on artificial neural networks
+
+
+
+
+ 
+© 2015 Elsevier B.V. In the paper first the two main learning strategies of the artificial neural networks (ANNs), the error-back propagation (EBP) and Kohonen self-organizing maps (SOM) are briefly described. Next, two nonstandard network layouts of the ANNs (bottle-neck and pyramidal decision tree) one for each of both learning strategies are suggested. In the last part, the use of counter-propagation (CP) ANN for handling chemical structures in QSAR modeling, classification and clustering is discussed. These concepts are of particular interest for the computer-aided drug research and in computer-aided toxicology. In the case study the results of fish toxicity research are described.
+
+

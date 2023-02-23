@@ -1,0 +1,10 @@
+
+Learning to grasp and extract affordances: the Integrated Learning of Grasps and Affordances (ILGA) model
+
+
+
+
+ 
+© 2015 The Author(s) The activity of certain parietal neurons has been interpreted as encoding affordances (directly perceivable opportunities) for grasping. Separate computational models have been developed for infant grasp learning and affordance learning, but no single model has yet combined these processes in a neurobiologically plausible way. We present the Integrated Learning of Grasps and Affordances (ILGA) model that simultaneously learns grasp affordances from visual object features and motor parameters for planning grasps using trial-and-error reinforcement learning. As in the Infant Learning to Grasp Model, we model a stage of infant development prior to the onset of sophisticated visual processing of hand–object relations, but we assume that certain premotor neurons activate neural populations in primary motor cortex that synergistically control different combinations of fingers. The ILGA model is able to extract affordance representations from visual object features, learn motor parameters for generating stable grasps, and generalize its learned representations to novel objects.
+
+

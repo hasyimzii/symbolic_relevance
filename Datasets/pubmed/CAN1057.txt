@@ -1,0 +1,2 @@
+Quality control in steroid hormone receptor assays.
+This report discusses the sources of variance that can occur in the quantitation  of receptors and summarizes how a suitable control program can be established. Variance is defined as the discrepancy in analytical results when assays are performed on the same material.

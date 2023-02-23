@@ -1,0 +1,10 @@
+
+Cognitive closed access femtocell application using multi-element antenna
+
+
+
+
+ 
+© 2015, Islam et al.; licensee Springer. In this paper, a cognitive closed access multi-element antenna-specific femtocell protocol is presented. Femtocell is considered as the preeminent solution for indoor coverage in long-term evaluation (LTE) and LTE-advanced networks. The protocol is verified using a patch antenna for LTE network. In a vast deployment of this mini base station, unwanted handover event is considered as the major obstacle. Access control mechanism with coverage-optimized antenna pattern is one of the most promising solution to resolve this obstacle. A previously proposed microstrip four-element femtocell configuration is used to analyze the performance in user categorizing technique for closed access femtocell network. The categorization is performed using multi-layer feed forward network in neural network. The performance of the technique shows an inherent relationship between completeness of training data and error percentage. Sufficiently low error rates can be achieved by presenting about 15 training samples.
+
+

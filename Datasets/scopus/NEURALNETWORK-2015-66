@@ -1,0 +1,10 @@
+
+Adaptive Output Neural Network Control for a Class of Stochastic Nonlinear Systems With Dead-Zone Nonlinearities
+
+
+
+
+ 
+This paper investigates the problem of adaptive output neural network (NN) control for a class of stochastic nonaffine and nonlinear systems with actuator dead-zone inputs. First, based on the intermediate value theorem, a novel design scheme that converts the nonaffine system into the corresponding affine system is developed. In particular, the priori knowledge of the bound of the derivative of the nonaffine and nonlinear functions is removed; then, by employing NNs to approximate the appropriate nonlinear functions, the corresponding adaptive NN tracking controller with the adjustable parameter updated laws is designed through a backstepping technique. Furthermore, it is shown that all the closed-loop signals are bounded in probability, and the system output tracking error can converge to a small neighborhood in the sense of a mean quartic value. Finally, experimental simulations are provided to demonstrate the efficiency of the proposed adaptive NN tracking control method.
+
+

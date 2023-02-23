@@ -1,0 +1,10 @@
+
+R1 correction in amide proton transfer imaging: Indication of the influence of transcytolemmal water exchange on CEST measurements
+
+
+
+
+ 
+© 2015 John Wiley & Sons, Ltd. Amide proton transfer (APT) imaging may potentially detect mobile proteins/peptides non-invasively in vivo, but its specificity may be reduced by contamination from other confounding effects such as asymmetry of non-specific magnetization transfer (MT) effects and spin-lattice relaxation with rate R1 (=1/T1). Previously reported spillover, MT and R1 correction methods were based on a two-pool model, in which the existence of multiple water compartments with heterogeneous relaxation properties in real tissues was ignored. Such simple models may not adequately represent real tissues, and thus such corrections may be unreliable. The current study investigated the effectiveness and accuracy of correcting for R1 in APT imaging via simulations and in vivo experiments using tumor-bearing rats subjected to serial injections of Gd-DTPA that produced different tissue R1 values in regions of blood-brain-barrier breakdown. The results suggest that conventional measurements of APT contrast (such as APT* and MTRasym) may be significantly contaminated by R1 variations, while the R1-corrected metric AREX* was found to be relatively unaffected by R1 changes over a broad range (0.4-1 Hz). Our results confirm the importance of correcting for spin-lattice relaxation effects in quantitative APT imaging, and demonstrate the reliability of using the observed tissue R1 for corrections to obtain more specific and accurate measurements of APT contrast in vivo. The results also indicate that, due to relatively fast transcytolemmal water exchange, the influence of intra- and extracellular water compartments on CEST measurements with seconds long saturation time may be ignored in tumors.
+
+

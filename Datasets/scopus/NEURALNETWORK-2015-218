@@ -1,0 +1,10 @@
+
+Receding Horizon Stabilization and Disturbance Attenuation for Neural Networks with Time-Varying Delay
+
+
+
+
+ 
+© 2013 IEEE. This paper is concerned with the problems of receding horizon stabilization and disturbance attenuation for neural networks with time-varying delay. New delay-dependent conditions on the terminal weighting matrices of a new finite horizon cost functional for receding horizon stabilization are established for neural networks with time-varying or time-invariant delays using single-and double-integral Wirtinger-type inequalities. Based on the results, delay-dependent sufficient conditions for the receding horizon disturbance attenuation are given to guarantee the infinite horizon H∞ performance of neural networks with time-varying or time-invariant delays. Three numerical examples are provided to illustrate the effectiveness of the proposed approach.
+
+

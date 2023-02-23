@@ -1,0 +1,10 @@
+
+Sensitivity of automatic speaker identification to SVD digital audio watermarking
+
+
+
+
+ 
+© 2015, Springer Science+Business Media New York. This paper proposes the utilization of SVD digital audio watermarking to increase the security of automatic speaker identification (ASI) systems and presents a study for the effect of watermarking on the ASI system performance. The SVD audio watermarking algorithm can be implemented on audio signals in time domain or in another appropriate transform domain and can be applied to the audio signal as a whole or on a segment-by-segment basis. The speaker recognition system works by generating a database of speaker’s features using the MFCCs and polynomial shape coefficients extracted from each speaker after they are lexicographically ordered into 1-D signals. A matching process is performed for any new speaker to determine if he is belonging to the database or not, using a trained neural network. Experimental results show that the SVD audio watermarking doesn’t degrade the ASI system performance severely. So, it can be used with ASI to increase security. Also, it was shown the segment by segment watermarking in the time domain achieves the highest detectability of the watermark. So, we can say that it is recommended to use SVD segment by segment audio watermarking with ASI systems implementing features extracted from the DCT or the DWT.
+
+

@@ -1,0 +1,10 @@
+
+Predicting menopausal symptoms with artificial neural network
+
+
+
+
+ 
+© 2015 Elsevier Ltd. All rights reserved. The menopausal period constitutes a challenging transition time for women's health. Menopausal women suffer from varying symptoms, which affect their life quality in different degrees. This study focuses on menopausal symptoms and risk factors. In order to predict the severity of menopausal symptoms (measured by the KMI score), we propose an artificial neural network model. Menopausal samples were collected from some hospital for this study. We figured out nine potential risk factors as the inputs, which included age, educational background, employment status, monthly income, body mass index, age at menarche, parity, contraceptive and chronic disease. KMI score was considered as the output. The network was optimized with changes to training algorithm, network structure and percentage of training samples. We also compared the artificial neural network with statistical analysis in the fitting accuracy. Sensitivity study was then carried out to identify the factors which have significant impact on KMI score. Finally, the contributions, limitations and future work were summarized. This study provides useful information for the clinical practice.
+
+

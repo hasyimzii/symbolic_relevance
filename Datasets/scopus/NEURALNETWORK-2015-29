@@ -1,0 +1,10 @@
+
+Using the periodic wavelet descriptor of plant leaf to identify plant species
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York Plant species identification is one of the most important research branches of botanical science. In this paper, a novel shape descriptor, namely Periodic Wavelet Descriptor (PWD) of plant leaf, is firstly presented. Then based on the PWDs of the leaves of different plant species, we constructed a database of PWDs. At last, a Back Propagation Neural Network (BPNN) is trained to fulfill the experiment of plant species identification. The experimental results show that the proposed algorithm combined the PWD of plant leaf with BPNN is effective with a correct identification rate about 90 %.
+
+

@@ -1,0 +1,10 @@
+
+A computational model for predicting local distortion visibility via convolutional neural network trainedon natural scenes
+
+
+
+
+ 
+© 2015 IEEE. A crucial requirement for modern image coding is the ability to accurately and efficiently predict the local visibility of coding artifacts. Such predictions could help guide the allocation of bits or the determination of quality for each spatial region. This paper presents a convolutional-neural-network-based (CNN-based) model to predict local distortion visibility in natural scenes. Although CNNs have recently emerged as a powerful tool for many computer vision applications due to its deep learning abilities and computational efficiency, CNNs have never been tested for predicting continuous values such as visibility thresholds. We optimized the model's parameters on our recently published large dataset on local masking in natural scenes [Alam et al., Journal of Vision, 2014]. Testing results demonstrate that our CNN-based model: (1) can indeed succeed in this task; (2) can more accurately predict thresholds than modern gain-control-based models; (3) is competitive in terms of prediction accuracy with a gain-control model tuned to the same dataset; and (4) is significantly more computationally efficient than modern gain-controls models.
+
+

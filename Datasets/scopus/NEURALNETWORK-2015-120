@@ -1,0 +1,10 @@
+
+Spatial matching of sketches without point correspondence
+
+
+
+
+ 
+© 2015 IEEE. Matching hand drawn sketches is an attractive topic in image understanding and potentially has many applications. Previous sketch matching algorithms often rely on extracted feature points and their correspondence. However, the nature of hand drawn sketches, such as lack of constraints and having significantly large variations, makes the matching task extremely challenging. In this paper, we propose a metric learning method to match hand drawn sketches without explicitly localizing the feature points. We train a Siamese Convolutional Neural Network (CNN) with pure convolutional layers to represent the sketch features. This allows us to benefit from the rich representative power of CNN, as well as to preserve the spatial information of features. We evaluated the sketch retrieval performance of our model on a large dataset. Experiment results showed the effectiveness of our model.
+
+

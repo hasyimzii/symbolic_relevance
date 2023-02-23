@@ -1,0 +1,10 @@
+
+Combining granular computing and RBF neural network for process planning of part features
+
+
+
+
+ 
+© 2015, Springer-Verlag London. As an essential element in the overall process planning of a part, process planning of part features plays an important role in machining quality and productivity. Through the analysis for disadvantages of the previous methods based on rule (knowledge) base or back-propagation neural network (BPNN), a novel process planning methodology of part features is proposed on the basis of the integration between granular computing (GrC) and radial basis function neural network (RBFNN). Firstly, the similarity between training samples under the input vectors is calculated according to the weighted Euclidean distances. Secondly, in accordance with the theory of fuzzy tolerance quotient space, which is one of the theoretical models of GrC, granulation of the training samples is fulfilled, and a series of process information granular layers with different granularity composed of the different number of process information granules are constructed. Afterwards, depending on the divisions of training samples under the desired output vectors, Shannon information entropy algorithm is used to measure the granularity of a succession of granular layers, by which an optimal process information granular layer is determined. Finally, in terms of the number and distribution of the process information granules in the optimal granular layer, two crucial parameters of the hidden layer in RBFNN including the number of Gaussian functions and the corresponding centers are reasonably determined. An application example of hole feature demonstrates that RBFNN is superior to BPNN in the convergence speed, training accuracy as well as generalization ability, and meanwhile the proposed GrC-RBFNN is capable of planning more exact process routes of part features than RBFNN without increasing its scale and complexity.
+
+

@@ -1,0 +1,2 @@
+Computerized three dimensional stereotaxic removal of small central nervous system lesions in patients.
+The authors describe the results of their recently reported computer based stereotaxic surgical technique for the indentification, enhancement, three dimensional reconstruction, localization, and removal of small central nervous system lesions. This technique has been applied to patients with various types of central nervous system pathology, and representative cases are reported.

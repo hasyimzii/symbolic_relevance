@@ -1,0 +1,10 @@
+
+Facial landmark detection via cascade multi-channel convolutional neural network
+
+
+
+
+ 
+© 2015 IEEE. This paper presents a novel cascade multi-channel convolutional neural networks(CMC-CNN) approach for face alignment. Several CNN are jointly used for the finally output. In our method, each stage CNN takes the local region around the landmarks as input, and each local patches does convolution separately, which can lead network to learn local high-level features. Then a fully connected layer is put to learn global information from these local features. Our methods has achieves the state-of-the-art results when tested on the 300 Face in-the-Wild(300-W) dataset.
+
+

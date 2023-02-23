@@ -1,0 +1,10 @@
+
+Analysis of the FnrL regulon in Rhodobacter capsulatus reveals limited regulon overlap with orthologues from Rhodobacter sphaeroides and Escherichia coli
+
+
+
+
+ 
+© 2015 Kumka and Bauer. Background: FNR homologues constitute an important class of transcription factors that control a wide range of anaerobic physiological functions in a number of bacterial species. Since FNR homologues are some of the most pervasive transcription factors, an understanding of their involvement in regulating anaerobic gene expression in different species sheds light on evolutionary similarity and differences. To address this question, we used a combination of high throughput RNA-Seq and ChIP-Seq analysis to define the extent of the FnrL regulon in Rhodobacter capsulatus and related our results to that of FnrL in Rhodobacter sphaeroides and FNR in Escherichia coli. Results: Our RNA-seq results show that FnrL affects the expression of 807 genes, which accounts for over 20 % of the Rba. capsulatus genome. ChIP-seq results indicate that 42 of these genes are directly regulated by FnrL. Importantly, this includes genes involved in the synthesis of the anoxygenic photosystem. Similarly, FnrL in Rba. sphaeroides affects 24 % of its genome, however, only 171 genes are differentially expressed in common between two Rhodobacter species, suggesting significant divergence in regulation. Conclusions: We show that FnrL in Rba. capsulatus activates photosynthesis while in Rba. sphaeroides FnrL regulation reported to involve repression of the photosystem. This analysis highlights important differences in transcriptional control of photosynthetic events and other metabolic processes controlled by FnrL orthologues in closely related Rhodobacter species. Furthermore, we also show that the E. coli FNR regulon has limited transcriptional overlap with the FnrL regulons from either Rhodobacter species.
+
+

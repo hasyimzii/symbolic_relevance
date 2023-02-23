@@ -1,0 +1,10 @@
+
+Artificial neural network based graphical user interface for steel fibre reinforced concrete flexural member
+
+
+
+
+ 
+With this study, an effort is made to create a neural network based on the already available experimental data of Flexural behaviour of Steel fibre reinforced concrete. A Graphical-user-interface (GUI) is also developed which can be used to run the neural network easily without having knowledge about neural networks. 10 Feed-forward-back-propagation neural networks with seven input and one output parameters and with different network architectures were made and were trained for 500 cycles with training set of normalised 161 readings. After testing with 44 readings, the network with least error was taken further for GUI development.
+
+

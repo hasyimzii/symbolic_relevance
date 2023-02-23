@@ -1,0 +1,10 @@
+
+Computational metallomics of the anticancer drug cisplatin
+
+
+
+
+ 
+© 2015 Elsevier Inc. Cisplatin, cis-diamminedichlorido-platinum(II), is an important therapeutic tool in the struggle against different tumors, yet it is plagued with the emergence of resistance mechanisms after repeated administrations. This hampers greatly its efficacy. Overcoming resistance problems requires first and foremost an integrated and systematic understanding of the structural determinants and molecular recognition processes involving the drug and its cellular targets. Here we review a strategy that we have followed for the last few years, based on the combination of modern tools from computational chemistry with experimental biophysical methods. Using hybrid Quantum Mechanics/Molecular Mechanics (QM/MM) simulations, validated by spectroscopic experiments (including NMR, and CD), we have worked out for the first time at atomic level the structural determinants in solution of platinated cellular substrates. These include the copper homeostasis proteins Ctr1, Atox1, and ATP7A. All of these proteins have been suggested to influence the pre-target resistance mechanisms. Furthermore, coupling hybrid QM/MM simulations with classical Molecular Dynamics (MD) and free energy calculations, based on force field parameters refined by the so-called "Force Matching" procedure, we have characterized the structural modifications and the free energy landscape associated with the recognition between platinated DNA and the protein HMGB1, belonging to the chromosomal high-mobility group proteins HMGB that inhibit the repair of platinated DNA. This may alleviate issues relative to on-target resistance process. The elucidation of the mechanisms by which tumors are sensitive or refractory to cisplatin may lead to the discovery of prognostic biomarkers. The approach reviewed here could be straightforwardly extended to other metal-based drugs.
+
+

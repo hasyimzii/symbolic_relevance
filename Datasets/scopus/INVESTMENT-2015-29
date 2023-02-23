@@ -1,0 +1,10 @@
+
+A lattice-based model to evaluate variable annuities with guaranteed minimum withdrawal benefits under a regime-switching model
+
+
+
+
+ 
+© 2015 Taylor & Francis We consider the problem of evaluating variable annuities with a guaranteed minimum withdrawal benefit under a regime-switching model. We propose a trinomial lattice model to approximate the evolution of the investment fund value and the policy value at inception is computed through a backward induction scheme. Finally, the insurance fee is computed as the solution of the equation that makes the contract actuarially fair. Numerical results are reported to illustrate the consistency of the proposed model.
+
+

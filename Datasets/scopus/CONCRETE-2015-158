@@ -1,0 +1,10 @@
+
+Simulation of analysis model based on Hillnger-Reissner variation for square concrete-filled steel tube column
+
+
+
+
+ 
+© 2015, Editorial Departmentof CJAM. All right reserved. Currently, the nonlinear analysis model for concrete-filled steel tube column is not perfect. The displacement-based element of general finite element program is usually used to simulate the members, in which the cubic Hermitian shape function of displacement-based element can not exactly simulate the displacement model of members during nonlinear state. On this account, study on the nonlinear analysis method based Hillinger-Reissner variation is carried out, and a mixed element model considering geometric and material nonlinear analysis is established. The mixed element model combined fiber section is implemented with open resource finite element program OpenSees for nonlinear analysis. Reasonable square concrete-filled steel tube constitutive models are used for numerical simulation of square concrete-filled steel tube columns under monastic loads and cyclic loads. Accuracy and efficiency of the mixed model is verified. It is demonstrated that the mixed model can simulate the strength and stiffness degradation, hysteretic energy dissipation of square concrete-filled steel tube column under dynamic loading modes.
+
+

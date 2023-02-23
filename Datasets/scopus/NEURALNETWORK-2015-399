@@ -1,0 +1,10 @@
+
+Orientation judgment for abstract paintings
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York Artists decide the orientation at which an abstract painting should be hung based on their ideas, but the correct orientation is not obvious to other viewers. Some studies have found that abstract paintings at the correct orientations generally get higher aesthetic ratings from viewers. This encourages us to deal with the problem of orientation judgment for abstract paintings through machine learning. First, we design a group of methods to extract features from paintings based on the theories in abstract art. Then a machine leaning framework is proposed using Naive Bayes classifier and BP neural network classifier for training and orientation testing. Experiments show that it can classify abstract paintings into up and non-up ones with performance comparable to human. This is the first work of orientation judgment for abstract paintings through computer simulation, and the results demonstrate the validity of abstract art theories used for feature definition. This work provides a new scheme for exploring the relationship between aesthetic quality of abstract paintings and their computational visual features.
+
+

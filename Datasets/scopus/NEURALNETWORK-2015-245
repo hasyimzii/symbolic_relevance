@@ -1,0 +1,10 @@
+
+Survey and evaluation of neural computation models for bio-integrated systems
+
+
+
+
+ 
+© 2015. Integrating neurobiological cultures with computer systems presents an opportunity to enhance computational energy efficiency. These Bio-Integrated Systems (BISs) require knowledge about structure and behavior of neural components and their interfacing. In the early design phases, modeling neurons offers cost, failure-free and retrial benefits compared to laboratory grown neural networks. The usefulness of these models lays in characteristics of being realistic but also computationally efficient.This survey reviews computational models of spiking neurons and their changes in connections, known as plasticity. The review studies models that are faithful to real neural cultures, and are computational efficient for real-time BISs. Also, criteria and methods for comparing models with 'in-vitro' experiments are reviewed to conclude on the level of realism of models in comparison with biological setups. Izhikevich's model of spiking neurons is recommended due to its accuracy in reproducing real neural firing patterns, computational efficiency, and ease of parameter adjustment. The model of Spike-timing dependent plasticity is recommended as current basis for representing neuron changes in connections. For the analysis of network connectivity and connectivity changes in BIS, the Cox method is recommended because it evaluates connections based on activities from all recorded neurons as opposed to pair-wise approaches.
+
+

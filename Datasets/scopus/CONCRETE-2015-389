@@ -1,0 +1,10 @@
+
+Shape optimisation of concrete open spandrel arch bridges | [Optimalizacija oblika lučnih mostova s otvorenim nadlučnim sklopom]
+
+
+
+
+ 
+An open spandrel arch bridge is analysed in this paper. A computer code is written to create a model from geometrical data, so as to solve the optimisation problem. An optimum design procedure is conducted in the paper, and the total material volume of the bridge substructure is adopted as an objective function. The substructure includes the column and the reinforced-concrete arch. Finally, the optimization technique is implemented using the Simultaneous Perturbation Stochastic Approximation algorithm.
+
+

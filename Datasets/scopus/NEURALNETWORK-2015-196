@@ -1,0 +1,10 @@
+
+Analytic neural network model of a wind turbine
+
+
+
+
+ 
+© 2014, Springer-Verlag Berlin Heidelberg. In this paper, an analytic neural network model is introduced for the modeling of the wind turbine behavior. The proposed hybrid method is the combination of the analytic and neural network models. The neural network model is used as a compensator to improve the approximation of the analytic model. It is guaranteed that the error of the analytic neural network model is smaller than the error of the analytic model. Two experiments show the effectiveness of the proposed technique.
+
+

@@ -1,0 +1,10 @@
+
+A TIME-VARYING MARKOV-SWITCHING MODEL FOR ECONOMIC GROWTH
+
+
+
+
+ 
+Copyright © Cambridge University Press 2015 This paper investigates patterns of variation in economic growth across and within countries using a time-varying transition matrix Markov-switching approach. The model developed here explains the dynamics of growth based on a collection of different states that countries pass into and out of over time; in addition, these states are characterized by their own submodels and growth patterns. The transition matrix among the different states varies over time—depending on the conditioning variables of each country—with a linear dynamic for each state. We develop a generalization of Diebold's EM algorithm and estimate a sample model in a panel with a transition matrix conditioned on institutional quality and the investment level. We find three states of growth: stable growth, miraculous growth, and stagnation. The results show that institutional quality is an important determinant of long-term growth, whereas the investment level plays a variety of roles: it contributes positively in countries with high-quality institutions but is of little relevance in countries with medium- or low-quality institutions.
+
+

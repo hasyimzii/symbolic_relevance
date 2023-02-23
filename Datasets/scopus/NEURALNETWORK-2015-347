@@ -1,0 +1,10 @@
+
+An efficient projection neural network for solving bilinear programming problems
+
+
+
+
+ 
+© 2015. In this paper the application of projection neural network for solving bilinear programming problems (BLPs) is obtained. So far as we know, no study has yet been attempted for these problems via neural network. In fact, some interesting reformulations of BLP and mixed-integer bilinear programming problem (MIBLP) with a binary vector to linear complementarity problem (LCP) are given. Additionally, we show that the special type of MIBLP with a binary vector is equal to a quadratic program and on the other hand, it is equal to a mixed-integer linear program (MILP). Finally, we use a neural network to solve projection equation which has the same solution with LCP. Then, by presenting a Lyapunov function, we show that the proposed neural network is globally asymptotically stable. Illustrative examples are given to show the effectiveness and efficiency of our method.
+
+

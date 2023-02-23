@@ -1,0 +1,2 @@
+Accommodating change due to treatment in the method of back projection for estimating HIV infection incidence.
+This note shows how the method of back projection, which is being widely applied  to predict the incidence of HIV infection, can be extended to incorporate distributional changes due to a treatment effect, such as zidovudine (commonly known as AZT). By way of example we consider one of the approaches to back projection and apply the method to some Australian data.

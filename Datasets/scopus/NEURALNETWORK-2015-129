@@ -1,0 +1,10 @@
+
+Difference of Gaussian statistical features based blind image quality assessment: A deep learning approach
+
+
+
+
+ 
+© 2015 IEEE. Nowadays, natural scene statistics (NSS) based blind image quality assessment (BIQA) models trained by machine learning, tend to achieve excellent performance. However, BIQA is still a very challenging research topic due to the lack of reference images. The key of further improvement lies in feature mining and pooling strategy decision. In this work, a new BIQA model is proposed to utilize local normalized multi-scale difference of Gaussian (DoG) response in distorted images as features which show a high correlation with perceptual quality. Then, a three-step-framework based deep neural network (DNN) is designed and employed as the pooling strategy. Compared with the support vector machine (SVM), the proposed three-step-framework DNN can excavate better feature representation, leading to more accurate predictions and stronger generalization ability. The proposed model achieves state-of-the-art performance on two authoritative databases and excellent generalization ability in cross database experiments.
+
+

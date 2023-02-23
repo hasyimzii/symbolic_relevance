@@ -1,0 +1,10 @@
+
+Neural network ensemble-based parameter sensitivity analysis in civil engineering systems
+
+
+
+
+ 
+© 2015 The Natural Computing Applications Forum The use of artificial neural networks for parameter sensitivity analysis in civil engineering systems is an emerging research focus of increased interest. Existing methods are generally based on a single neural network, but are inadequate as a basis for parameter sensitivity analysis because of the instability of a single neural network. To address this deficiency, this study develops a neural network ensemble-based parameter sensitivity analysis paradigm. This paradigm features use of a set of preselected superior neural networks to make decisions about parameter sensitivity by synthesizing sensitivity analysis results of individual neural networks. The proposed paradigm is employed to address two classic civil engineering problems: (1) identification of critical parameters in the fracture failure of notched concrete beams and (2) recognition of the most significant parameters in the lateral deformation of deep foundation pits. The results show that tensile strength and modulus of elasticity are the critical parameters in the fracture failure of the notched concrete beam, and elasticity modulus of soil, Poisson’s ratio and soil cohesion are the most significant influential factors in the lateral deformation of the deep foundation pit. The proposed method provides a common paradigm for analysing the sensitivity of influential parameters, shedding light on the underlying mechanisms of civil engineering systems.
+
+

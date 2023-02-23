@@ -1,0 +1,10 @@
+
+A process prediction model based on Cuckoo algorithm for abrasive waterjet machining
+
+
+
+
+ 
+© 2013, Springer Science+Business Media New York. Cuckoo is a new evolutionary algorithm which is inspired by lifestyle of bird family. This study proposes Cuckoo algorithm for prediction of the surface roughness of Abrasive Water Jet (AWJ). Several prediction models with different initial eggs were developed and analyzed to investigate the best predicted surface roughness value. The paired sample t-test was used to demonstrate the validity of the results. Throughout this study, it was evidence that the Cuckoo algorithm could improve machining performances of the AWJ. The result shows that the more initial eggs were considered, a much lower predicted value of surface roughness was obtained. When the initial eggs increase, the value of the best parameters become nearer to the goal point. It was found that Cuckoo algorithm is capable for giving an improved surface roughness as it outperformed the results of two established computational techniques, artificial neural network and support vector machine.
+
+

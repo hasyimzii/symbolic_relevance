@@ -1,0 +1,10 @@
+
+Fast learning discriminative dictionaries for large-scale visual recognition
+
+
+
+					
+ 
+© 2015 IEEE. In this paper, we aim at improving the discriminative jointly dictionaries for large-scale image classification. Sparse representation is a popular tool for image classification. Visual dictionary is very critical to the classification performance. A visual tree is constructed according to the visual similarity, in which the higher layer represents the coarser membership and the lower layer represents the finer membership. Jointly dictionary is learned according to the visual tree. Bregman iterative algorithm is implemented to solve the optimal problem of joint dictionary learning, which makes the solution accurate and the running speed fast. Furthermore, we try to implement the pre-trained features learned from the convolution neural network (CNN) to represent an image, and the residual error of the sparse representation is utilized for image classification. The experimental results demonstrate that the CNN feature is more distinct than SIFT, and the hierarchical classification framework with the Bregman iteration algorithm can greatly improve the performance of classification.
+
+

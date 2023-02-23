@@ -1,0 +1,10 @@
+
+3D mesh labeling via deep convolutional neural networks
+
+
+
+
+ 
+© 2015 Copyright held by Owner/Author(s). This article presents a novel approach for 3D mesh labeling by using deep Convolutional Neural Networks (CNNs). Many previous methods on 3D mesh labeling achieve impressive performances by using predefined geometric features. However, the generalization abilities of such low-level features, which are heuristically designed to process specific meshes, are often insufficient to handle all types of meshes. To address this problem, we propose to learn a robust mesh representation that can adapt to various 3D meshes by using CNNs. In our approach, CNNs are first trained in a supervised manner by using a large pool of classical geometric features. In the training process, these low-level features are nonlinearly combined and hierarchically compressed to generate a compact and effective representation for each triangle on the mesh. Based on the trained CNNs and the mesh representations, a label vector is initialized for each triangle to indicate its probabilities of belonging to various object parts. Eventually, a graph-based mesh-labeling algorithm is adopted to optimize the labels of triangles by considering the label consistencies. Experimental results on several public benchmarks show that the proposed approach is robust for various 3D meshes, and outperforms state-of-the-art approaches as well as classic learning algorithms in recognizing mesh labels.
+
+

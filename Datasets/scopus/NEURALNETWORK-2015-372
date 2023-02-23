@@ -1,0 +1,10 @@
+
+Gender identification and performance analysis of speech signals
+
+
+
+
+ 
+© 2015 IEEE. Speech is an important means of communication. Gender is the most significant characteristic of speech. Pitch is commonly used feature for gender classification as it differs in male and female voice. But this method is not applicable in cases where pitch of male and female is almost the same. In this paper the above limitations are rectified by extracting other features like Mel Frequency Cepstral Coefficient (MFCC), energy entropy and frame energy estimation from real time male and female voices. The gender classification is done by using Artificial Neural Network (ANN) and Support Vector Machines (SVM). The features extracted from the same word spoken by male and female are compared and classified. Likewise, speaker saying different words are related and gender is categorized indicating that the features considered are content independent. The experimental results show that SVM classification performed better than ANN in the gender identification of speech using the same features.
+
+

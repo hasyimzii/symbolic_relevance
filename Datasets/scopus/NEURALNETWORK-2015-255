@@ -1,0 +1,10 @@
+
+Development and Implementation of a Wheeled Inverted Pendulum Vehicle Using Adaptive Neural Control with Extreme Learning Machines
+
+
+
+
+ 
+© 2015, Springer Science+Business Media New York. A novel neural control on basis of extreme learning machines (ELMs) is proposed to control wheeled inverted pendulum vehicle, which is a human transportation platform mounted on two coaxial wheels. A dynamic self-balancing control scheme for such vehicle is constructed which depends on the single-hidden layer feedforward network approximation capability of combing ELMs to capture vehicle dynamics. It is superior to conventional intelligent control by using extreme learning machines since the proposed neural control adjusts the output weight parameters online on basis of the Lyapunov synthesis approach. Experimental results are provided to demonstrate that the vehicle can maintain upright posture stably with the external disturbances based on the proposed control scheme.
+
+

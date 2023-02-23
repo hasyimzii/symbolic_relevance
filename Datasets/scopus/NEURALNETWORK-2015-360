@@ -1,0 +1,10 @@
+
+Decentralized control for stabilization of nonlinear multi-agent systems using neural inverse optimal control
+
+
+
+
+ 
+© 2015 Elsevier B.V. This paper proposes a decentralized control for stabilization of nonlinear multi-agent systems using neural inverse optimal control. This approach consists in synthesizing a suitable controller for each agent; accordingly, each local subsystem is approximated by an identifier using a discrete-time recurrent high order neural network (RHONN), trained with an extended Kalman filter (EKF) algorithm. The neural identifier scheme is used to model each uncertain nonlinear subsystem, and based on this neural model and the knowledge of a control Lyapunov function, then an inverse optimal controller is synthesized to avoid solving the Hamilton Jacobi Bellman (HJB) equation.
+
+

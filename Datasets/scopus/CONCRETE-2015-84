@@ -1,0 +1,10 @@
+
+Estimation of fiber orientation and fiber bundles of MDF
+
+
+
+
+ 
+© 2015 RILEM This paper presents numerical methods for the characterization of fiber orientation and fiber bundles of medium density wood fiberboards (MDF). The strength and stiffness of MDF is significantly affected by the fiber orientation and fiber bundles. Proposed methods and results are necessary to virtually generate realistic fiber networks and optimize MDF by using computer simulations. Based on 3D (Formula presented.)CT images for laboratory manufactured MDF with oriented fibers, the fiber orientation is calculated in two ways. Firstly, we use an image processing method based on Hessian matrix directly on (Formula presented.)CT image. Secondly, we computed the effective heat conductivity by solving PDEs on a segmentation of the (Formula presented.)CT image to estimate the fiber orientation. A fiber bundle segmentation method based on local fiber orientations is introduced. Fiber bundles, which are segmented by this method show good agreement with manually segmented ones. It was observed that fiber bundles are oriented in MDF plane with log-normal distribution of bundle length. The proposed methods are general and can be used also to calculate fiber orientation and segment fiber bundles in fiber concrete, paper, glass and carbon fiber composites.
+
+

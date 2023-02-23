@@ -1,0 +1,10 @@
+
+Cross-layer features in convolutional neural networks for generic classification tasks
+
+
+
+
+ 
+© 2015 IEEE. Recent works about convolutional neural networks (CNN) show breakthrough performance on various tasks. However, most of them only use the features extracted from the topmost layer of CNN instead of leveraging the features extracted from different layers. As the first group which explicitly addresses utilizing the features from different layers of CNN, we propose cross-layer CNN features which consist of the features extracted from multiple layers of CNN. Our experimental results show that our proposed cross-layer CNN features outperform not only the state-of-the-art results but also the features commonly used in the traditional CNN framework on three tasks - artistic style, artist, and architectural style classification. As shown by the experimental results, our proposed cross-layer CNN features achieve the best known performance on the three tasks in different domains, which makes our proposed cross-layer CNN features promising solutions for generic tasks.
+
+

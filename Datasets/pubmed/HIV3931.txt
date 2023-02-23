@@ -1,0 +1,2 @@
+Synthesis of N substituted 3' amino 3' deoxythymidines and their biological evaluation against HIV.
+Treatment of 3' amino 3' deoxythymidine (1) with carboxylic acid anhydrides afforded the corresponding acylamino derivatives 2a f. Reaction of 1 with a variety of isothiocyanates led to the corresponding thioureido derivatives 3a i. Also, conversion of 1 into 3' carbylamino 3' deoxythymidine (7) is reported. The compounds 2, 3, and 8 were evaluated for their anti HIV activity in MT 4 cells, but did not show sufficient efficacy.

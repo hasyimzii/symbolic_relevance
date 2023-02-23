@@ -1,0 +1,10 @@
+
+Adaptive anti-synchronization and H∞ anti-synchronization for memristive neural networks with mixed time delays and reaction-diffusion terms
+
+
+
+
+ 
+© 2015 Elsevier B.V. This paper firstly treats of the anti-synchronization of a class of memristor-based neural networks with mixed time delays and reaction-diffusion terms. An adaptive controller is designed such that the response system can be synchronized with the drive system by utilizing Lyapunov stability theory. Furthermore, the synchronization criteria derived in this paper are associated with the time switching. In addition, the H∞ anti-synchronization of memristive neural networks has been studied as well. Therefore, the results obtained in this paper are more general and extend the previous work. Finally, two numerical examples and their simulations are given to show the effectiveness of the obtained results.
+
+

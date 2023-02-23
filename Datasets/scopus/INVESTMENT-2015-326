@@ -1,0 +1,10 @@
+
+Theoretical Foundations of Asset Allocation and Pricing Models with Higher-order Moments
+
+
+
+
+ 
+© 2006 John Wiley & Sons Ltd. This chapter presents the theoretical foundations of multi-moment asset allocation and pricing models in an expected utility framework. The definition of a decision's criterion under uncertainty is a prerequisite for the derivation of an equilibrium asset pricing relation. multi-moment asset allocation and pricing models assume that investors determine their investment by taking into account only the first N moments of the portfolio return distribution. This chapter, using an infinite-order Taylor series expansion, recalls the link between the expected utility and higher moments of the investment return distribution. Following the approach of Benishay and Rossi and Tibiletti, a quartic utility specification is developed to obtain an exact mean-variance-skewness-kurtosis decision criterion. The chapter presents the behavioural and distributional conditions under which the preference of a rational agent can be approximated by a fourth-order Taylor series expansion. The Taylor approach and the polynomial utility specification are then compared for justifying a moment-based decision criterion.
+
+

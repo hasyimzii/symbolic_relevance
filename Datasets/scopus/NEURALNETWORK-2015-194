@@ -1,0 +1,10 @@
+
+Spiking neural network vs multilayer perceptron: who is the winner in the racing car computer game
+
+
+
+
+ 
+© 2014, The Author(s). The paper presents two neural based controllers for the computer car racing game. The controllers represent two generations of neural networks—a multilayer perceptron and a spiking neural network. They are trained by an evolutionary algorithm. Efficiency of both approaches is experimentally tested and statistically analyzed.
+
+

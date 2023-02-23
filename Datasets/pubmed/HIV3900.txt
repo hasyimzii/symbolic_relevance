@@ -1,0 +1,2 @@
+Plus strand origin for human immunodeficiency virus type 1: implications for integration.
+The start site for human immunodeficiency virus type 1 plus strands within the polypurine tract was mapped by an in vitro analysis to the sequence 5' ACTG....From this result, it can be inferred that integration of human immunodeficiency virus type 1 must be accompanied by the loss of two base pairs from the polypurine tract primed long terminal repeat end.

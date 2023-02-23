@@ -1,0 +1,10 @@
+
+Finite time convergent wavelet neural network sliding mode control guidance law with impact angle constraint
+
+
+
+
+ 
+© 2015, Institute of Automation, Chinese Academy of Sciences and Springer-Verlag Berlin Heidelberg. This paper presents a novel guidance law to intercept non-maneuvering targets with impact angle and lateral acceleration command constraints. Firstly, we formulate the impact angle control to track the desired line-of-sight (LOS) angle, which is achieved by selecting the missile’s lateral acceleration to enforce the sliding mode on a sliding surface at impact time. Secondly, we use the Lyapunov stability theory to prove the stability and finite time convergence of the proposed nonlinear sliding surface. Thirdly, we introduce the wavelet neural network (WNN) to adaptively update the additional control command and reduce the high-frequency chattering of sliding mode control (SMC). The proposed guidance law, denoted WNNSMC guidance law with impact angle constraint, combines the SMC methodology with WNN to improve the robustness and reduce the chattering of the system. Finally, numerical simulations are performed to demonstrate the validity and effectiveness of the WNNSMC guidance law.
+
+

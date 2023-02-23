@@ -1,0 +1,10 @@
+
+Blind inpainting using the fully convolutional neural network
+
+
+
+
+ 
+© 2015 Springer-Verlag Berlin Heidelberg Most of existing inpainting techniques require to know beforehandwhere those damaged pixels are, i.e., non-blind inpainting methods. However, in many applications, such information may not be readily available. In this paper, we propose a novel blind inpainting method based on a fully convolutional neural network. We term this method as blind inpainting convolutional neural network (BICNN). It purely cascades three convolutional layers to directly learn an end-to-end mapping between a pre-acquired dataset of corrupted/ground truth subimage pairs. Stochastic gradient descent with standard backpropagation is used to train the BICNN. Once the BICNN is learned, it can automatically identify and remove the corrupting patterns from a corrupted image without knowing the specific regions. The learned BICNN takes a corrupted image of any size as input and directly produces a clean output by only one pass of forward propagation. Experimental results indicate that the proposed method can achieve a better inpainting performance than the existing inpainting methods for various corrupting patterns.
+
+

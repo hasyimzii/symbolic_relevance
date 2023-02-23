@@ -1,0 +1,10 @@
+
+Endoreversible modeling of a PEM fuel cell
+
+
+
+
+ 
+© 2015 by De Gruyter. Fuel cells are known for high efficiencies in converting chemical energy into electrical energy. Nonetheless, the processes taking place in a fuel cell still possess a number of irreversibilities that limit the power output to values below the reversible limit. To analyze these, we developed a model that captures the main irreversibilities occurring inside a proton exchange membrane or polymer electrolyte membrane fuel cell. We used the methods of endoreversible thermodynamics, which enable us to study the entropy production of the different sources of irreversibility in detail. Additionally, performance measures like efficiency and power output can be calculated with such a model, and the influence of different parameters, such as temperature and pressure, can be easily investigated. The comparison of the model predictions with realistic fuel cell data shows that the functional dependencies of the fuel cell characteristics can be captured quite well.
+
+

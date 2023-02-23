@@ -1,0 +1,10 @@
+
+Randomized spatial pooling in deep convolutional networks for scene recognition
+
+
+
+
+ 
+© 2015 IEEE. The spatial layout of scene images is essential to recognizing them. Without considering spatial layout information, the deep convolutional neural networks could not achieve satisfied performance on scene recognition. In this paper a novel network architecture, namely the randomized spatial pooling (RS-Pooling) layer, is proposed to incorporate the spatial layout information into the deep model. By partitioning the feature maps via randomized patterns, the RS-Pooling layer offers the probability to handle various image layouts. Moreover, a maxout objective function is adopted to adaptively choose the optimal partition pattern to characterize the image layout. The experimental results on the scene recognition benchmarks demonstrate the effectiveness of the proposed RS-Pooling architecture.
+
+

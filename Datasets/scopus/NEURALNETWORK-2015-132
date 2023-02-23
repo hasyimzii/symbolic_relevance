@@ -1,0 +1,10 @@
+
+Color names learning using convolutional neural networks
+
+
+
+
+ 
+© 2015 IEEE. In this paper, we propose a two-stage CNN-based framework to learn color names from web images, aiming to predict color names for tiny image patches. To deal with the noisy labels widespread in web images, we propose a self-supervised CNN (SS-CNN) model in the first stage. The SS-CNN model is trained on image patches with their own color histograms as supervision information. Thus its outputs are able to reflect the color characteristics of images without the influence of the noisy labels. In the second stage, we finetune the SS-CNN model to learn the mapping from image patches to color names, where the patch labels are inherited from its father images. Besides, sample selection is imported iteratively in turns with the finetuning process, which helps filtering out some noisy samples and further improves the model accuracy. Our model shows high representation ability to colors and achieves better performance of color naming compared with the state-of-the-art methods.
+
+

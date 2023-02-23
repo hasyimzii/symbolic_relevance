@@ -1,0 +1,10 @@
+
+Diagnosing common skin diseases using soft computing techniques
+
+
+
+
+ 
+© 2015 SERSC. In today’s word skin diseases and lesions have become one among the most common diseases that people suffer across various age groups. Typical skin illnesses that people suffer throughout the world and more particularly in developing countries are Bacterial Skin infections, Fungal skin infection, Eczema and Scabies. Identification of the influential clinical symptoms that help in the diagnosis of these illnesses in early phase of the illness would aid in designing effective public health management. Keeping this as our main objective, this paper describes the two predictive models for our multiclass classification problem. The models are developed using popular soft computing techniques namely Artificial Neural Network and Support Vector Machine. These two approaches are applied on the multi class classification dataset and some comparative inferences are generated using F-scores.
+
+

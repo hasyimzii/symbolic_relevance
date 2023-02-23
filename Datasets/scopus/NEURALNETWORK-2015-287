@@ -1,0 +1,10 @@
+
+Model predictive control of pH neutralization processes: A review
+
+
+
+
+ 
+© 2015 Elsevier Ltd. The paper provides a review of the different approaches of Model Predictive Control (MPC) to deal with the nonlinearities and transient behavior associated with pH and its control. Firstly a description of the pH system and what makes it difficult to control is presented, followed by the general description of the structure of MPC. The different applications of MPC vary mostly in the way the model is described and how the optimization is carried out to obtain the desired control action. The different modeling techniques applied to the MPC, which is used to describe the behavior of the pH are ranging from simple linear models, multiple linear models like piecewise linear descriptions and fuzzy models, to nonlinear descriptions like Wiener models and the use of artificial neural networks. The models and their respective ways of application are reviewed. Finally, the areas where more research is needed are addressed.
+
+

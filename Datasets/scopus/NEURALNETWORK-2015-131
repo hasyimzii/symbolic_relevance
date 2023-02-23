@@ -1,0 +1,11 @@
+
+									 
+Cascade of classifiers based on binary, non-binary and deep convolutional network descriptors for video concept detection
+
+
+
+
+ 
+© 2015 IEEE. In this paper we propose a cascade architecture that can be used to train and combine different visual descriptors (local binary, local non-binary and Deep Convolutional Neural Network-based) for video concept detection. The proposed architecture is computationally more efficient than typical state-of-the-art video concept detection systems, without affecting the detection accuracy. In addition, this work presents a detailed study on combining descriptors based on Deep Convolutional Neural Networks with other popular local descriptors, both within a cascade and when using different late-fusion schemes. We evaluate our methods on the extensive video dataset of the 2013 TRECVID Semantic Indexing Task.
+
+

@@ -1,0 +1,10 @@
+
+Cerebellum-inspired neural network solution of the inverse kinematics problem
+
+
+
+
+ 
+© 2015, The Author(s). The demand today for more complex robots that have manipulators with higher degrees of freedom is increasing because of technological advances. Obtaining the precise movement for a desired trajectory or a sequence of arm and positions requires the computation of the inverse kinematic (IK) function, which is a major problem in robotics. The solution of the IK problem leads robots to the precise position and orientation of their end-effector. We developed a bioinspired solution comparable with the cerebellar anatomy and function to solve the said problem. The proposed model is stable under all conditions merely by parameter determination, in contrast to recursive model-based solutions, which remain stable only under certain conditions. We modified the proposed model for the simple two-segmented arm to prove the feasibility of the model under a basic condition. A fuzzy neural network through its learning method was used to compute the parameters of the system. Simulation results show the practical feasibility and efficiency of the proposed model in robotics. The main advantage of the proposed model is its generalizability and potential use in any robot.
+
+

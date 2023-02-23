@@ -1,0 +1,10 @@
+
+Delay-Dependent Exponential Synchronization of Recurrent Neural Networks with Multiple Proportional Delays
+
+
+
+
+ 
+© 2014, Springer Science+Business Media New York. The proportional delay is an unbounded time-varying delay, which is different from unbounded distributed delays. The neural networks system with proportional delays belongs to the category of proportional delayed differential equation, and the proportional delayed differential equation is a very important unbounded delay differential equation, which is widely used in many fields, such as light absorption in the star substance and nonlinear dynamic systems. This paper is concerned with the exponential synchronization problem of a class of chaotic neural networks with multiple proportional delays. A nonlinear transformation transforms the drive-response system with multiple proportional delays into the drive-response system with multiple constant delays and time-varying coefficients. By constructing appropriate Lyapunov functional, several new delay-dependent and decentralized control laws, which are related to the size of the proportional delay factors, are derived to achieve the exponential synchronization. The idea and approach developed in this paper can provide a more practical framework for the synchronization of chaotic systems with proportional delays. Two examples and their simulations are given to illustrate the effectiveness of the proposed method.
+
+

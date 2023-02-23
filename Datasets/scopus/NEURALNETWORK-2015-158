@@ -1,0 +1,10 @@
+
+Front-end technologies for robust ASR in reverberant environments—spectral enhancement-based dereverberation and auditory modulation filterbank features
+
+
+
+
+ 
+© 2015, Xiong et al. This paper presents extended techniques aiming at the improvement of automatic speech recognition (ASR) in single-channel scenarios in the context of the REVERB (REverberant Voice Enhancement and Recognition Benchmark) challenge. The focus is laid on the development and analysis of ASR front-end technologies covering speech enhancement and feature extraction. Speech enhancement is performed using a joint noise reduction and dereverberation system in the spectral domain based on estimates of the noise and late reverberation power spectral densities (PSDs). To obtain reliable estimates of the PSDs—even in acoustic conditions with positive direct-to-reverberation energy ratios (DRRs)—we adopt the statistical model of the room impulse response explicitly incorporating DRRs, as well in combination with a novel proposed joint estimator for the reverberation time T60 and the DRR. The feature extraction approach is inspired by processing strategies of the auditory system, where an amplitude modulation filterbank is applied to extract the temporal modulation information. These techniques were shown to improve the REVERB baseline in our previous work. Here, we investigate if similar improvements are obtained when using a state-of-the-art ASR framework, and to what extent the results depend on the specific architecture of the back-end. Apart from conventional Gaussian mixture model (GMM)-hidden Markov model (HMM) back-ends, we consider subspace GMM (SGMM)-HMMs as well as deep neural networks in a hybrid system. The speech enhancement algorithm is found to be helpful in almost all conditions, with the exception of deep learning systems in matched training-test conditions. The auditory feature type improves the baseline for all system architectures. The relative word error rate reduction achieved by combining our front-end techniques with current back-ends is 52.7% on average with the REVERB evaluation test set compared to our original REVERB result.
+
+

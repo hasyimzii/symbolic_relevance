@@ -1,0 +1,10 @@
+
+Large Tanker Motion Model Identification Using Generalized Ellipsoidal Basis Function-Based Fuzzy Neural Networks
+
+
+
+
+ 
+© 2013 IEEE. In this paper, the motion dynamics of a large tanker is modeled by the generalized ellipsoidal function-based fuzzy neural network (GEBF-FNN). The reference model of tanker motion dynamics in the form of nonlinear difference equations is established to generate training data samples for the GEBF-FNN algorithm which begins with no hidden neuron. In the sequel, fuzzy rules associated with the GEBF-FNN-based model can be online self-constructed by generation criteria and parameter estimation, and can dynamically capture essential motion dynamics of the large tanker with high prediction accuracy. Simulation studies and comprehensive comparisons are conducted on typical zig-zag maneuvers with moderate and extreme steering, and demonstrate that the GEBF-FNN-based model of tanker motion dynamics achieves superior performance in terms of both approximation and prediction.
+
+

@@ -1,0 +1,10 @@
+
+A radiation-based hydrocarbon two-phase flow meter for estimating of phase fraction independent of liquid phase density in stratified regime
+
+
+
+
+ 
+© 2015 Elsevier Ltd. The fluid properties strongly affect the performance of radiation-based multiphase flow meter. By changing the fluid properties (especially density), recalibration is necessary. In this study, a method was presented to eliminate the dependency of multiphase flow meter on liquid phase density in stratified two phase horizontal flows. At the first step the position of the scattering detector was optimized in order to achieve highest sensitivity. Several experiments in optimized position were done. Counts under the full energy peak of transmission detector and total counts of scattering detector were applied to the Radial Basis Function neural network and the void fraction percentage was considered as the neural network output. Using this method, the void fraction was predicted independent of the liquid phase density change in stratified regime of gas-liquid two-phase flows with mean relative error percentage less than 1.2%.
+
+

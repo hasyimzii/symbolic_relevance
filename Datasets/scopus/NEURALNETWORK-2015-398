@@ -1,0 +1,10 @@
+
+Multiobjective optimization of injection molding process parameters based on Opt LHD, EBFNN, and MOPSO
+
+
+
+
+ 
+© 2015 Springer-Verlag London The injection molding process parameters strongly affect plastic production quality, manufacturing cost, and molding efficiency. In this study, the effects of the process parameters, including the valve gate open timing, the molding temperature, the melt temperature, the injection time, the packing pressure, the packing time, and the cooling time, on the warpage of the plastic product and the clamping force during the injection molding process are analyzed using the analysis of variance method. A multiobjective optimization of the injection molding process parameters for a diesel engine oil cooler cover was carried out based on the optimal Latin hypercube design, ellipsoidal basis function neural network, and multiobjective particle swarm optimization. According to the calculated results using the optimal parameters, a structural optimization on the oil cooler cover cooling and a cooling channel improvement are proposed to further reduce the warpage. At last, a suite of overall tools are developed to treat the cooling deformation. As a result, the reduction on warpage is about 4 mm, the peak stress of the optimized plastic oil cooler cover is reduced by 60 MPa, and the stress distributes more evenly throughout the whole product. The peak clamping force is decreased from 760 to 470 t which makes the machine selection more flexible and reduces the production cost.
+
+

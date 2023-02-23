@@ -1,0 +1,10 @@
+
+An approach for rule discovery based on fuzzy neural network in failure prediction
+
+
+
+
+ 
+© 2015, Beijing University of Posts and Telecommunications. All right reserved. Aiming at analysis on correlations between failures and various indices characterizing network states in failure prediction, an approach for rule discovery based on fuzzy neural network (ARD_FNN) was proposed. It discoveries the correlations in network management system using the abilities to learn and infer by fuzzy logic in FNN. Simulations show that the effective initialization of parameters indicates the convergence directions that accelerate the convergence rates; thus the approach can predict the occurrence of failures accurately and such performance indicators as precision, true positive rate and false positive rate are optimized.
+
+

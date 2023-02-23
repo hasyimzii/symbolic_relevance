@@ -1,0 +1,10 @@
+
+Scene text recognition with deeper convolutional neural networks
+
+
+
+
+ 
+© 2015 IEEE. Scene text recognition plays an important role in many applications such as video indexing and house number localization in maps. Recently, some feature learning methods have been proposed to handle this problem, which often exploit deep architectures with no more than 5 layers and relatively large receptive fields. Meanwhile, to avoid model overfitting, they generally take advantage of large amount of additional data. Inspired by the great success of GoogleLeNet with a deeper network and VGG networks with smaller receptive fields in the ImageNet competition, in this paper, we adopt a much deeper network with up to 15 layers and smaller receptive fields (3×3) to learn better features for scene text recognition. Particularly, even without additional training data, our model can achieve better performance. Experiments on scene text datasets (ICDAR 2003, SVT, Chars74K) demonstrate that our method achieves the state-of-the-art performance on character classification and competitive performance on cropped word recognition.
+
+

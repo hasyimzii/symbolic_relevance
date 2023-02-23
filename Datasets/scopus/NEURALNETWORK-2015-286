@@ -1,0 +1,10 @@
+
+Segmentation of video background regions based on a DTCNN-clustering approach
+
+
+
+
+ 
+© 2014, Springer-Verlag London. We propose a novel algorithm for segmentation of video background models in time-variant scenarios. It is robust to gradual or abrupt illumination changes, diverse kind of noises, and even scenario variation. The algorithm generates regions according to the scene composition by keeping region segmentation coherence. The proposed method based on a discrete-time cellular neural network estimates the number regions in the current background model, and then, a modified k-means algorithm is used to achieve segmentation. The findings demonstrate the robustness of the method and its superiority over two state of the art scene segmentation algorithms.
+
+

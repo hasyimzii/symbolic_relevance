@@ -1,0 +1,2 @@
+Predicting tumor response to cytotoxic therapy.
+Objective tumor regression in response to therapy invariably results in prolonged patient survival and often improves the quality of remaining life. The author describes criteria for determining, and clinical guidelines for predicting, tumor response. Further, he reviews tactics of cancer chemotherapy with regard to dose response relationships and kinetics of tumor response.

@@ -1,0 +1,2 @@
+Effects of mutations within the 3' orf open reading frame region of human T cell  lymphotropic virus type III (HTLV III/LAV) on replication and cytopathogenicity.
+Mutations that eliminated the ability of the human T cell lymphotropic virus type III to produce the 27 kilodalton 3' orf product did not eliminate the ability of the virus to replicate in and kill T4+ cells. A mutant carrying a mutation that deleted carboxy terminal sequences from the envelope gene as well as the 3' orf sequences retained the ability to kill T4+ lymphocytes, but had a retarded replication rate.

@@ -1,0 +1,10 @@
+
+Quantitative impact response analysis of reinforced concrete beam using the Smoothed Particle Hydrodynamics (SPH) method
+
+
+
+
+ 
+Copyright © 2015 Techno-Press, Ltd. The nonlinear numerical analysis of the impact response of reinforced concrete/mortar beam incorporated with the updated Lagrangian method, namely the Smoothed Particle Hydrodynamics (SPH) is carried out in this study. The analysis includes the simulation of the effects of high mass low velocity impact load falling on beam structures. Three material models to describe the localized failure of structural elements are: (1) linear pressure-sensitive yield criteria (Drucker-Prager type) in the pre-peak regime for the concrete/mortar meanwhile, the shear strain energy criterion (Von Mises) is applied for the steel reinforcement (2) nonlinear hardening law by means of modified linear Drucker-Prager envelope by employing the plane cap surface to simulate the irreversible plastic behavior of concrete/mortar (3) implementation of linear and nonlinear softening in tension and compression regions, respectively, to express the complex behavior of concrete material during short time loading condition. Validation upon existing experimental test results is conducted, from which the impact behavior of concrete beams are best described using the SPH model adopting an average velocity and erosion algorithm, where instability in terms of numerical fragmentation is reduced considerably.
+
+

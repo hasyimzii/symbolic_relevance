@@ -1,0 +1,10 @@
+
+Seamline determination based on semantic segmentation for aerial image mosaicking
+
+
+
+
+ 
+© 2015 IEEE. We propose a novel method for seamline determination based on semantic segmentation for aerial image mosaicking. First, we train a convolutional neural network (CNN) for pixel labeling to extract building regions. Using the trained CNN, we create a building probability map from an input aerial image with no pre-processing. We then use Dijkstra's algorithm to find the optimal seamline as a shortest path on the map. We evaluate the quality of the seamlines produced by our method on actual aerial images. Finally, we show that our seamlines never pass through any buildings and compare the effectiveness with the conventional mean-shift segmentation-based method.
+
+

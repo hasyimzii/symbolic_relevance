@@ -1,0 +1,10 @@
+
+Fill rate in a periodic review order-up-to policy under auto-correlated normally distributed, possibly negative, demand
+
+
+
+
+ 
+© 2015 Elsevier B.V. All rights reserved. We investigate the inventory service metric known as the fill rate - the proportion of demand that is immediately fulfilled from inventory. The task of finding analytical solutions for general cases is complicated by a range of factors including; correlation in demand, double counting of backlogs, and proper treatment of negative demand. In the literature, two approximate approaches are often proposed. Our contribution is to present a new fill rate measure for normally distributed, auto-correlated, and possibly negative demand. We treat negative demand as returns. Our approach also accounts for accumulated backlogs. The problem reduces to identifying the minimum of correlated normally distributed bivariate random variables. There exists an exact solution, but it has no closed form. However, the solution is amenable to numerical techniques, and we present a custom Microsoft Excel function for practical use. Numerical investigations reveal that the new fill rate is more robust than previous measures. Existing fill rate measures are likely to cause excessive inventory investment, especially when fill rate targets are modest, a strongly positive or negative autocorrelation in demand is present, or negative demands exist. Our fill rate calculation ensures that the target fill rate is achieved without excessive inventory investments.
+
+

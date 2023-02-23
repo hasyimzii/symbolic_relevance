@@ -1,0 +1,10 @@
+
+Efficient Two-Step Approach for Automatic Number Plate Detection
+
+
+
+
+ 
+© by Ievgen Gorovyi 2016. Intelligent transportation systems are rapidly growing mainly due to active development of novel hardware and software solutions. In the paper a problem of automatical number plate detection is considered. An efficient two-step approach based on plate candidates extraction with further classification by neural network is proposed. Stroke width transform and contours detection techniques are utilized for the image preprocessing and extraction of regions of interest. Different local feature sets are used for the final number plate detection step. Efficiency of the developed method is tested with real datasets.
+
+

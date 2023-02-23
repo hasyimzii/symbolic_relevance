@@ -1,0 +1,10 @@
+
+SWAP-NODE: A regularization approach for deep convolutional neural networks
+
+
+
+
+ 
+© 2015 IEEE. The regularization is important for training of a deep network. One of breakthrough approach is dropout. It randomly deletes a certain number of activations in each layer in the feed-forward step of the training process. The dropout significantly reduces an effect of over-fitting and improves test performance. We introduce a new regularization approach for deep learning, called the swap-node. The swap-node, which is applied to a fully connected layer, swaps the activation values of two nodes randomly selected with a certain probability. Empirical evaluation shows that the network using the swap-node performs the best on MNIST, CIFAR-10, and SVHN. We also demonstrate superior performance of a combination of the swap-node and dropout on these datasets.
+
+

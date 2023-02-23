@@ -1,0 +1,10 @@
+
+Brushstroke based sparse hybrid convolutional neural networks for author classification of Chinese ink-wash paintings
+
+
+
+
+ 
+© 2015 IEEE. A novel stroke based sparse hybrid convolutional neural networks (CNNs) method is proposed for author classification of Chinese ink-wash paintings (IWPs). As Chinese IWPs usually have many authors in several art styles, this differs from real images or western paintings and has led to a big challenge. In our work, we classify Chinese IWPs of different artists by analyzing a set of automatically extracted brushstrokes. A sparse hybrid CNNs in a deep-learning framework is then proposed to extract brushstroke features to replace the commonly used handcrafted ones such as edge, color, intensity and texture. Using 120 IWPs from six famous artists, promising results have been shown in successfully classifying authors in comparison to two other state-of-the-art approaches.
+
+

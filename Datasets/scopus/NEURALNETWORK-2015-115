@@ -1,0 +1,10 @@
+
+VLSI friendly fast CU/PU mode decision for HEVC intra encoding: Leveraging convolution neural network
+
+
+
+
+ 
+© 2015 IEEE. To alleviate the computational intensity of Intra encoding for High Efficiency Video Coding (HEVC), we introduce the convolution neural network to reduce the number of the promising CU/PU candidate modes to carry out the exhaustive RDO processing. The practical merits include: Firstly, the proposed algorithm reduces the maximum computational complexity at the grain of 64 × 64 coding tree unit(CTU), which makes it efficient to ameliorate the complexity of the real-time hardwired encoder implementation. Secondly, because the CU/PU mode decision is made based on the analysis of source block textures, our algorithm does not depend on intermediate results of encoding. That is, the proposed algorithm will not deteriorate the processing schedule of CTU encoding. Experimental results show that, when our algorithm is integrated with HM12.0, the 61.1% Intra encoding time was saved, whereas the averaging BDBR augment is merely 3.39%.
+
+

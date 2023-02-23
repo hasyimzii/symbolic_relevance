@@ -1,0 +1,10 @@
+
+UNIPred: Unbalance-aware network integration and prediction of protein functions
+
+
+
+
+ 
+© Copyright 2015, Mary Ann Liebert, Inc. 2015. The proper integration of multiple sources of data and the unbalance between annotated and unannotated proteins represent two of the main issues of the automated function prediction (AFP) problem. Most of supervised and semisupervised learning algorithms for AFP proposed in literature do not jointly consider these items, with a negative impact on both sensitivity and precision performances, due to the unbalance between annotated and unannotated proteins that characterize the majority of functional classes and to the specific and complementary information content embedded in each available source of data. We propose UNIPred (unbalance-aware network integration and prediction of protein functions), an algorithm that properly combines different biomolecular networks and predicts protein functions using parametric semisupervised neural models. The algorithm explicitly takes into account the unbalance between unannotated and annotated proteins both to construct the integrated network and to predict protein annotations for each functional class. Full-genome and ontology-wide experiments with three eukaryotic model organisms show that the proposed method compares favorably with state-of-the-art learning algorithms for AFP.
+
+

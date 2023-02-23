@@ -1,0 +1,10 @@
+
+Obstacle detection in single images with deep neural networks
+
+
+
+
+ 
+© 2015 Springer-Verlag London Obstacle detection in single images is a challenging problem in autonomous navigation on low-cost condition. In this paper, we introduce an approach for obstacle detection in single images with deep neural networks. We propose the followings: (1) a deep model combined with other deep neural network for obstacle detection; (2) a method to segment obstacles and infer their depths. Among others, both local and global information are generated in our method for better classification and portability. Experiments are performed on the open datasets and images captured by our autonomous vehicle. The results show that our method is effective in both obstacle detection and depth inference.
+
+

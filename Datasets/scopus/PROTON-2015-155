@@ -1,0 +1,10 @@
+
+A modified relevance vector machine for PEM fuel cell stack aging prediction
+
+
+
+
+ 
+© 2015 IEEE. Proton Exchange Membrane Fuel Cells (PEMFCs) are considered as a potential candidate in the green energy applications in the near future. The fuel cells show multiple advantages compared to conventional energy sources. They need only hydrogen and air during operation, meanwhile, produce only water which is 100% environmental friendly. However, PEMFCs are vulnerable to the impurities of hydrogen or fluctuation of operational condition etc., which can lead to the degradation of output performance over time when operating. The prediction of the performance degradation is quite important for the PEMFC system management. In this work, a novel prediction method based on a modified Relevance Vector Machine (RVM) is proposed, followed by a comparison with classic Support Vector Machine (SVM) approach. Firstly, the mathematical theory of RVM is explained, then the implementation of RVM using the experimental aging data sets of PEMFC stack output voltage is discussed. By considering the specific feature of aging data prediction problem, an innovative modified RVM formulation is proposed. The results from proposed RVM method are analyzed and compared with the results getting from SVM. The results have demonstrated that, the RVM can achieve better performance than the SVM, especially in the cases with relatively small initial experimental data sets. This novel method based on modified RVM approach has been demonstrated to be a good candidate to predict the degradation of output performance of PEMFCs.
+
+

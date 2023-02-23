@@ -1,0 +1,10 @@
+
+Steel plate-anchor assembly embedded in concrete under dynamic loads: A parametric study
+
+
+
+
+ 
+Steel plate-anchor assemblies embedded in concrete are one of the common types of connection systems used for connecting a structural steel member to another concrete member. This paper outlines a study that has been undertaken to study the behavior of these connection systems under dynamic loading. Finite-Element Method has been utilized to obtain a solution to the complex dynamic analysis problems of these systems. A Finite-Element Model has been developed for this purpose using the software FEMAP version 6.0. The developed model has thereafter been analyzed using MSC/Nastran version 2001.0. The model has been verified by comparing the analytical results obtained from it with the results obtained from Classical Plate Theory through a mesh sensitivity study. Further analysis has been done to study the effect of various parameters on the magnification of internal forces developed over the entire region of the plate-anchor assembly and its concrete embedment. A parametric study has also been conducted on the energy absorption characteristics of these systems. Finally some broad guidelines have been suggested for selection of various parameters of plate-anchor assembly systems studied herein, for their better and effective performance under dynamic loading.
+
+

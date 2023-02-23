@@ -1,0 +1,10 @@
+
+An Efficient Over-sampling Approach Based on Mean Square Error Back-propagation for Dealing with the Multi-class Imbalance Problem
+
+
+
+
+ 
+© 2014, Springer Science+Business Media New York. In this paper a new dynamic over-sampling method is proposed, it is a hybrid method that combines a well known over-sampling technique (SMOTE) with the sequential back-propagation algorithm. The method is based on the back-propagation mean square error (MSE) for automatically identifying the over-sampling rate, i.e., it allows only the use of necessary training samples for dealing with the class imbalance problem and avoiding to increase excessively the (neural networks) NN training time. The main aim of the proposed method is to obtain a trade-off between NN classification performance and NN training time on scenarios where the training data set represents a multi-class classification problem, it is high imbalanced and it might request a large NN training time. Experimental results on fifteen multi-class imbalanced data sets show that the proposed method is promising.
+
+

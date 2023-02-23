@@ -1,0 +1,10 @@
+
+Robust blind learning algorithm for nonlinear equalization using input decision information
+
+
+
+
+ 
+© 2015 IEEE. In this paper, we propose a new blind learning algorithm, namely, the Benveniste-Goursat input-output decision (BG-IOD), to enhance the convergence performance of neural network-based equalizers for nonlinear channel equalization. In contrast to conventional blind learning algorithms, where only the output of the equalizer is employed for updating system parameters, the BG-IOD exploits a new type of extra information, the input decision information obtained from the input of the equalizer, to mitigate the influence of the nonlinear equalizer structure on parameters learning, thereby leading to improved convergence performance. We prove that, with the input decision information, a desirable convergence capability that the output symbol error rate (SER) is always less than the input SER if the input SER is below a threshold, can be achieved. Then, the BG soft-switching technique is employed to combine the merits of both input and output decision information, where the former is used to guarantee SER convergence and the latter is to improve SER performance. Simulation results show that the proposed algorithm outperforms conventional blind learning algorithms, such as stochastic quadratic distance and dual mode constant modulus algorithm, in terms of both convergence performance and SER performance, for nonlinear equalization.
+
+

@@ -1,0 +1,10 @@
+
+Prediction of retweet counts by a back propagation neural network
+
+
+
+
+ 
+© 2015, Press of Tsinghua University. All right reserved. Twitter has become a major platform for expressing and gathering information to change people's opinions and lives. Retweets are a key mechanism for information diffusion. The retweet mechanism can be a useful method to guide public opinion and contribute to emergency responses. This paper considers a case study of the conflicts between urban management officials (known as Chengguan in China) and the public. This study focused on factor analysis and prediction of a tweet's popularity based on a back propagation (BP) neural network during a crisis. The weighted analysis of various factors from the perspectives of the posters and the content of the microblog messages shows how some factors, including the user's activity, hashtag, visual information, mentioning others and posting time, influences a message's popularity. The results show that followers are more attracted by a tweet's content rather than its poster. The prediction problem is changed into a pattern classification problem to predict the retweet count using a back propagation (BP) neural network. The stability of the results was tested by changing the number of samples.
+
+

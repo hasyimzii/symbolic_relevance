@@ -1,0 +1,10 @@
+
+Face attribute classification using attribute-aware correlation map and gated convolutional neural networks
+
+
+
+
+ 
+© 2015 IEEE. This paper proposes a face attribute classification method based on attribute-aware correlation map and gated convolutional neural networks (CNN). The attribute-aware correlation map provides correlation information between pixel-location and attribute label, and each correlation map of an attribute provides information regarding regions where the relevant features should be extracted. Using the correlation maps of all the attributes, a number of most relevant face part regions are discovered. Based on the face part regions, gated columns of CNNs are simultaneously pre-trained on for face representations then fine-tuned for attribute classification. Here, each CNN column takes input from one of the regions discovered. The column of the CNN is gated such that in the backpropagation of the learning process, classification error due to less relevant attributes do not over influence the learning process. In the experiment, we manually labeled each image in the Labeled Faces in the Wild (LFW) benchmark dataset with 40 face attributes and obtained significant performance improvement over other state-of-the art methods.
+
+

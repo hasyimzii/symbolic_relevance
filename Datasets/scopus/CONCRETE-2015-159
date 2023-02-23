@@ -1,0 +1,10 @@
+
+Multi-objective weight and cost optimization of hybrid composite-concrete beams
+
+
+
+
+ 
+© 2015 Elsevier Ltd. The construction industry currently shows an increasing interest towards composites. However, despite their high mechanical capacity to weight ratio their practical use in construction remains rather limited, the relatively high cost often being mentioned as the most restricting factor. This paper demonstrates how this need for minimization of both cost and mass can be tackled by a multi-objective optimization. First, a two-objective size optimization procedure is developed, and subsequently its strength is illustrated on hybrid composite-concrete beams. An original methodology combining Non-dominated Sorting Genetic Algorithm (NSGA-II) and a meta-model is used to find all optimal solutions. The optimization algorithm moreover gives insight on the influence of different parameters such as the span and the concrete class on the weight and cost of the beams, and the dominance of certain design constraints in various locations of the design space.
+
+

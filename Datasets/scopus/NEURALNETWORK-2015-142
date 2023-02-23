@@ -1,0 +1,10 @@
+
+Recovering size and shape of polyp from endoscope image by RBF-NN modification
+
+
+
+
+ 
+© 2015 IEEE. Previous approaches have proposed to recover the poly shape but it is desired that absolute size of polyp can be obtained as a medical endoscope system. The VBW (Vogel-Breuß-Weickert) model is proposed as a method to recover 3-D shape under point light source illumination and perspective projection. However, the VBW model recovers relative, not absolute, shape. Here, shape modification is introduced to recover the exact shape. Modification is applied to the output of the VBW model. First, a local brightest point is used to estimate the reflectance parameter from two images obtained with movement of the endoscope camera in depth. After the reflectance parameter is estimated, a sphere image is generated and used for Radial Basis Function Neural Network (RBF-NN) learning. The NN implements the shape modification. NN input is the gradient parameters produced by the VBW model for the generated sphere. NN output is the true gradient parameters for the true values of the generated sphere. Depth can then be recovered using the modified gradient parameters. It was confirmed that NN gives better performance than the linear regression via computer simulation and real experiment.
+
+

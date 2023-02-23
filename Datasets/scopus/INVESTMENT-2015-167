@@ -1,0 +1,10 @@
+
+Fiscal policy tracking design in the time-frequency domain using wavelet analysis
+
+
+
+
+ 
+© 2015 Elsevier B.V. In this paper discrete wavelet filtering techniques are applied to decompose macroeconomic data so that they can be simultaneously analyzed in both the time and frequency domains. The MODWT (Maximal Overlap Discrete Wavelet Transform) is applied to US quarterly GDP data to obtain the underlying cyclical structure of the GDP components. A MATLAB program is then used to design optimal fiscal policy within an LQ tracking model with wavelet decomposition, and the results are compared with an aggregate model with no frequency decomposition. The results show that fiscal policy is more active under the wavelet-based model, and that the consumption and investment trajectories under the aggregate model are misaligned. We also simulate FHEC (Frequency Harmonizing Emphasis Control) strategies that allow policymakers to concentrate the policy thrust on tracking frequencies that are optimally aligned with policy goals under different targeting priorities. These strategies are only available by using time-frequency analysis. This research is the first to construct fiscal policy in an applied optimal control model based on the short and long cyclical lag structures obtained from wavelet analysis. Our wavelet-based optimal control procedure allows the policymaker to construct a pragmatic tracking policy, avoid suboptimal policies gleaned from an aggregate model, and reduce the potential for destabilization that might otherwise result due to improper thrust and timing.
+
+

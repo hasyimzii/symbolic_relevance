@@ -1,0 +1,10 @@
+
+Nonlinear finite element modeling of reinforced concrete haunched beams designed to develop a shear failure
+
+
+
+
+ 
+© 2015 Elsevier Ltd. The results of different nonlinear finite element models for eight simply supported reinforced concrete haunched beams designed to develop a shear failure under static loading are presented and discussed in this paper. Simplified nonlinear models in which the participation of the longitudinal steel reinforcement and stirrups is indirectly included were assessed using SAP2000. More complex nonlinear finite element models were assessed with ANSYS, in which longitudinal steel reinforcement and stirrups were modeled as built. Softening of concrete due to deformation was taken into account in the selected constitutive models using a failure surface with different peak compressive and tension stresses. Strain hardening for the steel reinforcement was considered using the Von Mises yield criterion. Perfect bond between concrete and steel was assumed. Shear-displacement curves for a specific section located at midspan of the beams were obtained from the finite element models and compared to those obtained from experimental testing. Also, crack patterns associated to different loads steps were obtained from ANSYS finite element models. It can be concluded that it is possible to obtain a reasonable correlation between analytical and experimental load-deformation curves and the main developed arch mechanism for RCHBs failing in shear using both simplified and detailed finite element models, which for practical purposes is more than acceptable. However, only a medium correlation between cracking patterns numerically obtained with detailed finite element models and those experimentally identified were observed, particularly for beams with shear reinforcement.
+
+

@@ -1,0 +1,10 @@
+
+Invulnerability mechanism based on mobility prediction and opportunistic cloud computing with topological evolution for wireless multimedia sensor networks
+
+
+
+
+ 
+© 2015, Zhou and Dong. According to the loss network problems caused by limited resources and environment interference factors, we presented a survivability mechanism based on mobility prediction and based on the topological evolution of cloud computing wireless multimedia sensor network (WMSN). First, based on cooperative neural network and opportunity Markov chain model, the multimedia mobile sensor node state and state transition probability could be predicted. Then, the opportunity computational scheme was given based on mobility prediction of dynamic topology evolution mechanism. Finally, using the network topology reconfiguration and opportunities for cloud computing, an enhanced WMSN survivability and end-to-end quality of service guarantee mechanism was proposed. Experimental results show that compared with the static scheme for WMSNs, the proposed survivability mechanism has the obvious advantage in the node protection, data communication, network life cycle, and decodable frame rate and other aspects, and can effectively improve the invulnerability of WMSNs.
+
+

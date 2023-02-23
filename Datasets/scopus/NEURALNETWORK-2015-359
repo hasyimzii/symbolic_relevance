@@ -1,0 +1,10 @@
+
+Mobile sensors network for detection of ionizing radiation sources
+
+
+
+
+ 
+© 2015 IEEE. In this paper are considering the design steps of a mobile sensors network for ionizing radiation sources detection. As a result of analysis and modeling, the optimal network topology that consists of a number of mobile robots with a set of sensors, was obtained. The mobile robot architecture and the control strategy model in the form of Hopfield neural network was developed. In order to adapt the neural network to mobile robot architecture, the certain mathematical model was proposed. In the paper is analysed the example that illustrates the radiation source search and detection for a sensors network that consists of four mobile robots.
+
+

@@ -1,0 +1,10 @@
+
+Occluded vehicle detection with local connected deep model
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York Traditional vehicle detection algorithms do not include targeted processing to handle the vehicle occlusion phenomenon. To address this issue, this paper proposes a locally-connected, deep-model-based, occluded vehicle detection algorithm. Firstly, a suspected occluded vehicle is generated using a cascaded Adaboost Classifier. Any sub-images that are rejected during the last two stages of the cascaded Adaboost Classifier are considered as a suspected occluded vehicle. Then, eight types of vehicle occlusion visual models are manually established. The suspected occluded vehicle will be assigned to a certain type of model by color histogram matching. Finally, the sub image of the suspected occluded vehicle will be loaded into a locally connected deep model of the corresponding type to make the final determination. An experiment using the KITTI dataset has demonstrated that compared with existing vehicle detection algorithms such as the cascaded Adaboost, the Deformable Part Model (DPM), Deep Convolutional Neural Networks (DCNN) and the Deep Belief Network (DBN), this algorithm has a much higher occluded vehicle detection rate. Additionally, this method requires minimal extra processing time, at around 5 % higher than the cascaded Adaboost.
+
+

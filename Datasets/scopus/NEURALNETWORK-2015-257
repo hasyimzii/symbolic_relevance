@@ -1,0 +1,10 @@
+
+Accurate detection of autism spectrum disorder from structural MRI using extended metacognitive radial basis function network
+
+
+
+
+ 
+© 2015 Elsevier Ltd. All rights reserved. In this paper, we present an accurate detection of Autism Spectrum Disorder (ASD) from structural MRI using an Extended Metacognitive Radial Basis Function Neural Classifier (EMcRBFN). An automatic whole brain Voxel Based Morphometry (VBM) approach is used to identify gray matter composition in the brain from structural Magnetic Resonance Imaging (MRI) and an improved q-Gaussian classifier and its metacognitive learning algorithm has been proposed to approximate the functional relationship between the high dimensional VBM features and the true class labels. Recent genetic studies indicate that ASD manifests in different ways between males and females and also between adolescents and adults. Accordingly, the proposed EMcRBFN classifier has been evaluated using the publicly available Autism Brain Imaging Data Exchange dataset with a comprehensive study on both males and females and also between adolescents and adults in both categories. EMcRBFN classifier performance is compared with currently existing results for ASD classification in the literature and also with well known standard classifiers. The results clearly indicate that the performance of the EMcRBFN classifier is better than that of the other classifiers considered in this study. Further, the comprehensive study also indicates that the following subregions in the brain viz., premotor cortex and supplementary motor cortex are affected for adult-females while the somatosensory cortex subregion is affected for adolescent-females with ASD. Similar results indicate that the precentral gyrus, motor cortex, medial frontal gyrus and the paracentral lobule areas are affected for adolescent males while the superior frontal gyrus and the frontal eye fields areas are affected for adult males with ASD.
+
+

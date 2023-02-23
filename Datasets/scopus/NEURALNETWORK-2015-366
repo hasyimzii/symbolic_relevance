@@ -1,0 +1,10 @@
+
+Eyebrow emotional expression recognition using surface EMG signals
+
+
+
+
+ 
+© 2015 Elsevier B.V. The main objective of this study is to recognize facial emotional expression effectively in human-computer interaction. A surface electromyography (sEMG) based eyebrow emotional expression recognition method is proposed. Using a specially designed headband, we conducted an experiment in which we recorded the sEMG signals from the frontalis and corrugator supercilii muscles of six participants who were instructed to pose the facial expressions of anger, fear, sadness, surprise and disgust. Subsequently, six features of the sEMG time domain were extracted and used as input vectors to an emotion recognition model based on an Elman neural network (ENN). The performance of this model was compared to another recognition model based on a Back Propagation neural network (BPNN). The average recognition rate for the five emotions achieved by the ENN-based model was 97.12% in the training and 96.12% in the test set, which was slightly superior to the performance of the BPNN-based model.
+
+

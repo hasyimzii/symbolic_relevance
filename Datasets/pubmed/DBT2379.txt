@@ -1,0 +1,2 @@
+Automated colorimetric estimation of glycosylated haemoglobins.
+The measurement of glycosylated haemoglobin is now widely used as a guide to glycaemic control in patients with diabetes mellitus. Present methods for measurement of glycosylated haemoglobin are either laborious, expensive or both. We describe a precise and inexpensive method for the automated analysis of glycosylated haemoglobin based on a colorimetric technique. The within batch coefficient of variation ranged from 2.0 to 4.8% and between batch was less than 11.0%. At least 200 samples can be analysed per day.

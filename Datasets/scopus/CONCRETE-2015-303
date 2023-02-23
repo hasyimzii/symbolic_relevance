@@ -1,0 +1,10 @@
+
+Numerical analysis of concrete filled Buckling Restrained Braces
+
+
+
+
+ 
+© 2015 Elsevier Ltd. This paper is on the numerical analysis of concrete filled Buckling Restrained Braces (BRBs), which are typically used as diagonal bracing members of steel braced frames designed for dissipative behavior and lateral load resistance under seismic action. BRBs are typically composed of a slender steel core which is continuously supported by a concrete casing against buckling. The complex behavior of the BRB devices is usually studied by experimental tests. The numerical analysis is rarely applied, it requires advanced tools, such as modeling of cyclic steel plasticity with combined hardening, cyclic concrete behavior, plastic buckling, contact and friction. In the paper a novel Chaboche based cyclic steel material model is presented, which is developed in ANSYS finite element environment. The model is able to describe all the important features of the cyclic behavior of structural steel, including low cyclic fatigue capacity. The William-Warnke model is used for the concrete material with combined kinematic hardening. The computational model has a special focus on the contact/friction phenomena between the steel core and supporting concrete. The structure and approximations of the numerical models, the calculation of model parameters on the basis of its own test results are detailed. The features of the behavior are demonstrated by the application of the developed 3D solid Buckling Restrained Brace model.
+
+

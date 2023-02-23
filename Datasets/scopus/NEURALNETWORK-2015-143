@@ -1,0 +1,10 @@
+
+Non-homogeneous priors in a Bayesian latent class model for ocean color inversion
+
+
+
+
+ 
+© 2015 IEEE. From the multispectral top-of-atmosphere observations, ocean colour inversion aims at separating atmosphere and water contribution. In this context, we propose a novel Bayesian model with a focus on the definition of non-homogeneous priors on the aerosol and water multispectral signatures. The considered priors are set conditionally to observed covariates, typically geometry acquisition conditions and pre-estimates by a standard algorithm. We demonstrate from numerical experiments performed for real data the relevance of our non-homogeneous Bayesian setting to retrieve geophysically-consistent ocean colour images, in particular when dealing with complex coastal waters where standard algorithms perform poorly. Using a groundtruthed dataset, quantitative comparisons with operational schemes stress the overall improvement on the relative absolute error (respectively, 67% compared with the standard ESA MEGS algorithm and 9% compared with the ESA C2R neural network, for 12 bands ranging from 412 to 865 nm).
+
+

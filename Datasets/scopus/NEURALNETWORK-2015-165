@@ -1,0 +1,10 @@
+
+Sensitivity of HF radar-derived surface current self-organizing maps to various processing procedures and mesoscale wind forcing
+
+
+
+
+ 
+© 2015 Springer International Publishing Switzerland We performed a number of sensitivity experiments by applying a mapping technique, self-organizing maps (SOM) method, to the surface current data measured by high-frequency (HF) radars in the northern Adriatic and surface winds modelled by two state-of-the-art mesoscale meteorological models, the Aladin (Aire Limitée Adaptation Dynamique Développement InterNational) and the Weather and Research Forecasting models. Surface current data used for the SOM training were collected during a period in which radar coverage was the highest: between February and November 2008. Different pre-processing techniques, such as removal of tides and low-pass filtering, were applied to the data in order to test the sensitivity of characteristic patterns and the connectivity between different SOM solutions. Topographic error did not exceed 15 %, indicating the applicability of the SOM method to the data. The largest difference has been obtained when comparing SOM patterns originating from unprocessed and low-pass filtered data. Introduction of modelled winds in joint SOM analyses stabilized the solutions, while sensitivity to wind forcing coming from the two different meteorological models was found to be small. Such a low sensitivity is considered to be favourable for creation of an operational ocean forecasting system based on neural networks, HF radar measurements and numerical weather prediction mesoscale models.
+
+

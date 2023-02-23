@@ -1,0 +1,10 @@
+
+DL-ReSuMe: A delay learning-based remote supervised method for spiking neurons
+
+
+
+
+ 
+© 2015 IEEE. Recent research has shown the potential capability of spiking neural networks (SNNs) to model complex information processing in the brain. There is biological evidence to prove the use of the precise timing of spikes for information coding. However, the exact learning mechanism in which the neuron is trained to fire at precise times remains an open problem. The majority of the existing learning methods for SNNs are based on weight adjustment. However, there is also biological evidence that the synaptic delay is not constant. In this paper, a learning method for spiking neurons, called delay learning remote supervised method (DL-ReSuMe), is proposed to merge the delay shift approach and ReSuMe-based weight adjustment to enhance the learning performance. DL-ReSuMe uses more biologically plausible properties, such as delay learning, and needs less weight adjustment than ReSuMe. Simulation results have shown that the proposed DL-ReSuMe approach achieves learning accuracy and learning speed improvements compared with ReSuMe.
+
+

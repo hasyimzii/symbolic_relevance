@@ -1,0 +1,10 @@
+
+Applicability of stress-strain model for FRP-confined concrete cylinders
+
+
+
+
+ 
+© 2015, Zhejiang University. All right reserved. The stress-strain models of fiber reinforced plastic-confined(FRP-confined) concrete are classified into, design-oriented models and analysis-oriented models. The design-oriented models use mathematical formulas regressed by test data to describe the stress-strain behavior explicitly. The analysis-oriented models are based on the assumption that the path is independence on the stress-strain relationship, and obtain the axial stress-strain curves of FRP-confined concrete through incremental method. A state-of-art review was conducted on the development and features of two models for FRP-confined concrete cylinders in order to assist the model selection in the structural analysis. And the applicability of each model was investigated by analyzing the lateral confinement ratio of controlling variable for the design-oriented models and the path-dependence of axial stress for the analysis-oriented models. For the former models, the uncertainty of lateral confinement ratio caused by the variation in workmanship, products or measurement method is the key factor affecting the applicability. For the latter ones, the path dependence has been proved to be the key factor limiting the application scope. The analysis results demonstrate that the axial stress ratio doesn't equal one when the active confinement and the passive confinement reach the same pressure. The axial stress ratio is in inverse proportion to the lateral confinement stiffness ratio. It is essential to introduce the axial stress ratio into the existing analysis-oriented model to extend the application scope.
+
+

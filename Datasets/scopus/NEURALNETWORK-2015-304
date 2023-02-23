@@ -1,0 +1,10 @@
+
+Improved optimal steering law for SGCMG and adaptive attitude control of flexible spacecraft
+
+
+
+
+ 
+© 1990-2011 Beijing Institute of Aerospace Information. The issue of attitude maneuver of a flexible spacecraft is investigated with single gimbaled control moment gyroscopes (SGCMGs) as an actuator. To solve the inertia uncertainty of the system, an adaptive attitude control algorithm is designed by applying a radial basis function (RBF) neural network. An improved steering law for SGCMGs is proposed to achieve the optimal output torque. It enables the SGCMGs not only to avoid singularity, but also to output more precise torque. In addition, global, uniform, ultimate bounded stability of the attitude control system is proved via the Lyapunov technique. Simulation results demonstrate the effectiveness of the new steering law and the algorithm of attitude maneuver of the flexible spacecraft.
+
+

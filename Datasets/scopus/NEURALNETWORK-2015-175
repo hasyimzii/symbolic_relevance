@@ -1,0 +1,10 @@
+
+Development of an intelligent system which assists in decision making based upon previous decisions
+
+
+
+
+ 
+© 2015 IEEE. Artificial Intelligence systems such as expert system, artificial neural network, cognitive computing system and decision support system are primarily used to aid users in taking decisions. The way in which the system learns to take decision differs in each system. In this paper, we propose an algorithm to aid users to take decisions depending upon previous decisions taken by the same or a different user. The system stores the decisions taken by user p1 under a given scenario for a particular situation. Later on when user p2 needs to take a decision, the system mines for similar situations faced by p1 and assigns weight to them, followed by calculation of priorities of p2's scenario. Next, standard deviation and priorities of p1's situation(s) in comparison to p2's situation is done. This is followed by finding out impact factor of each of p1's situation(s). Finally using impact factors an impact matrix is derived which shows the decisions that p2 can take. This algorithm has wide range of applications such as the banking sector. The results shown in this paper illustrate how the algorithm is implemented.
+
+

@@ -1,0 +1,10 @@
+
+3-D cohesive finite element model for application in structural analysis of heavy duty composite pavements
+
+
+
+
+ 
+© 2015 Elsevier Ltd. All rights reserved. The problem of stiffness degradation in composite pavement systems from localised fracture damage in the quasibrittle cement bound granular mixture are today taken into account only by empirical formulas. These formulas deals with a limited number of materials in a restricted range of design options and would yield unrealistic results in ultimate loading conditions. Cohesive modelling is one of the primary methods to handle localised damage in quasi-brittle materials, e.g., concrete, describing the potential crack in a discrete manner. To increase the versatility of existing methods this paper presents a numerical analysis of the fracture behaviour of cement bound granular mixtures in composite concrete block pavement systems applying a cohesive model. The functionality of the proposed model is compared to experimental investigations of beam bending tests. The pavement is modelled as a slab on grade and parameters influencing the response such as geometry, material parameters and loading position are studied and compared to experimental results. It is found that a cohesive model is suitable for the description of the fracture behaviour of cement bound granular mixtures. Moreover, it can be shown that adequately good prediction of the structural response of composite pavements is obtained for monotonic loading without significant computational cost, making the model applicable for engineering design purpose. It is envisaged that the methodology implemented in this study can be extended and thereby contribute to the ongoing development of rational failure criteria that can replace the empirical formulas currently used in pavement engineering.
+
+

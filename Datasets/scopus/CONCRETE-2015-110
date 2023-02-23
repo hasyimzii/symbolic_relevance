@@ -1,0 +1,10 @@
+
+Control of mode conversion transient process of medium frequency solid-state power supply
+
+
+
+
+ 
+© 2015, The editorial office of Transaction of China Electrotechnical Society. All right reserved. The mode conversion transient process is very important to the 400Hz solid-state power supply integration system. For this reason, this paper analyzes the principle of network building, its independent operation with or without local loads during the integration process, and the effects of different switching sequences on mode conversion transient process. The conclusion is that the mode switch (MS) must turn on before the solid-state switch (SSS) at the on-grid state, while the SSS must turn off before the MS at the off-grid state. Therefore, a strategy of smooth control for the system which includes some concrete steps is proposed. It can achieve grid connection without shock by the average distribution of peak currents and smooth the adjustments of peak current and phase. Case study has verified the method for smooth control.
+
+

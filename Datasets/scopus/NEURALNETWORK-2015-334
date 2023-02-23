@@ -1,0 +1,10 @@
+
+A novel resource reservation scheme for mobile PHEVs in V2G environment using game theoretical approach
+
+
+
+
+ 
+© 2015 IEEE. With the widespread penetration of plug-in hybrid electric vehicles (PHEVs), the overall demand on microgrids (MGs) may increase manifold in the near future. Unregulated power demands from PHEVs may increase the demand-supply gap at MGs. Thus, to keep MGs stabilize and cater the evergrowing energy demands, there is a requirement of an intelligent solution to regulate and manage PHEVs in vehicle-to-grid (V2G) environment. Keeping in view the given issues, this paper proposes a novel scheme that aims to regulate PHEVs' charging and discharging activities based on MGs' day-ahead load curves. These load curves are obtained by utilizing the existing load forecasting techniques such as fuzzy logic (FL) and artificial neural networks (ANNs). Efficient utilization of PHEVs according to these curves may play a vital role in flattening MG's load profile. Thus, the proposed scheme works by reserving resources such as time slots and charging points (CPs) for PHEVs during peak shaving and valley filling. Different algorithms pertaining to resource reservation for PHEVs have also been designed. These algorithms employ the concepts of game theory and the 0/1 knapsack problem for supporting peak shaving and valley filling, respectively. Moreover, PHEVs are also utilized when there are transitions from valley filling to peak shaving areas in the load curves and vice versa. PHEVs involved in this process have both charging and discharging capabilities and are referred to as dual-mode PHEVs. The proposed scheme has been tested with respect to various parameters, and its performance was found satisfactory.
+
+

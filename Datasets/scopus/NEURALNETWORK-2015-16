@@ -1,0 +1,10 @@
+
+Reverberant speech recognition combining deep neural networks and deep autoencoders augmented with a phone-class feature
+
+
+
+
+ 
+© 2015, Mimura et al. We propose an approach to reverberant speech recognition adopting deep learning in the front-end as well as b a c k-e n d o f a r e v e r b e r a n t s p e e c h r e c o g n i t i o n s y s t e m, a n d a n o v e l m e t h o d t o i m p r o v e t h e d e r e v e r b e r a t i o n p e r f o r m a n c e of the front-end network using phone-class information. At the front-end, we adopt a deep autoencoder (DAE) for enhancing the speech feature parameters, and speech recognition is performed in the back-end using DNN-HMM acoustic models trained on multi-condition data. The system was evaluated through the ASR task in the Reverb Challenge 2014. The DNN-HMM system trained on the multi-condition training set achieved a conspicuously higher word accuracy compared to the MLLR-adapted GMM-HMM system trained on the same data. Furthermore, feature enhancement with the deep autoencoder contributed to the improvement of recognition accuracy especially in the more adverse conditions. While the mapping between reverberant and clean speech in DAE-based dereverberation is conventionally conducted only with the acoustic information, we presume the mapping is also dependent on the phone information. Therefore, we propose a new scheme (pDAE), which augments a phone-class feature to the standard acoustic features as input. Two types of the phone-class feature are investigated. One is the hard recognition result of monophones, and the other is a soft representation derived from the posterior outputs of monophone DNN. The augmented feature in either type results in a significant improvement (7–8 % relative) from the standard DAE.
+
+

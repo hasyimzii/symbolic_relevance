@@ -1,0 +1,2 @@
+Structural alignment of retroviral protease sequences.
+All the known retroviral proteases can be accommodated into the structural alignment of the Rous sarcoma virus and human immunodeficiency virus proteases.

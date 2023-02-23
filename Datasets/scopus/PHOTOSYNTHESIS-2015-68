@@ -1,0 +1,10 @@
+
+Detection of periodic patterns in microarray data reveals novel oscillating transcripts of biological rhythms in Ciona intestinalis
+
+
+
+
+ 
+© 2015, ISAROB. A circadian rhythm is a roughly 24-h cycle in biological processes and physiological phenomena such as sleep, feeding, and photosynthesis for many organisms on Earth. The circadian patterns are coordinated by rhythmical gene expression of clock genes. Time-course transcriptomic analyses involving statistical methods have shown coordination of periodic gene expression in many organisms. Here we applied the cosine fitting method COSOPT to identify novel oscillating genes in microarray data for the chordate Ciona intestinalis. This organism showed rhythmic oxygen consumption in our previous study, but there were few homologous clock genes showing rhythmic mRNA expression. To understand circadian behavior at the transcriptomic level, we analyzed the 817 of 21,938 probes showing a 23- to 25-h period by means of COSOPT. Coupling the analysis of period detection with functional annotations indicated that previously unknown rhythmic mRNA expression might exist in C. intestinalis. In addition, we are releasing our implementation of COSOPT by means of R and C. All source code and supplementary information are available from https://github.com/mhiromi/cosopt.
+
+

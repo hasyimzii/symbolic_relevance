@@ -1,0 +1,10 @@
+
+On the performance of simple trading rules derived from the fractal dynamics of gold and silver price fluctuations
+
+
+
+
+ 
+© 2015 Elsevier Inc. In a recent study of the fractal dynamics of gold-silver spreads, Batten et al. (2013) suggest that the Hurst coefficient (a simple measure of long-range dependence) may be a promising tool for the development of profitable trading rules in precious metals markets. In this note, we put this proposal to the test and significantly extend their preliminary evidence by (i) implementing more sophisticated Hurst coefficient estimators, (ii) modelling a simple trading rule in the spirit of De Souza and Gokcan (2004) and (iii) explicitly considering the role of transaction costs. For the period from 1979 to 2015, an analysis of gold, silver and the gold-silver spread shows that our Hurst coefficient strategy tends to outperform passive buy-and-hold approaches. In other words, we find that Hurst coefficients are predictors of future returns and thus contain important investment information. Interestingly, this result holds regardless of the choice of Hurst coefficient estimator and is robust to transaction costs, different holding period lengths and a series of other sensitivity checks.
+
+

@@ -1,0 +1,10 @@
+
+A prediction algorithm for data analysis in GPR-based surveys
+
+
+
+
+ 
+© 2015 Elsevier B.V. This paper presents a prediction algorithm for features detection in Ground Penetrating Radar (GPR) based surveys. Based on signal processing and soft-computing techniques, the coupled use of principal-component analysis and neural networks enable a definition of an efficient method for analyzing GPR electromagnetic data. To guarantee a low error rate, a study of the algorithm main numerical parameters was performed by means of electromagnetic synthetic-data models. Results for detecting features of geological layers demonstrate not only the method predictions accuracy but also the simple interpretation of its output through scenarios reconstructed images.
+
+

@@ -1,0 +1,10 @@
+
+Structural behavior of SC panel subjected to impact loading using finite element analysis
+
+
+
+
+ 
+© 2015 Elsevier B.V. All rights reserved. After the terrorist attack on the World Trade Center using aircraft in New York City in 2001, safety assessments of nuclear power plant (NPP) structures subjected to impact loading have been actively performed. Since impact tests are possible for small-scale structures but not for full-scale structures, finite element (FE) analysis is necessary for a safety assessment of NPP structure. Analysis factors such as the material model of concrete and steel, strain rate effect, concrete fracture energy, and erosion value influence the analysis results. In this paper, the effect of the concrete fracture energy and the erosion in the material model of a steel-plate concrete (SC) panel subjected to the impact loading is evaluated using the commercial software LS-DYNA. The analysis results are compared with the impact test for an SC panel conducted in other research. A quarter model of an SC panel is adopted for impact analysis. The impact force-time history is applied on the SC panel. Sensitivity studies according to the fracture energy and the erosion value are performed in order to evaluate the structural behavior of SC panels.
+
+

@@ -1,0 +1,10 @@
+
+Automated microscopy and machine learning for expert-level malaria field diagnosis
+
+
+
+
+ 
+© 2015 IEEE. The optical microscope is one of the most widely used tools for diagnosing infectious diseases in the developing world. Due to its reliance on trained microscopists, field microscopy often suffers from poor sensitivity, specificity, and reproducibility. The goal of this work, called the Autoscope, is a low-cost automated digital microscope coupled with a set of computer vision and classification algorithms, which can accurately diagnose of a variety of infectious diseases, targeting use-cases in the developing world. Our initial target is malaria, because of the high difficulty of the task and because manual microscopy is currently a central but highly imperfect tool for malaria work in the field. In addition to diagnosis, the algorithm performs species identification and quantitation of parasite load, parameters which are critical in many field applications but which are not effectively determined by rapid diagnostic tests (RDTs). We have built a hardware prototype which can scan approximately 0.1 μL of blood volume in a standard Giemsa-stained thick smear blood slide in approximately 20 minutes. We have also developed a comprehensive machine learning framework, leveraging computer vision and machine learning techniques including support vector machines (SVMs) and convolutional neural networks (CNNs). The Autoscope has undergone successful initial field testing for malaria diagnosis in Thailand.
+
+

@@ -1,0 +1,10 @@
+
+A feature level multimodal approach for palmprint and knuckleprint recognition using AdaBoost classifier
+
+
+
+
+ 
+© 2015 IEEE. This paper represents a multimodal biometric recognition system by combining palmprint and knuckleprint images based on feature level fusion. We intend to propose an effective feature representation using Dual Tree-Complex Wavelet Transform which provides both approximate shift invariance and good directional selectivity. This representation is intends to better preserve the discriminable features in order to achieve less redundancy and high computational efficiency. AdaBoost classifier has been employed to address the problem of limited number of training data in unimodal systems. This is done by combining neural networks as weak learners. Here we do not regard the method presented as state-of-the-art; rather, we aim to show the efficiency of AdaBoost classifier in comparison with other matching approaches. Our researches indicate that no advanced paper has yet used this classifier in the design of palmprint and knuckleprint multimodal systems. The performance of our multimodal system using AdaBoost classifier is proved overall superior to unimodal and other matching approaches.
+
+

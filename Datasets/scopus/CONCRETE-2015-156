@@ -1,0 +1,10 @@
+
+Mechanical behavior of steel-reinforced concrete-filled steel tubular (SRCFST) columns under uniaxial compressive loading
+
+
+
+
+ 
+© 2015 Elsevier Ltd. All rights reserved. In this paper, the mechanical behaviors and failure mechanism of steel-reinforced concrete-filled steel tubular (SRCFST) columns were numerically investigated with the software of ABAQUS/standard solver. Existing experimental results were employed to verify the validity of the finite element models of SRCFST columns. A total of 22 specimens were numerically studied to examine the effect of steel tube ratio (αt), section steel ratio (αs), concrete strength (fc), yield strength of steel tube (fyt) and yield strength of section steel (fys) on the mechanical behaviors and ultimate resistance of the SRCFST columns under axial compression. The model in Eurocode 4 significantly underestimated the load bearing capacity of SRCFST columns, and a new model was then proposed to predict the strength of the SRCFST columns. Based on the comparison between the calculation results from the proposed model and experimental results, the proposed model can provide reliable prediction of the ultimate load carrying capacity for the SRCFST columns.
+
+

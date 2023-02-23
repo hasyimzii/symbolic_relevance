@@ -1,0 +1,10 @@
+
+Fiber detection in the image of concrete with polyester fiber based on a percolation growth model
+
+
+
+
+ 
+© All right reserved. According to the characteristics of an image of concrete with polyester fiber, a percolation model described by seepage mechanics is introduced in image processing. Combining with an image growth algorithm, the circular degree threshold is used to determine the fiber pixel point, and fiber detection is realized in the image with bad background. After the algorithm is improved, the detection accuracy and speed increase. The feasibility of the algorithm for a complicated image of concrete with polyester fiber is verified through examples.
+						
+

@@ -1,0 +1,10 @@
+
+Data assimilation of ocean wind waves using Neural Networks: A case study for the German Bight
+
+
+
+
+ 
+© 2015 Elsevier Ltd. A novel approach of data assimilation based on Neural Networks (NN's) is presented and applied to wave modeling in the German Bight. The method takes advantage from the ability of NN's to emulate models and to invert them. Combining forward and inverse model NN with the Levenberg-Marquardt algorithm provides boundary values or wind fields in agreement with measured wave integrated parameters. Synthesized HF-radar wave data are used to test the technique for two academic cases.
+
+

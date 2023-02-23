@@ -1,0 +1,10 @@
+
+Optimal investment in multidimensional Markov-modulated affine models
+
+
+
+
+ 
+© 2015, Springer-Verlag Berlin Heidelberg. In a multidimensional affine framework we consider a portfolio optimization problem with finite horizon, where an investor aims to maximize the expected utility of her terminal wealth. We state a very flexible asset price model that incorporates several risk factors modeled both by diffusion processes and by a Markov chain. Exploiting the affine structure of the model we solve the corresponding Hamilton–Jacobi–Bellman equations explicitly up to an expectation only over the Markov chain or equivalently up to a system of simple ODEs. The relevance of the presented model is illustrated on two examples including a stochastic short rate model with trading in the bond and the stock market, and a multidimensional stochastic volatility and stochastic correlation model. Precise verification results for both examples are provided. Economic interpretations of the models and results complement the theoretical analysis.
+
+

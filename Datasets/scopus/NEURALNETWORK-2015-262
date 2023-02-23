@@ -1,0 +1,10 @@
+
+Comparative assessment of glucose prediction models for patients with type 1 diabetes mellitus applying sensors for glucose and physical activity monitoring
+
+
+
+
+ 
+© 2015, International Federation for Medical and Biological Engineering. The present work presents the comparative assessment of four glucose prediction models for patients with type 1 diabetes mellitus (T1DM) using data from sensors monitoring blood glucose concentration. The four models are based on a feedforward neural network (FNN), a self-organizing map (SOM), a neuro-fuzzy network with wavelets as activation functions (WFNN), and a linear regression model (LRM), respectively. For the development and evaluation of the models, data from 10 patients with T1DM for a 6-day observation period have been used. The models’ predictive performance is evaluated considering a 30-, 60- and 120-min prediction horizon, using both mathematical and clinical criteria. Furthermore, the addition of input data from sensors monitoring physical activity is considered and its effect on the models’ predictive performance is investigated. The continuous glucose-error grid analysis indicates that the models’ predictive performance benefits mainly in the hypoglycemic range when additional information related to physical activity is fed into the models. The obtained results demonstrate the superiority of SOM over FNN, WFNN, and LRM with SOM leading to better predictive performance in terms of both mathematical and clinical evaluation criteria.
+
+

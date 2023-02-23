@@ -1,0 +1,10 @@
+
+A fuzzy-filtered grey network technique for system state forecasting
+
+
+
+
+ 
+© 2014, Springer-Verlag Berlin Heidelberg. A fuzzy-filtered grey network (FFGN) technique is proposed in this paper for time series forecasting and material fatigue prognosis. In the FFGN, the fuzzy-filtered reasoning mechanism is proposed to formulate fuzzy rules corresponding to different data characteristics; grey models are used to carry out short-term forecasting corresponding to different rules. A novel hybrid training method is proposed to adaptively update model parameters and improve training efficiency. The effectiveness of the developed FFGN is demonstrated by a series of simulation tests. It is also implemented for material fatigue prognosis. Test results show that the developed FFGN predictor can capture data characteristics effectively and forecast data trend accurately.
+
+

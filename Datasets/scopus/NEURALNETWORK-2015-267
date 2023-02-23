@@ -1,0 +1,10 @@
+
+The effect of whitening transformation on pooling operations in convolutional autoencoders
+
+
+
+
+ 
+© 2015, Li et al.; licensee Springer. Convolutional autoencoders (CAEs) are unsupervised feature extractors for high-resolution images. In the pre-processing step, whitening transformation has widely been adopted to remove redundancy by making adjacent pixels less correlated. Pooling is a biologically inspired operation to reduce the resolution of feature maps and achieve spatial invariance in convolutional neural networks. Conventionally, pooling methods are mainly determined empirically in most previous work. Therefore, our main purpose is to study the relationship between whitening processing and pooling operations in convolutional autoencoders for image classification. We propose an adaptive pooling approach based on the concepts of information entropy to test the effect of whitening on pooling in different conditions. Experimental results on benchmark datasets indicate that the performance of pooling strategies is associated with the distribution of feature activations, which can be affected by whitening processing. This provides guidance for the selection of pooling methods in convolutional autoencoders and other convolutional neural networks.
+
+

@@ -1,0 +1,10 @@
+
+Competition and collaboration in cooperative coevolution of elman recurrent neural networks for time-series prediction
+
+
+
+
+ 
+© 2015 IEEE. Collaboration enables weak species to survive in an environment where different species compete for limited resources. Cooperative coevolution (CC) is a nature-inspired optimization method that divides a problem into subcomponents and evolves them while genetically isolating them. Problem decomposition is an important aspect in using CC for neuroevolution. CC employs different problem decomposition methods to decompose the neural network training problem into subcomponents. Different problem decomposition methods have features that are helpful at different stages in the evolutionary process. Adaptation, collaboration, and competition are needed for CC, as multiple subpopulations are used to represent the problem. It is important to add collaboration and competition in CC. This paper presents a competitive CC method for training recurrent neural networks for chaotic time-series prediction. Two different instances of the competitive method are proposed that employs different problem decomposition methods to enforce island-based competition. The results show improvement in the performance of the proposed methods in most cases when compared with standalone CC and other methods from the literature.
+
+

@@ -1,0 +1,10 @@
+
+On extended dissipativity of discrete-time neural networks with time delay
+
+
+
+
+ 
+© 2015 IEEE. In this brief, the problem of extended dissipativity analysis for discrete-time neural networks with time-varying delay is investigated. The definition of extended dissipativity of discrete-time neural networks is proposed, which unifies several performance measures, such as the H∞ performance, passivity, l2-l∞ performance, and dissipativity. By introducing a triple-summable term in Lyapunov function, the reciprocally convex approach is utilized to bound the forward difference of the triple-summable term and then the extended dissipativity criterion for discrete-time neural networks with time-varying delay is established. The derived condition guarantees not only the extended dissipativity but also the stability of the neural networks. Two numerical examples are given to demonstrate the reduced conservatism and effectiveness of the obtained results.
+
+

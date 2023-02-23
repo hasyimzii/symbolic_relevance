@@ -1,0 +1,10 @@
+
+Statistical process monitoring with integration of data projection and one-class classification
+
+
+
+
+ 
+© 2015. One-class classification (OCC) has attracted a great deal of attentions from various disciplines. Few attempts are made to extend the scope of such application for process monitoring. In the present work, the Principal Component Analysis (PCA) and Variational Bayesian Principal Component Analysis (VBPCA) approach provides a powerful tool to project original data into lower data set as well as spreading different types of faults with different directions. This, along with multiple types of one-class classifiers (density-based, boundary-based, reconstruction-based and combination-based) that are able to isolate abnormal data from normal one, supported the design of process monitoring. These methodologies have been validated by process data collected from a Wastewater Treatment Plant (WWTP). The results showed that the proposed methodology is capable of detecting sensor faults and process faults with good accuracy under different scenarios.
+
+

@@ -1,0 +1,10 @@
+
+Object segmentation with deep regression
+
+
+
+
+ 
+© 2015 IEEE. Object segmentation has constantly received much attention due to its fundamental role in scene understanding. Traditional methods formulate it as a structured prediction problem, represented by graphical models (GMs). However, most GMs have difficulties in balancing the effectiveness of context modeling and efficiency of model inference. In this paper, we model the contexts implicitly using the deep convolutional neural network (DCNN). Specifically, we reformulate object segmentation as a regression problem and train a deep network end-to-end to learn the nonlinear mapping from the image to the object mask. The large receptive field of the network incorporates wide contexts to update the network parameters, giving an implicit context model. Moreover, the deep architecture is favorable for modeling nonlinearity. The inference of our method is quite efficient, involving only a simple feed-forward pass. Extensive experiments on public datasets demonstrate the advantages of our method.
+
+

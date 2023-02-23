@@ -1,0 +1,10 @@
+
+A fixed-point neural network for keyword detection on resource constrained hardware
+
+
+
+
+ 
+© 2015 IEEE. Keyword detection is typically used as a front-end to trigger automatic speech recognition and spoken dialog systems. The detection engine needs to be continuously listening, which has strong implications on power and memory consumption. In this paper, we devise a neural network architecture for keyword detection and present a set of techniques for reducing the memory requirements in order to make the architecture suitable for resource constrained hardware. Specifically, a fixed-point implementation is considered; aggressively scaling down the precision of the weights lowers the memory compared to a naive floating-point implementation. For further optimization, a node pruning technique is proposed to identify and remove the least active nodes in a neural network. Experiments are conducted over 10 keywords selected from the Resource Management (RM) database. The trade-off between detection performance and memory is assessed for different weight representations. We show that a neural network with as few as 5 bits per weight yields a marginal and acceptable loss in performance, while requiring only 200 kilobytes (KB) of on-board memory and a latency of 150 ms. A hardware architecture using a single multiplier and a power consumption of less than 10mW is also presented.
+
+

@@ -1,0 +1,10 @@
+
+Using COMSOL modeling to investigate the efficiency of PCMs at modifying temperature changes in cementitious materials - Case study
+
+
+
+
+ 
+© 2015 Elsevier Ltd. In recent decades, much research has investigated the efficiency of Phase Change Materials (PCMs) in improving the thermal properties of concrete. In buildings, increasing the thermal inertia of structural elements by incorporating PCMs decreases the energy required to keep the inside temperature in the comfort range. In concrete pavements, using PCMs decreases the number of freeze/thaw cycles experienced by the pavement and thus increases service life. In this study, COMSOL multi-physic modeling software was used to make a computational model of a concrete specimen containing PCM in order to simulate the temperature changes of a structural element under typical meteorological year (TMY2 and TMY3) data. Guarded Longitudinal Comparative Calorimetry (GLCC) tests were conducted to verify the accuracy of the COMSOL model. The results show that using a PCM with a melting point near the occupant comfort zone makes the inside temperature profile smoother and increases the length of time during which the temperature is in the comfort zone. In the cases of PCMs with melting temperatures close to the freezing point of water in concrete, the number of times that the core temperature of a simulated concrete pavement dropped below the freezing point decreased, thus reducing the number of freeze/thaw cycles experienced by the pavement.
+
+

@@ -1,0 +1,10 @@
+
+Design of radial basis function neural network classifier realized with the aid of data preprocessing techniques: design and analysis
+
+
+
+
+ 
+© 2015 Taylor & Francis In this paper, we introduce a new architecture of optimized Radial Basis Function neural network classifier developed with the aid of fuzzy clustering and data preprocessing techniques and discuss its comprehensive design methodology. In the preprocessing part, the Linear Discriminant Analysis (LDA) or Principal Component Analysis (PCA) algorithm forms a front end of the network. The transformed data produced here are used as the inputs of the network. In the premise part, the Fuzzy C-Means (FCM) algorithm determines the receptive field associated with the condition part of the rules. The connection weights of the classifier are of functional nature and come as polynomial functions forming the consequent part. The Particle Swarm Optimization algorithm optimizes a number of essential parameters needed to improve the accuracy of the classifier. Those optimized parameters include the type of data preprocessing, the dimensionality of the feature vectors produced by the LDA (or PCA), the number of clusters (rules), the fuzzification coefficient used in the FCM algorithm and the orders of the polynomials of networks. The performance of the proposed classifier is reported for several benchmarking data-sets and is compared with the performance of other classifiers reported in the previous studies.
+
+

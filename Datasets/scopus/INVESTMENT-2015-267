@@ -1,0 +1,10 @@
+
+How sensitive is the pricing of lookback and interest rate guarantees when changing the modelling assumptions?
+
+
+
+
+ 
+© 2015 Elsevier B.V. This paper aims to give detailed insights into the price sensitivity of embedded investment guarantees provided by unit-linked life insurance products. Particularly, it analyzes the model and parameter risk from the provider's perspective. We compare two different forms of investment guarantees: Interest Rate Guarantees (IRG) and Lookback Guarantees (LBG). Via Monte Carlo simulation, the prices of the embedded investment guarantees are estimated assuming the underlying to evolve according to a normal or double-exponential jump-diffusion model. The input parameters are derived from empirical data for various asset classes. In a first step, the parameters of the IRG and the LBG are adjusted such the prices of these two guarantees are equal. In a second step, a detailed comparison is made between the price sensitivities of both guarantee forms when the initial modelling parameters are changed. Finally, we investigate how parameter changes affect the investor payoff under the different guarantee forms and model assumptions used for the dynamic of the underlying.
+
+

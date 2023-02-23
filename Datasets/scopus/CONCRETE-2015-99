@@ -1,0 +1,10 @@
+
+Sensitivity analysis of creep models considering correlation
+
+
+
+
+ 
+© 2015 RILEM Correlations between the parameters involved in creep models are relatively complex, resulting in difficulties to identify the contribution of each parameter on the predicted creep and reduce creep uncertainty. Sensitivity analysis is a method to quantify the contribution of those parameters. Based on six creep models, B3, B4, ACI-209, MC90, fib MC 2010 and GL2000, the sensitivity of eight parameters, water cement ratio w/c, aggregate cement ratio a/c, cement content c, 28-day compressive strength fcm, 28-day elasticity modulus E28, effective thickness of specimen D, temperature T, and relative humidity H, to the models was analyzed. An updated creep database, NU database, was used to obtain the statistical characters and correlation matrix of the parameters. For these six creep models, direct and indirect path coefficients of each parameter were calculated by using Path Analysis and the path diagrams of the six creep models were obtained. It can be found that there are still some issues in the existing creep models, that coupling relation between the parameters has not been paid enough attentions. Furthermore, concerning the nonlinear relation between parameters, sensitivity of the creep to the parameters were decomposed into correlated and uncorrelated parts by using back propagation artificial neural network. The sensitivity of the six models to each parameter differs from each other, and the basic parameters are identified in the six models by using path analysis and sensitivity analysis.
+
+

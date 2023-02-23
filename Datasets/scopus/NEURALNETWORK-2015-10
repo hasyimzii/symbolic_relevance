@@ -1,0 +1,10 @@
+
+A fuzzy neural network based framework to discover user access patterns from web log data
+
+
+
+
+ 
+© 2015 Springer-Verlag Berlin Heidelberg Clustering data from web user sessions is extensively applied to extract customer usage behavior to serve customized content to individual users. Due to the human involvement, web usage data usually contain noisy, incomplete and vague information. Neural networks have the capability to extract embedded knowledge in the form of user session clusters from the huge web usage data. Moreover, they provide tolerance against imperfect and noisy data. Fuzzy sets are another popular tool utilized for handling uncertainty and vagueness hidden in the data. In this paper a fuzzy neural clustering network (FNCN) based framework is proposed that makes use of the fuzzy membership concept of fuzzy c-means (FCM) clustering and the learning rate of a modified self-organizing map (MSOM) neural network model and tries to minimize the weighted sum of the squared error. FNCN is applied to cluster the users’ web access data extracted from the web logs of an educational institution’s proxy web server. The performance of FNCN is compared with FCM and MSOM based clustering methods using various validity indexes. Our results show that FNCN produces better quality of clusters than FCM and MSOM.
+		
+

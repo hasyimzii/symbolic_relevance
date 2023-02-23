@@ -1,0 +1,10 @@
+
+Decision approach of maintenance for urban rail transit based on equipment supervision data mining
+
+
+
+
+ 
+© 2015 IEEE. This paper discusses the features of equipment comprehensive maintenance and the defect of their operations, and generalizes the requirement and development oriented by intelligent decision making of urban rail transit. Then it figures out relations between faulty equipment groups, through massive monitoring data clustering. It also applies the anti-direction decision tree to build model to identify equipment types with high frequency failures. And neural network algorithm is used to develop a comparative analysis for evaluating the measuring results. When these preselected equipment class are put into plan of preventive and predictive maintenance, the reliability of the maintenance is improved. Then it takes certain urban rail transit as an example and the approach is used to build the Maintenance Management System (MMS), and the consistency proves the proposed model and algorithms possesses prominent feasibility and applicability, also, it helps to effective decision support of maintenance.
+
+

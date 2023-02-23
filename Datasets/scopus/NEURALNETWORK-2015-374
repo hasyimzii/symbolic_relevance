@@ -1,0 +1,10 @@
+
+A bio-system inspired nonline ar intelligent controller with application to bio-reactor system
+
+
+
+
+ 
+© 2015 Elsevier B.V. In order to improve the control effectiveness of some nonlinear processes, we propose a novel nonlinear guided intelligent controller (NGIC) inspired by the bi-cooperative regulation mechanism and the regulation characteristics of glucose in human body. The NGIC comprises a cooperative control unit (CCU), an enhanced control unit (ECU), an inhibited control unit (ICU) and an auxiliary control unit (ACU). To shorten the rise time of the process variable, the ECU first takes effect with a rapid step action when the set-point changes or a large error appears. After a prescribed time, the ICU takes effect with an opposite step action to reduce the system overshoot or to avoid oscillation. When the control system achieves a prescribed steady state or the control time exceeds a pre-defined limitation, the ACU becomes effective to improve the control precision of the NGIC by applying a central proportional law with a guided final control output. As a super managing unit, the CCU coordinates all the work of the ECU, the ICU and the ACU to make the NGIC eliminate the control error with short rise time, small overshoot and short settling time. To testify the control performance of the NGIC, we apply the NGIC to a bio-reactor process with large time variation. The simulation results indicate that the NGIC has better control performance than the conventional PID, internal model controller (IMC) and artificial neural network (ANN) controller. Hence, the NGIC is significant to improve the control effect for some complex practical processes.
+
+

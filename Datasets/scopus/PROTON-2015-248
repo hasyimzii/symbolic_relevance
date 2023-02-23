@@ -1,0 +1,10 @@
+
+Proton detection for signal enhancement in solid-state NMR experiments on mobile species in membrane proteins
+
+
+
+
+ 
+© 2015 Springer Science+Business Media Dordrecht. Direct proton detection is becoming an increasingly popular method for enhancing sensitivity in solid-state nuclear magnetic resonance spectroscopy. Generally, these experiments require extensive deuteration of the protein, fast magic angle spinning (MAS), or a combination of both. Here, we implement direct proton detection to selectively observe the mobile entities in fully-protonated membrane proteins at moderate MAS frequencies. We demonstrate this method on two proteins that exhibit different motional regimes. Myelin basic protein is an intrinsically-disordered, peripherally membrane-associated protein that is highly flexible, whereas Anabaena sensory rhodopsin is composed of seven rigid transmembrane α-helices connected by mobile loop regions. In both cases, we observe narrow proton linewidths and, on average, a 10× increase in sensitivity in 2D insensitive nuclear enhancement of polarization transfer-based HSQC experiments when proton detection is compared to carbon detection. We further show that our proton-detected experiments can be easily extended to three dimensions and used to build complete amino acid systems, including sidechain protons, and obtain inter-residue correlations. Additionally, we detect signals which do not correspond to amino acids, but rather to lipids and/or carbohydrates which interact strongly with membrane proteins.
+
+

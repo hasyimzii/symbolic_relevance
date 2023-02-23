@@ -1,0 +1,10 @@
+
+Neural-network based optimal dynamic control of delivering packets in Selfish wireless networks
+
+
+
+
+ 
+© 2015 IEEE. In this letter, we investigate the dynamic packet delivery through a specific path in selfish wireless networks (SeWNs) with cascaded selfish relay nodes (RN). A dynamic node-selfishness model is designed to formulate the variation of the RN's degree of node-selfishness (DeNS) with both its own resource and the incentive controlled by the source. When the node-selfishness dynamics are unknown, using the neural network (NN), we further identify the node-selfishness model and then approximate the optimal incentives for maximizing the infinite-horizon utility, namely the tradeoff between the path reliability and the incentive cost in the long term. Simulation results demonstrate the effectiveness of the proposed scheme.
+
+

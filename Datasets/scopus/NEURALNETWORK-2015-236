@@ -1,0 +1,10 @@
+
+SpikeTemp: An Enhanced Rank-Order-Based Learning Approach for Spiking Neural Networks With Adaptive Structure
+
+
+
+
+ 
+This paper presents an enhanced rank-order-based learning algorithm, called SpikeTemp, for spiking neural networks (SNNs) with a dynamically adaptive structure. The trained feed-forward SNN consists of two layers of spiking neurons: 1) an encoding layer which temporally encodes real-valued features into spatio-temporal spike patterns and 2) an output layer of dynamically grown neurons which perform spatio-temporal classification. Both Gaussian receptive fields and square cosine population encoding schemes are employed to encode real-valued features into spatio-temporal spike patterns. Unlike the rank-order-based learning approach, SpikeTemp uses the precise times of the incoming spikes for adjusting the synaptic weights such that early spikes result in a large weight change and late spikes lead to a smaller weight change. This removes the need to rank all the incoming spikes and, thus, reduces the computational cost of SpikeTemp. The proposed SpikeTemp algorithm is demonstrated on several benchmark data sets and on an image recognition task. The results show that SpikeTemp can achieve better classification performance and is much faster than the existing rank-order-based learning approach. In addition, the number of output neurons is much smaller when the square cosine encoding scheme is employed. Furthermore, SpikeTemp is benchmarked against a selection of existing machine learning algorithms, and the results demonstrate the ability of SpikeTemp to classify different data sets after just one presentation of the training samples with comparable classification performance.
+
+

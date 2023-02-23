@@ -1,0 +1,10 @@
+
+Distributed Adaptive Neural Network Output Tracking of Leader-Following High-Order Stochastic Nonlinear Multiagent Systems With Unknown Dead-Zone Input
+
+
+
+
+ 
+This paper studies the problem of distributed output tracking consensus control for a class of high-order stochastic nonlinear multiagent systems with unknown nonlinear dead-zone under a directed graph topology. The adaptive neural networks are used to approximate the unknown nonlinear functions and a new inequality is used to deal with the completely unknown dead-zone input. Then, we design the controllers based on backstepping method and the dynamic surface control technique. It is strictly proved that the resulting closed-loop system is stable in probability in the sense of semiglobally uniform ultimate boundedness and the tracking errors between the leader and the followers approach to a small residual set based on Lyapunov stability theory. Finally, two simulation examples are presented to show the effectiveness and the advantages of the proposed techniques.
+
+

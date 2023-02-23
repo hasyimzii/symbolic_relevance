@@ -1,0 +1,10 @@
+
+A Soft Sensor Based on the Integration of Tikhonov Extreme Learning Machine and Accelerated Kernels for Real-Time Estimation of Automotive Catalyst Temperatures
+
+
+
+
+ 
+© 2015 Imperial College Press. This papers deals with the design of an efficient intelligent tool for automotive engine coldstart monitoring applications. The real-time identification and control of engine coldstart operations have been proven to be very formidable tasks. This refers to the highly nonlinear and transient behavior of the engine system over coldstart operations. As the catalyst temperature is not sufficiently high, the amount of tailpipe hydrocarbon emissions is remarkable over this period. The researchers of systems sciences have investigated the development of soft sensors which are needed to monitor the catalyst temperature for enabling effective coldstart controllers to reduce the emissions. However, most of the conducted researches have focused on using complicated statistical models as well as gradient-based neural networks for the considered problem. This raises several problems regarding the generalization and computational efficiency of the proposed models. In this paper, the authors propose a novel computationally efficient method based on the integration of accelerated kernels and Tikhonov regularized extreme learning machine for the online monitoring of the catalyst temperature over the coldstart period for a given engine. Based on the results of comparative simulations, the authors demonstrate that the proposed soft sensor can be very effective for automotive coldstart applications.
+
+

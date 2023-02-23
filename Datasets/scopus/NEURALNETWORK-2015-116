@@ -1,0 +1,10 @@
+
+Regularization of deep neural networks using a novel companion objective function
+
+
+
+
+ 
+© 2015 IEEE. A novel objective function of deep neuron networks with companion losses of both convolutional layers and non-linear activation functions is proposed, aiming to obtain more discriminative features. Conventional deep neuron networks were generally trained by the end-to-end supervised learning framework, whose performance is restricted by the training problems, such as the gradient vanishing problem, leading to less discriminative features, especially in lower layers. Instead, we build a novel objective function with two kinds of companion losses. The advantages of this framework are as follows: Firstly, it facilities the optimization by solving the gradient vanishing problem. Secondly, both kinds of companion supervised information contribute to obtain more discriminative features. Finally, a good initialization for fine-tuning could be obtained with the aid of the companion supervised training. Experimental results demonstrate the proposed model yielding better performances on the image classification benchmark dataset.
+
+

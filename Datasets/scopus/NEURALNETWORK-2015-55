@@ -1,0 +1,10 @@
+
+A novel hybrid water quality time series prediction method based on cloud model and fuzzy forecasting
+
+
+
+
+ 
+© 2015 Elsevier B.V. Accurate water quality time series prediction can provide support to early warning of water pollution as well as decision-making for water resource management. Due to the uncertainty of the water quality data including randomness, fuzziness, imprecision, and nonstationary, the prediction accuracy of the traditional models has been limited. In this paper, a multi-factor water quality time series prediction model is proposed, based on Heuristic Gaussian cloud transformation, the approximate periodicity of water quality parameter and fuzzy time series model. The proposed model uses the Heuristic Gaussian cloud transformation algorithm to extract the uncertain numerical time series into Gaussian clouds, and constructs the training dataset by calculating the length of the approximate periodicity, which can greatly reduce the noise data. Then, it applies the fuzzy time series model to do the prediction. The proposed model is tested for DO, COD. Mn, water temperature and EC prediction. The experimental results show that the proposed method significantly improved the prediction accuracy compared with the existing time series prediction models for water quality prediction.
+
+

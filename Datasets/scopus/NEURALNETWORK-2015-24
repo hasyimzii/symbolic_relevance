@@ -1,0 +1,10 @@
+
+EEG data classification using wavelet features selected by Wilcoxon statistics
+
+
+
+
+ 
+© 2014, The Natural Computing Applications Forum. This paper introduces a method to classify EEG signals using features extracted by an integration of wavelet transform and the nonparametric Wilcoxon test. Orthogonal Haar wavelet coefficients are ranked based on the Wilcoxon test’s statistics. The most prominent discriminant wavelets are assembled to form a feature set that serves as inputs to the naïve Bayes classifier. Two benchmark datasets, named Ia and Ib, downloaded from the brain–computer interface (BCI) competition II are employed for the experiments. Classification performance is evaluated using accuracy, mutual information, Gini coefficient and F-measure. Widely used classifiers, including feedforward neural network, support vector machine, k-nearest neighbours, ensemble learning Adaboost and adaptive neuro-fuzzy inference system, are also implemented for comparisons. The proposed combination of Haar wavelet features and naïve Bayes classifier considerably dominates the competitive classification approaches and outperforms the best performance on the Ia and Ib datasets reported in the BCI competition II. Application of naïve Bayes also provides a low computational cost approach that promotes the implementation of a potential real-time BCI system.
+
+

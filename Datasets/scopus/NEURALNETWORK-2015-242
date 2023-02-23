@@ -1,0 +1,10 @@
+
+A fault diagnosis method of reciprocating compressor based on sensitive feature evaluation and artificial neural network
+
+
+
+
+ 
+Copyright © by HIGH TECHNOLOGY LETTERS PRESS. A method combining information entropy and radial basis function network is proposed for fault automatic diagnosis of reciprocating compressors. Aiming at the current situation that the accuracy rate of reciprocating compressor fault diagnosis which depends on manual work in engineering is very low, we apply information entropy evaluation to select the sensitive features and make clear the corresponding relationship of characteristic parameters and failures. This method could reduce the feature dimension. Then, a complete fault diagnosis architecture has been built combining with radial basis function network which has the fast and efficient characteristics. According to the test results using experimental and engineering data, it is observed that the proposed fault diagnosis method improves the accuracy of fault automatic diagnosis effectively and it could improve the practicability of the monitoring system.
+
+

@@ -1,0 +1,10 @@
+
+Modeling diffusion of sulfate through concrete using mixture theory
+
+
+
+
+ 
+© 2015 Springer-Verlag Wien Concrete exposed to sulfates deteriorates. Here, an attempt is made to see whether the framework of mixture theory can be used to model the changes that occur in concrete exposed to sodium sulfate. Toward this, diffusion and reaction of sulfates with concrete is modeled within the framework of mixture theory. Appropriate choices are made for the Helmholtz free energy and interaction momentum so that the process of diffusion of sulfates in concrete can be captured. As expected in mixture theory, diffusion causes deformation of the solid. The parameters in the mixture theory model are determined by comparing the steady-state concentration profile of the diffusing sodium sulfate solution and inlet velocity of the fluid with that of Fick’s solution for the same boundary conditions. An assumption is made for the mass production term to capture the reaction of sulfates with concrete. The rate constant and order of the reaction are estimated using the concentration of gypsum, calcium hydroxide and ettringite reported in the literature, for various duration of exposure of cement pastes to known concentration of sodium sulfate solution. Finally, the governing equations for the combined problem of steady-state diffusion and reaction of sulfates with concrete are presented. A numerical scheme to solve the governing equations is outlined. Long-term concentration profiles of sodium sulfate predicted by the framework agree qualitatively with the experimentally observed profile reported in the literature.
+
+

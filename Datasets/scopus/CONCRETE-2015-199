@@ -1,0 +1,10 @@
+
+Truss models for inelastic stability analysis and design of steel plate girders
+
+
+
+
+ 
+© 2015 Elsevier Ltd. The capacity of a truss model introduced in the past to represent steel and steel-concrete composite I-girders is examined to non-linear stability problems that include various stability modes. Linear buckling and geometrically and material non-linear analyses including equivalent geometrical imperfections are performed applying the truss model and a detailed shell finite element model. The results indicate that the truss model correctly determines the critical buckling modes and accurately describes the structural response up to and after the limit load. Its big advantage compared to a detailed shell element model is the easier implementation, the smaller computation time and the easier interpretation and exploitation of results. The truss model constitutes accordingly a viable alternative to Codes' prescribed simplified methods for buckling design of specific topologies, like for plate girder bridges, both in the construction and the service phase.
+
+

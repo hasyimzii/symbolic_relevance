@@ -1,0 +1,10 @@
+
+Numerical simulation for chloride transport of nonsaturated R.C at coastal zone
+
+
+
+
+ 
+© 2015, Editorial Board of Journal of Harbin Institute of Technology. All right reserved. Capacity Matrix, Transfer Matrix and Chloride Passing Rate Vector are associated with variables in transient heat balance equation, and a numerical simulation method by ANSYS thermal analysis module for chloride transport in nonsaturated concrete is proposed to investigate the chloride transport model in nonsaturated concrete. The numerical results are validated by experimental data. A R.C beam is corroded with chloride from three different directions, respectively. The results indicate that the chloride concentration by numerical simulation is very close to the experimental results. Numerical simulation provide another way for modeling chloride transport of nonsaturated concrete. For corrosion of R.C beam from single direction, the decay of chloride concentration is the quickest. The decay speed for corrosion from three directions is the slowest, and corrosion from two directions is in the middle. Corrosion from multiple directions leads to that the chloride concentration on the surface of rebar and stirrup is higher than single direction. Corrosion from multiple adjacent sections cause more easily rebars corrosion. The closer section will induce corrosion more seriously. Chloride transport to the right from the left of beam section within ten years, and the results of corrosion from two directions is a slightly more than that from three directions. Therefore, chloride penetration from multiple directions will induce more serious corrosion to the rebar in a long time.
+
+

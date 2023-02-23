@@ -1,0 +1,10 @@
+
+Trajectory tracking of nonlinear system using multiple series-parallel dynamic neural networks
+
+
+
+
+ 
+© 2015 Elsevier B.V. This paper presents a novel approach of adaptive control for unknown nonlinear continuous-time dynamic system using series-parallel dynamic neural networks (SPDNN) and multiple models. Dynamic neural networks are introduced into the multiple models adaptive control (MMAC), which can improve the adaptation ability of controllers for the plant with wide-range uncertain parameters. The adaptive law of SPDNN weight with unmodeled dynamics is derived from Lyapunov stability theory. In order to assure the effectivity of the controller, the projection algorithm is used to avoid the weight through zero. Multiple combinations of identification models based on SPDNN are used to cover the uncertainty of the plant. Based on the identification error, an effective switching scheme is applied to choose the best model and controller at every instant. The simulation results demonstrate that the proposed adaptive control using multiple dynamic neural networks models can achieve remarkable control performance for nonlinear continuous-time system.
+
+

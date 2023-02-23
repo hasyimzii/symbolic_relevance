@@ -1,0 +1,10 @@
+
+An adaptive RL based approach for dynamic resource provisioning in Cloud virtualized data centers
+
+
+
+
+ 
+© 2015, Springer-Verlag Wien. Because of numerous parameters existing in the Cloud’s environment, it is helpful to introduce a general solution for dynamic resource provisioning in Cloud that is able to handle uncertainty. In this paper, a novel adaptive control approach is proposed which is based on continuous reinforcement learning and provides dynamic resource provisioning while dealing with uncertainty in the Cloud’s environment. The proposed dynamic resource provisioner is a goal directed controller which provides ability of handling uncertainty specifically in Cloud’s spot markets where competition between Cloud providers requires optimal policies for attracting and maintaining clients. This controller is aimed at hardly preventing from job rejection (as the primary goal) and minimizing the energy consumption (as the secondary goal). Although these two goals almost conflict (because job rejection is a common event in the process of energy consumption optimization), the results demonstrate the perfect ability of the proposed method with reducing job rejection down to near 0 % and minimizing energy consumption down to 9.55 %.
+
+

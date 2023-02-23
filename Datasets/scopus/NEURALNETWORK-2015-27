@@ -1,0 +1,10 @@
+
+A Neuro-evolutionary Hyper-heuristic Approach for Constraint Satisfaction Problems
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York Constraint satisfaction problems represent an important topic of research due to their multiple applications in various areas of study. The most common way to solve this problem involves the use of heuristics that guide the search into promising areas of the space. In this article, we present a novel way to combine the strengths of distinct heuristics to produce solution methods that perform better than such heuristics on a wider range of instances. The methodology proposed produces neural networks that represent hyper-heuristics for variable ordering in constraint satisfaction problems.These neural networks are generated and trained by running a genetic algorithm that has the task of evolving the topology of the networks and some of their learning parameters. The results obtained suggest that the produced neural networks represent a feasible alternative for coding hyper-heuristics that control the use of different heuristics in such a way that the cost of the search is minimized.
+
+

@@ -1,0 +1,10 @@
+
+Efficient variable selection batch pruning algorithm for artificial neural networks
+
+
+
+
+ 
+© 2015 Elsevier B.V. Here we report a novel, fast and efficient algorithm for variable selection, the batch pruning algorithm (BPA). The method combines the artificial neural networks (ANN) ensemble learning and self-organized map (SOM) of Kohonen for clustering of descriptors, followed up with a selection of an optimal smaller subset of descriptors from each cluster based on calculated sensitivity of input neurons. BPA was validated on two publicly available, structurally diverse datasets: 584 inhibitors of M. Tuberculosis (MTB) growth and 1015 phosphodiesterase type 4 (PDE4) inhibitors. BPA was able to identify a smaller subset of 5% of molecular descriptors (out of about 1200 calculated with Talete Dragon) 50-100 times faster compared to conventional stepwise pruning methods (SPM), and yielded QSAR models of similar or slightly better accuracy as measured by Q2 (0.73-0.77), RMSE (0.50-0.72) and MAE (0.36-0.57). 97% of compounds were predicted within 1 log unit. It took only 1.47h to find the best set of descriptors by BPA compared to 119h by ANN SPM for the MTB dataset, and 3.0h compared to 237h for the PDE4 set. Due to its high predictive accuracy and speed, BPA may find wide applicability in building better machine learning models to predict activity, selectivity, physical and ADMET properties for large datasets, and a large number of descriptors within reasonable time.
+
+

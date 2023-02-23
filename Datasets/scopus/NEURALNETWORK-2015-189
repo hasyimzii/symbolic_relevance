@@ -1,0 +1,10 @@
+
+Learning neural network structures with ant colony algorithms
+
+
+
+
+ 
+© 2015, Springer Science+Business Media New York. Ant colony optimization (ACO) has been successfully applied to classification, where the aim is to build a model that captures the relationships between the input attributes and the target class in a given domain’s dataset. The constructed classification model can then be used to predict the unknown class of a new pattern. While artificial neural networks are one of the most widely used models for pattern classification, their application is commonly restricted to fully connected three-layer topologies. In this paper, we present a new algorithm, ANN-Miner, which uses ACO to learn the structure of feed-forward neural networks. We report computational results on 40 benchmark datasets for several variations of the algorithm. Performance is compared to the standard three-layer structure trained with two different weight-learning algorithms (back propagation, and the ACOR algorithm), and also to a greedy algorithm for learning NN structures. A nonparametric Friedman test is used to determine statistical significance. In addition, we compare our proposed algorithm with NEAT, a prominent evolutionary algorithm for evolving neural networks, as well as three different well-known state-of-the-art classifiers, namely the C4.5 decision tree induction algorithm, the Ripper classification rule induction algorithm, and support vector machines.
+
+

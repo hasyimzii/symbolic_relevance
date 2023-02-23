@@ -1,0 +1,10 @@
+
+SARASOM: a supervised architecture based on the recurrent associative SOM
+
+
+
+
+ 
+© 2014, The Natural Computing Applications Forum. We present and evaluate a novel supervised recurrent neural network architecture, the SARASOM, based on the associative self-organizing map. The performance of the SARASOM is evaluated and compared with the Elman network as well as with a hidden Markov model (HMM) in a number of prediction tasks using sequences of letters, including some experiments with a reduced lexicon of 15 words. The results were very encouraging with the SARASOM learning better and performing with better accuracy than both the Elman network and the HMM.
+
+

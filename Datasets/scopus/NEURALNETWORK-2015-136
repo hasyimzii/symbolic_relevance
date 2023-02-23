@@ -1,0 +1,10 @@
+
+Fast CU partition decision using machine learning for screen content compression
+
+
+
+
+ 
+© 2015 IEEE. Screen Content Coding (SCC) extension is currently being developed by Joint Collaborative Team on Video Coding (JCT-VC), as the final extension for the latest High-Efficiency Video Coding (HEVC) standard. It employs some new coding tools and algorithms (including palette coding mode, intra block copy mode, adaptive color transform, adaptive motion compensation precision, etc.), and outperforms HEVC by over 40% bitrate reduction on typical screen contents. However, enormous computational complexity is introduced on encoder primarily due to heavy optimization processing, especially rate distortion optimization (RDO) for Coding Unit (CU) partition decision and mode selection. This paper proposes a novel machine learning based approach for fast CU partition decision using features that describe CU statistics and sub-CU homogeneity. The proposed scheme is implemented as a 'preprocessing' module on top of the Screen Content Coding reference software (SCM-3.0). Compared with SCM-3.0, experimental results show that our scheme can achieve 36.8% complexity reduction on average with only 3.0% BD-rate increase over 11 JCT-VC testing sequences when encoded using 'All Intra' (AI) configuration.
+
+

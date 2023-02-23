@@ -1,0 +1,10 @@
+
+A two-phase dynamic recommender system for improved web usage mining and personalization
+
+
+
+
+ 
+© 2015 Praise Worthy Prize S.r.l. - All rights reserved. In the era of information in zeta bytes, it is necessary to use internet effectively to save time, resources, money etc. Web personalization is one such strategy to accomplish this task. It helps to recommend the items potentially liked by the user. Most of the traditional recommender systems recommend items based on the preferences of the neighborhood. They mainly suffer due to the new user ramp up problem. This paper proposes a FishingSpider-2SRecomm dynamic recommender system to address this problem. It uses two stages: the learning of clusters using web usage mining techniques and the training of Fishing Spider agents for the discovery of User Profiles modeling the foraging behavior of fishing spider using a separate ART1 neural network approach for the learning of recommendation sculpt. Each Fishing Spider agents may identify the missing sub sessions that are a part of the complete ground truth set. The proposed recommender system overcomes the new user and new item ramp up problems and grey sheep problems present in many other recommender systems. It also improves the quality in terms of precision, coverage, F1 measure and scalability. Moreover, it provides more variety of recommendations in comparison to the traditional collaborative filtering approaches.
+
+

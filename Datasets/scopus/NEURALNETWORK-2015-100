@@ -1,0 +1,10 @@
+
+Facial point detection based on a convolutional neural network with optimal mini-batch procedure
+
+
+
+
+ 
+© 2015 IEEE. We propose a Convolutional Neural Network (CNN)-based method to ensure both robustness to variations in facial pose and real-time processing. Although the robustness of CNNs has attracted attention in various fields, the training process suffers from difficulties in parameter setting and the manner in which training samples are provided. We demonstrate a manner of providing samples that results in a better network. We consider four methods: 1) subset with augmentation, 2) random selection, 3) fixed-person subset, and 4) the conventional approach. Experimental results indicate that the subset with augmentation technique has sufficient variations and quantity to obtain the best performance. Our CNN-based method is robust under facial pose variations, and achieves better performance. In addition, since our networks structure is simple, processing takes approximately 10ms for one face on a standard CPU.
+
+

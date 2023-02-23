@@ -1,0 +1,10 @@
+
+An algorithm of image retrieval based on shape feature extraction and BP neural network
+
+
+
+
+ 
+© 2015 by Binary Information Press. Shape is one of most prominent characters of image. Shape-based image retrieval is an extremely important part of content-based image retrieval, extracting and describing shape features and then realizing retrieval of images by the similarities among shape features. For shape-based image retrieval, the extraction and description of shape features of images are significant research content, and in the paper, we made further research, expatiated on current methods of describing shape features, and improved extraction methods of characteristic parameters, giving corresponding algorithms. On that basis, we extracted a set of eigenvalue, forming eigenvector. After normalizing them, we could conduct shape recognition through BP neural network.
+
+

@@ -1,0 +1,2 @@
+Practical guidelines for the antemortem diagnosis of senile dementia of the Alzheimer type.
+SDAT is the most common type of dementia in the elderly but is difficult to diagnose antemortem. The clinical assessment gives a 80% accuracy of diagnosis. 18F DG is currently the best imaging technique for the diagnosis of SDAT in vivo. A cortical biopsy with histology and assay of CAT is required to give a diagnosis of definite SDAT.

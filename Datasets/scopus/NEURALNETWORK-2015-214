@@ -1,0 +1,10 @@
+
+An Unsupervised Approach to Learning and Early Detection of Spatio-Temporal Patterns Using Spiking Neural Networks
+
+
+
+
+ 
+© 2015, Springer Science+Business Media Dordrecht. This paper addresses the problem of learning and recognizing spatio-temporal patterns, which are typically encountered when representing gestures or other human actions. Existing approaches to learning such patterns are typically supervised, rely on extensive amounts of training data and require the observation of the entire pattern for recognition. We propose an approach that brings the following main contributions: i) it learns the patterns in an unsupervised manner, ii) it uses a very small number of training samples, and iii) it enables early classification of the pattern from observing only a small fraction of the pattern. The proposed method relies on spiking networks with axonal conductance delays, which learn encoding of individual patterns as sets of polychronous neural groups. Classification is performed using a similarity metric between sets, based on a modified version of the Jaccard index. The approach is evaluated on a data set of hand-drawn digits that encode the temporal information on how the digit has been drawn. In addition, the method is compared with three other standard pattern classification methods: support vector machines, logistic regression with regularization and ensemble neural networks, all trained with the same data set. The results show that the proposed approach can successfully learn these patterns from a significantly small number of training samples, can identify patterns before their completion, and it performs better than or comparable with the three other supervised methods.
+
+

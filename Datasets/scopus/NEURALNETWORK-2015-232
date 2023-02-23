@@ -1,0 +1,10 @@
+
+Human activity recognition based on acceleration signal and evolutionary RBF neural network
+
+
+
+
+ 
+© 2015, Science Press. All right reserved. To obtain a satisfactory recognition rate,a radial basis function(RBF) neural network classifier trained by the hierarchy genetic algorithm (HGA) is utilized to classify human body activities using the acceleration signal. By exploring the interquartile range, a fitness function is proposed to enhance the crossover of the parameter genes in HGA and determine the distance between the offspring and the boundary of coding space automatically. Thus, the empirical setting in the previous algorithms is avoided. With the arithmetic crossover, the offspring with high fitness is chosen. By comparing fitness values between the uniform mutation offspring and the non-uniform mutation offspring, the structure and parameters of RBF network are jointly optimized. The experimental results on actual subject testing data indicate that the radial basis function neural network classifier trained by the proposed method produces smaller errors than those trained by the traditional HGA. A higher recognition rate of testing data is obtained.
+
+

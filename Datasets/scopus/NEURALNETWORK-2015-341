@@ -1,0 +1,10 @@
+
+Mixed odors classification by neural networks
+
+
+
+
+ 
+© 2015 IEEE. Recently, the importance of odor research has been attracted attention because of its potential applications in food quality, hygiene management, agriculture field, medical field, etc. Thus, the sensing and classification of odor become important. In this paper we develop electronic noses using neural network. The neural network used here are a multi-layered neural network. The sensors are commercially available metal oxide semiconductor sensors. After classifying the various odors, we consider the classification in case that mixed odors are measured. To improve the classification accuracy we adopt a genetic algorithm to find a reduction factor to separate two mixed odors.
+
+

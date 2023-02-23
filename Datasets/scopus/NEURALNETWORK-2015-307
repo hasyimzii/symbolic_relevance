@@ -1,0 +1,10 @@
+
+On Optimization of CI/MC-CDMA System Through Channel Estimation
+
+
+
+
+ 
+© 2015, Springer Science+Business Media New York. Multicarrier code division multiple access (MC-CDMA) offers high data rate transmission over radio mobile channel with high user capacity. However, it also suffers from high value of peak-to-average power ratio (PAPR) and multiple access interference. This paper proposes a high user capacity carrier interferometry (CI)/MC-CDMA system with dynamic user allocation scheme. High data rate users are allocated all sub-carriers, while new users are accommodated dynamically to the groups of alternate odd and even subcarriers. This dynamic user allocation is done based on the cross-correlation values among the spreading code patterns which in turn are used for PAPR reduction through phase optimization. An efficient estimation scheme is also suggested for the radio mobile channel modeled as Rayleigh fading. Channel information is then used for receiver performance improvement through weighted subcarrier parallel interference cancelation using artificial neural network. Finally the system is optimized with respect to the number of subcarriers, the number of users and signal-to-noise ratio using genetic algorithms to achieve an acceptable set of values for bit error rate, PAPR and channel capacity. A large set of simulation results are shown to highlight PAPR reduction, efficient channel estimation, improved receiver performance and optimized system design. Simulation is done in an integrated framework of the proposed system with data hiding based image error concealment to highlight the performance gain for real-life image data.
+
+

@@ -1,0 +1,10 @@
+
+Incorporating image degeneration modeling with multitask learning for image super-resolution
+
+
+
+
+ 
+© 2015 IEEE. Learning the non-linear image upscaling process has previously been considered as a simple regression process, where various models have been utilized to describe the correlations between high-resolution (HR) and low-resolution (LR) images/patches. In this paper, we present a multitask learning framework based on deep neural network for image super-resolution, where we jointly consider the image super-resolution process and the image degeneration process. By sharing parameters between the two highly relevant tasks, the proposed framework could effectively improve the obtained neural network based mapping model between HR and LR image patches. Experimental results have demonstrated clear visual improvement and high computational efficiency, especially with large magnification factors.
+
+

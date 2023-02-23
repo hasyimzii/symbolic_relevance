@@ -1,0 +1,10 @@
+
+Weakly supervised target detection in remote sensing images based on transferred deep features and negative bootstrapping
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York Target detection in remote sensing images (RSIs) is a fundamental yet challenging problem faced for remote sensing images analysis. More recently, weakly supervised learning, in which training sets require only binary labels indicating whether an image contains the object or not, has attracted considerable attention owing to its obvious advantages such as alleviating the tedious and time consuming work of human annotation. Inspired by its impressive success in computer vision field, in this paper, we propose a novel and effective framework for weakly supervised target detection in RSIs based on transferred deep features and negative bootstrapping. On one hand, to effectively mine information from RSIs and improve the performance of target detection, we develop a transferred deep model to extract high-level features from RSIs, which can be achieved by pre-training a convolutional neural network model on a large-scale annotated dataset (e.g. ImageNet) and then transferring it to our task by domain-specifically fine-tuning it on RSI datasets. On the other hand, we integrate negative bootstrapping scheme into detector training process to make the detector converge more stably and faster by exploiting the most discriminative training samples. Comprehensive evaluations on three RSI datasets and comparisons with state-of-the-art weakly supervised target detection approaches demonstrate the effectiveness and superiority of the proposed method.
+
+

@@ -1,0 +1,10 @@
+
+High-Energy X-Ray Imaging Applied to Nondestructive Characterization of Large Nuclear Waste Drums
+
+
+
+
+ 
+As part of its R&D programs on non-destructive testing of nuclear waste drums, CEA is commissioning an irradiation cell named CINPHONIE, at Cadarache. This cell allows high-energy imaging (radiography and tomography) on large volumes (up to 5 m3) and heavy weights (up to 5 tons). A demonstrator has been finalized, based on existing components. The X-ray source is a 9 MeV LINAC which produces Bremsstrahlung X-rays (up to 23 Gy/min at 1 meter in the beam axis). The mechanical bench is digitally controlled on three axes (translation, rotation, elevation) and can handle objects up to 2 t. This bench performs trajectories necessary for acquisition of projections (sinograms) according to different geometries: Translation-Rotation, Fan-Beam and Cone-Beam. Two detection systems both developed by CEA-Leti are available. The first one is a large GADOX scintillating screen ( 800 ×600 mm2 ) coupled to a low-noise pixelated camera. The second one is a multi-CdTe semiconductor detector, offering measurements up to 5 decades of attenuation (equivalent to 25 cm of lead or 180 cm of standard concrete). At the end of the acquisition, a Filtered Back Projection-based algorithm is performed. Then, a density slice (fan-beam tomography) or a density volume (cone-beam tomography or helical tomography) is produced and used to examine the waste. Characterization of LINAC, associated detectors as well as the full acquisition chain, are presented. Experimental performances on phantoms and real drum are discussed and expected limits on defect detectability are evaluated by simulation. The final system, designed to handle objects up to 5 tons is then presented.
+
+

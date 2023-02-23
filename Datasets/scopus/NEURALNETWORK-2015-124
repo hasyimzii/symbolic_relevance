@@ -1,0 +1,10 @@
+
+Outdoor scene labelling with learned features and region consistency activation
+
+
+
+
+ 
+© 2015 IEEE. This paper presents a learned feature based method for scene labelling. This method is combined with a novel strategy to improve global label consistency. We first follow a traditional way to investigate trained features from convolutional neural networks (ConvNets) for scene labelling. Then, motivated by the recent successful use of general features extracted from ConvNets for various applications, we extend the use of the general features to scene labelling (for the first time). We further propose an algorithm called Region Consistency Activation (RCA) to improve the global label consistency. RCA is based on a novel transformation between Ultrametric Contour Map (UCM) and the Probability of Regions Consistency (PRC). Our algorithms were rigorously tested on the popular Stanford Background and SIFT Flow datasets. We achieved superior performances compared with the state-of-the-art methods on both of these datasets.
+
+

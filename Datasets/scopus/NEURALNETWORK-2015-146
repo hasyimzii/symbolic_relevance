@@ -1,0 +1,10 @@
+
+A Bi-Projection Neural Network for Solving Constrained Quadratic Optimization Problems
+
+
+
+
+ 
+In this paper, a bi-projection neural network for solving a class of constrained quadratic optimization problems is proposed. It is proved that the proposed neural network is globally stable in the sense of Lyapunov, and the output trajectory of the proposed neural network will converge globally to an optimal solution. Compared with existing projection neural networks (PNNs), the proposed neural network has a very small model size owing to its bi-projection structure. Furthermore, an application to data fusion shows that the proposed neural network is very effective. Numerical results demonstrate that the proposed neural network is much faster than the existing PNNs.
+
+

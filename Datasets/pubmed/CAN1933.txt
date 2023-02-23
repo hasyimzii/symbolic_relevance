@@ -1,0 +1,2 @@
+Evaluation of baboon antiserum to carcinoembryonic antigen.
+The common baboon (Papio), immunized with carcinoembryonic antigen (CEA), was found to form specific site antibodies for CEA. The baboon antiserum does not recognize colon carcinoma antigen III, but does demonstrate similar ionic strength effects to those previously described for goat antisera to the CEA specific site(s). Baboon specific site antibody for CEA can be used for radioimmunoassay of CEA in plasma and gives similar results to the commercial (Roche) goat anti CEA.

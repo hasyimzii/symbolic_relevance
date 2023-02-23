@@ -1,0 +1,10 @@
+
+Adaptive neural network control of a compact bionic handling arm
+
+
+
+
+ 
+© 1996-2012 IEEE. In this paper, autonomous control problem of a class of bionic continuum robots named 'Compact Bionic Handling Arm' (CBHA) is addressed. These robots can reproduce biological behaviors of trunks, tentacles, or snakes. The modeling problem associated with continuum robots includes nonlinearities, structured and unstructured uncertainties, and the hyperredundancy. In addition to these problems, the CBHA comprises the hysteresis behavior of its actuators and a memory phenomenon related to its structure made of polyamide materials. These undesirable effects make it difficult to design a control system based on quantitative models of the CBHA. Thus, two subcontrollers are proposed in this paper. One, encapsulated in the other, and both implemented in real time allow controlling of the CBHA's end-effector position. The first subcontroller controls the CBHA's kinematics based on a distal supervised learning scheme. The second subcontroller controls the CBHA's kinetics based on an adaptive neural control. These subcontrollers allow a better assessment of the stability of the control architecture while ensuring the convergence of Cartesian errors. The obtained experimental results using a CBHA robot show an accurate tracking of the CBHA's end-effector position.
+
+

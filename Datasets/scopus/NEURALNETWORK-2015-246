@@ -1,0 +1,10 @@
+
+Neural Expert Weighting: A NEW framework for dynamic forecast combination
+
+
+
+
+ 
+© 2015 Elsevier Ltd. All rights reserved. Several empirical results on time series indicate that combining forecasts is, on average, better than selecting a single winning forecasting model. The success of the combination approach depends on how well the combination weights can be determined. Focusing on convex combinations - linear combinations with forecast weights constrained to be non-negative and to sum to unity - this paper proposes a new weight generation framework called Neural Expert Weighting (NEW). The framework generates dynamic weighting models based on neural networks, both relaxing in-sample performance dependence and abstracting statistical complexity. Assessed with 15 time series divided into two case studies - petroleum products and NN3 forecasting competition - the NEW models presented promising results.
+
+

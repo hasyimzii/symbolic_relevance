@@ -1,0 +1,10 @@
+
+QSAR analysis for nano-sized layered manganese-calcium oxide in water oxidation: An application of chemometric methods in artificial photosynthesis
+
+
+
+
+ 
+© 2015 Elsevier B.V. Water oxidation is among the most important reactions in artificial photosynthesis, and nano-sized layered manganese-calcium oxides are efficient catalysts toward this reaction. Herein, a quantitative structure-activity relationship (QSAR) model was constructed to predict the catalytic activities of twenty manganese-calcium oxides toward water oxidation using multiple linear regression (MLR) and genetic algorithm (GA) for multivariate calibration and feature selection, respectively. Although there are eight controlled parameters during synthesizing of the desired catalysts including ripening time, temperature, manganese content, calcium content, potassium content, the ratio of calcium:manganese, the average manganese oxidation state and the surface of catalyst, by using GA only three of them (potassium content, the ratio of calcium:manganese and the average manganese oxidation state) were selected as the most effective parameters on catalytic activities of these compounds. The model's accuracy criteria such as R2 test and Q2 test in order to predict catalytic rate for external test set experiments; were equal to 0.941 and 0.906, respectively. Therefore, model reveals acceptable capability to anticipate the catalytic activity.
+
+

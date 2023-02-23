@@ -1,0 +1,10 @@
+
+Learning shape priors for object segmentation via neural networks
+
+
+
+
+ 
+© 2015 IEEE. We present a joint algorithm for object segmentation that integrates both global shape and local edge information in a deep learning framework. The proposed architecture uses convolutional layers to extract image features, followed by a fully connected section to represent shapes specific to a given object class. This preliminary mask is further refined by matching segmentation mask patches to local features. These processing steps facilitate learning the shape priors effectively with a feedforward pass rather than complex inference methods. Furthermore, our novel convolutional refinement stage presents a convincing alternative to Conditional Random Fields, with promising results on multiple datasets.
+
+

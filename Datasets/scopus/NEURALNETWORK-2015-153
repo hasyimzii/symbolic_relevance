@@ -1,0 +1,10 @@
+
+Design and implementation of membrane controllers for trajectory tracking of nonholonomic wheeled mobile robots
+
+
+
+
+ 
+© 2016 IOS Preb and the author(s). This paper proposes a novel trajectory tracking control approach for nonholonomic wheeled mobile robots. In this approach, the integration of feed-forward and feedback controls is presented to design the kinematic controller of wheeled mobile robots, where the control law is constructed on the basis of Lyapunov stability theory, for generating the precisely desired velocity as the input of the dynamic model of wheeled mobile robots; a proportional-integral-derivative based membrane controller is introduced to design the dynamic controller of wheeled mobile robots to make the actual velocity follow the desired velocity command. The proposed approach is defined by using an enzymatic numerical membrane system to integrate two proportionalintegral-derivative controllers, where neural networks and experts' knowledge are applied to tune parameters. Extensive experiments conducted on the simulated wheeled mobile robots show the effectiveneb of this approach.
+
+

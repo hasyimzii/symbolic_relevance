@@ -1,0 +1,10 @@
+
+Data-based prediction of sentiments using heterogeneous model ensembles
+
+
+
+
+ 
+© 2014, Springer-Verlag Berlin Heidelberg. In this paper, we present an ensemble modeling approach for sentiment analysis using machine learning algorithms. The main goal of sentiment analysis is to develop estimators that are able to identify the sentiment orientation (positive, negative, or neutral) of sentences found in any arbitrary source. The novel approach presented here relies on the analysis of the words found in sentences and the formation of large sets of heterogeneous models, i.e., binary as well as multi-class classification models that are calculated by various different machine learning methods; these models shall represent the relationship between the presence of given words (or combination of words) and sentiments. All models trained during the learning phase are applied during the test phase and the final sentiment assessment is annotated with a confidence value that specifies, how reliable the models are regarding the presented decision. In the empirical part of this paper, we show results achieved using a German corpus of Amazon recensions and a set of machine learning methods (decision trees and adaptive boosting, Gaussian processes, random forests, k-nearest neighbor classification, support vector machines and artificial neural networks with evolutionary feature and parameter optimization, and genetic programming). Using a heterogeneous model ensemble learning approach that combines multi-class classifiers as well as binary classifiers, the classification accuracy can be increased significantly and the ratio of totally wrongly classified samples (i.e., those that are assigned to the completely opposite sentiment orientation) can be decreased significantly.
+
+

@@ -1,0 +1,10 @@
+
+Optimized positional compensation parameters for exposure machine for flexible printed circuit board
+
+
+
+
+ 
+© 2015 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission. A soft-computing technology is proposed for optimizing the positional compensation parameters for an exposure machine for flexible printed circuit boards (FPCBs). The proposed technology integrates a full-factorial experimental design, a multilayer perceptron (MLP) artificial neural network, and the Taguchi-based genetic algorithm (TBGA). First, a full-factorial experimental design is used to conduct experiments and to accumulate data that represent the positional compensation parameters of an exposure machine. The MLP is then used to build a positioning model of an exposure machine by minimizing the performance criterion of mean-squared error (mse). Finally, the TBGA is used to optimize the positional compensation parameters for the exposure machine. The experimental results demonstrate the excellent performance of the MLP-TBGA approach in obtaining positional compensation parameters for decreasing the number of iterations and the alignment time. For example, in 50 independent runs, the average number of iterations for precision positioning decreased from 4.5 to 3.2, and the alignment time decreased by 41%, if the required positional accuracy was 3 μm. In another experimental application for precision positioning in which the required positional accuracy was 5 μm, the average number of iterations required in 50 practical experiments decreased from 3.3 to 2.1, and the alignment time decreased by 57%. The main advantage of the proposed soft-computing approach is its potential use for solving related problems in widely varying industries. 1551-3203
+
+

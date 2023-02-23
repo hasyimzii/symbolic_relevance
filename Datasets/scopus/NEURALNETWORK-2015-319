@@ -1,0 +1,11 @@
+
+												
+Projection spectral analysis
+
+
+
+
+ 
+© 2015, Institute of Control, Robotics and Systems and The Korean Institute of Electrical Engineers and Springer-Verlag Berlin Heidelberg. This study investigates’ Projection Spectral Analysis’, which generalizes’ Principal or Independent Component Analysis’ by dealing with a non-symmetric square correlation or covariance matrix with multiplicities or singularities. This type of covariance matrix is decomposed into projections and nilpotents according to the spectral theorem. Projection spectral analysis solves a learning problem by reducing the dimension for multiple zero eigenvalues, and may be applied to a non-symmetric covariance with distinct eigenvalues. This method involves a sum-product of orthogonal projection operators and real distinct eigenvalues for a symmetric covariance, which makes it equivalent to principal component analysis. However, it becomes independent component analysis if the covariance is not symmetric.
+
+

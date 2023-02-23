@@ -1,0 +1,10 @@
+
+Robust dissipativity and passivity based state estimation for discrete-time stochastic Markov jump neural networks with discrete and distributed time-varying delays
+
+
+
+
+ 
+© 2015 The Natural Computing Applications Forum In this paper, the problem of robust state estimation for discrete-time stochastic Markov jump neural networks with discrete and distributed time-varying delays is investigated based on dissipativity and passivity theory. The parameters of the neural networks are subject to the switching from one mode to another according to a Markov chain. By using the Lyapunov–Krasovskii functional together with linear matrix inequality approach, a new set of sufficient conditions are derived for the existence of state estimator such that the error state system is strictly (Formula presented.)-dissipative. Finally, numerical examples are addressed to show the effectiveness of the proposed design method.
+
+

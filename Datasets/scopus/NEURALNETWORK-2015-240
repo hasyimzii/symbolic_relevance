@@ -1,0 +1,10 @@
+
+Resilient asynchronous H∞ filtering for markov jump neural networks with unideal measurements and multiplicative noises
+
+
+
+
+ 
+© 2013 IEEE. This paper is concerned with the resilient H∞ filtering problem for a class of discrete-time Markov jump neural networks (NNs) with time-varying delays, unideal measurements, and multiplicative noises. The transitions of NNs modes and desired mode-dependent filters are considered to be asynchronous, and a nonhomogeneous mode transition matrix of filters is used to model the asynchronous jumps to different degrees that are also mode-dependent. The unknown time-varying delays are also supposed to be mode-dependent with lower and upper bounds known a priori. The unideal measurements model includes the phenomena of randomly occurring quantization and missing measurements in a unified form. The desired resilient filters are designed such that the filtering error system is stochastically stable with a guaranteed H∞ performance index. A monotonicity is disclosed in filtering performance index as the degree of asynchronous jumps changes. A numerical example is provided to demonstrate the potential and validity of the theoretical results.
+
+

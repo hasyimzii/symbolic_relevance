@@ -1,0 +1,10 @@
+
+A new technique for ultimate limit state design of arbitrary shape RC sections under biaxial bending
+
+
+
+
+ 
+© 2015 Elsevier Ltd. The design of reinforced concrete sections of arbitrary shape, namely with variable geometry, holes as well as with arbitrary distribution of reinforcing steel bars, is a very common task in civil engineering, reinforced concrete structures. The design of these sections requires the integration of non-linear stress fields on complex shapes, because of the non-linear behavior of concrete in compression. In this paper, a novel algorithm is proposed to compute the ultimate strength of reinforced concrete sections under biaxial bending. The algorithm includes section subdivision into trapezoidal elements using the techniques of polygon clipping algorithm proposed by Weiler-Atherton. Exact numerical integration for normal strength concrete (. fck≤. 50. MPa) is achieved, for each trapezoid, using the change of variables theorem followed by Gauss-Legendre integration. The proposed technique is hereafter referred to as WAGL (Weiler-Atherton, Gauss-Legendre). The verification of the proposed algorithm is performed by comparing analytical results between the WAGL technique and methods proposed by other authors (five examples). Additionally, the results obtained are also compared with experimental results available in the literature. The application of the WAGL technique is illustrated with two RC cross-section design examples.
+
+

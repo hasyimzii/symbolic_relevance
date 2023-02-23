@@ -1,0 +1,10 @@
+
+Quantization effects on audio signals for detecting intruders in wild areas using TESPAR S-matrix and artificial neural networks
+
+
+
+
+ 
+© 2015 IEEE. This paper analyses the influence of quantization of audio signals on the Time Encoding Signal Processing and Recognition S-matrix, in order to detect and classify intruders in wildlife areas. The intruder classification is performed with multilayer feed-forward neural networks. The databases involved in this work consist of 640 waveforms of audio signals originated from 4 different types of sources. The experimental results proves that in the proposed audio based wildlife intruder detection framework, the overall correct classification rates remain very high even if the number of bits used for quantization decreases from 16 to 4.
+
+

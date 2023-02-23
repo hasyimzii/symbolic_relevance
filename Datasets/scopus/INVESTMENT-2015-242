@@ -1,0 +1,10 @@
+
+Time-consistent investment strategy under partial information
+
+
+
+
+ 
+© 2015 Elsevier B.V. This paper considers a mean-variance portfolio selection problem under partial information, that is, the investor can observe the risky asset price with random drift which is not directly observable in financial markets. Since the dynamic mean-variance portfolio selection problem is time inconsistent, to seek the time-consistent investment strategy, the optimization problem is formulated and tackled in a game theoretic framework. Closed-form expressions of the equilibrium investment strategy and the corresponding equilibrium value function under partial information are derived by solving an extended Hamilton-Jacobi-Bellman system of equations. In addition, the results are also given under complete information, which are need for the partial information case. Furthermore, some numerical examples are presented to illustrate the derived equilibrium investment strategies and numerical sensitivity analysis is provided.
+
+

@@ -1,0 +1,10 @@
+
+An Adaptive Unsupervised Neural Network Based on Perceptual Mechanism for Dynamic Object Detection in Videos with Real Scenarios
+
+
+
+
+ 
+© 2014, Springer Science+Business Media New York. The analysis of moving objects in video sequences has been a paramount issue in applications related to intelligent surveillance systems, robotics, and medicine. Although several works aimed to analyze objects in video sequences have been reported, many of them need manual parameter adjustments and they are not tolerant to illumination changes and dynamic backgrounds. Therefore, a novel scheme termed Dynamic Retinotopic SOM based on an adaptive artificial neural network, to detect moving objects is proposed in this work. The neural network is a model based on the mechanisms of the visual cortex that we called Retinotopic SOM (RESOM) and it is also proposed in this paper. Furthermore, RESOM is a real-time neural network that can adapt its learning parameters based on the scene behavior and it mimics perception abilities. A quantitative comparison with other segmentation methods reported in the literature using real video scenes showed that the proposed DR-SOM segmentation method automatically adjusts its parameters and outperforms the reported methods in condition of dynamic backgrounds, and gradual and sudden illumination changes.
+
+

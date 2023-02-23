@@ -1,0 +1,10 @@
+
+Image recognition using adaptive fuzzy neural network based on lifting scheme of wavelet
+
+
+
+
+ 
+© 2015, ISAROB. This article proposes an adaptive fuzzy neural network (AFNN) based on lifting scheme of wavelets to recognize image with noise/blur. In the research, first, the image with noise/blur is completed through the gray level transformation to discrete space; then the discrete sequence is classified using lifting wavelet transformation. The image processing is performed by the AFNN in which a time-varying adaptive learning algorithm is adopted. The root-mean-square error is used to evaluate the efficiency of image recognition. Meanwhile, comparisons of the lifting adaptive fuzzy neural network with fuzzy neural network are made to verify the performance of the proposed adaptive fuzzy neural network.
+
+

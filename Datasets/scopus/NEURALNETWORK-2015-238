@@ -1,0 +1,10 @@
+
+Passivity Analysis of Memristor-Based Complex-Valued Neural Networks with Time-Varying Delays
+
+
+
+
+ 
+© 2014, Springer Science+Business Media New York. In this paper, the model of memristor-based complex-valued neural networks (MCVNNs) with time-varying delays is established and the problem of passivity analysis for MCVNNs is considered and extensively investigated. The analysis in this paper employs results from the theory of differential equations with discontinuous right-hand side as introduced by Filippov. By employing the appropriate Lyapunov–Krasovskii functional, differential inclusion theory and linear matrix inequality (LMI) approach, some new sufficient conditions for the passivity of the given MCVNNs are obtained in terms of both complex-valued and real-value LMIs, which can be easily solved by using standard numerical algorithms. Numerical examples are provided to illustrate the effectiveness of our theoretical results.
+
+

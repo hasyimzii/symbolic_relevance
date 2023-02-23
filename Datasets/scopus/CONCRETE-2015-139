@@ -1,0 +1,10 @@
+
+A two-scale computational model for thermomechanical analysis of reinforced concrete frames
+
+
+
+
+ 
+© 2015 Elsevier Ltd. We develop a two-scale numerical model to simulate the response of reinforced concrete (RC) frame structures under thermomechanical loading. In this model, the nonlinear behavior of structural members is captured by a set of nonlinear cohesive elements, which represents the potential damage zones that could form under the given loading. The thermo-dependent constitutive behavior of each cohesive element is determined through finite element (FE) simulations of its corresponding potential damage zone at different elevated temperatures. For the FE simulations, the thermo-dependent material properties are determined based on the existing literature in conjunction with a set of experiments on concrete at elevated temperatures. The proposed two-scale model is used to simulate the behavior of a RC frame subassemblage under thermomechanical loading and the simulation results are compared with the predictions by the standard FE analysis. It is shown that the present model can well capture the thermomechanical behavior of RC frame structures. Finally, the model is applied to analyze the global behavior of a prototype RC frame subjected to compartment fires.
+
+

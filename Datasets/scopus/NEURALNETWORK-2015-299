@@ -1,0 +1,10 @@
+
+Online Real-Time Quality Monitoring in Additive Manufacturing Processes Using Heterogeneous Sensors
+
+
+
+
+ 
+© 2015 by ASME. The objective of this work is to identify failure modes and detect the onset of process anomalies in additive manufacturing (AM) processes, specifically focusing on fused filament fabrication (FFF). We accomplish this objective using advanced Bayesian nonparametric analysis of in situ heterogeneous sensor data. Experiments are conducted on a desktop FFF machine instrumented with a heterogeneoussensor array including thermocouples, accelerometers, an infrared (IR) temperature sensor, and a real-time miniature video borescope. FFF process failures are detected online using the nonparametric Bayesian Dirichlet process (DP) mixture model and evidence theory (ET) based on the experimentally acquired sensor data. This sensor data-driven defect detection approach facilitates real-time identification and correction of FFF process drifts with an accuracy and precision approaching 85% (average F-score). In comparison, the F-score from existing approaches, such as probabilistic neural networks (PNN), naive Bayesian clustering, support vector machines (SVM), and quadratic discriminant analysis (QDA), was in the range of 55-75%.
+
+

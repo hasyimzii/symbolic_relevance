@@ -1,0 +1,10 @@
+
+CaPrM: Carbonation prediction model for reinforced concrete using machine learning methods
+
+
+
+
+ 
+© 2015 Elsevier Ltd. All rights reserved. Reliable carbonation depth prediction of concrete structures is crucial for optimizing their design and maintenance. The challenge of conventional carbonation prediction models is capturing the complex relationship between governing parameters. To improve the accuracy and methodology of the prediction a machine learning based carbonation prediction model which integrates four learning methods is introduced. The model developed considers parameters influencing the carbonation process and enables the user to choose the best alternative of the machine based methods. The applicability of the method is demonstrated by an example where the carbonation depths are estimated using the developed model and verified with unseen data. The evaluation proofs that the model predicts the carbonation depth with a high accuracy.
+
+

@@ -1,0 +1,11 @@
+
+Handoff decision using a Kalman filter and fuzzy logic in heterogeneous wireless networks
+
+
+
+
+ 
+© 2015 IEEE. Handoff decision is key to service continuity when a user roams about. We propose a Kalman filtering and fuzzy logic approach to reducing handoff initiations, so as to support seamless communication. Kalman filtering is used as a channel equalization technique in channel propagation model, while a Mamdani fuzzy logic is applied subsequently for handoff decision. Several metrics such as received signal strength (RSS), data rate, velocity of mobile terminal, and traffic load are considered as criteria to initiate handoff from WLAN to the cellular network. Simulation results show that the proposed method reduces handoff initiations effectively.
+	
+
+

@@ -1,0 +1,10 @@
+
+Exponential mean-square H∞ filtering for arbitrarily switched neural networks with missing measurements
+
+
+
+
+ 
+© 2016 Elsevier B.V. In this paper, the H∞ filtering problem is investigated for a class of discrete-time arbitrary switched neural networks with missing measurements, stochastic perturbations, and communication delays. Based on the average dwell time approach and a set of Kronecker delta functions, a unified measurement model is established to represent the phenomena of missing measurements, time delays and nonlinearities. The aim of this paper is to design an H∞ filter such that the filter error dynamics is exponentially mean-square stable and the H∞ performance requirement is satisfied simultaneously. By using the Lyapunov stability theory and the matrix technology, the design method of the desired filter is given in terms of a matrix inequality which can be solved by using the available software. Finally, a numerical example is provided to illustrate the effectiveness of the proposed method.
+
+

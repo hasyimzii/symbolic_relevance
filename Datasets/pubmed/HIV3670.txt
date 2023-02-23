@@ -1,0 +1,2 @@
+Point mutations in conserved amino acid residues within the C terminal domain of  HIV 1 reverse transcriptase specifically repress RNase H function.
+Two single site substitutions (E478    Q and H539    F) were introduced into the  C terminal RNase H domain of HIV 1 reverse transcriptase. These mutant proteins were expressed in Escherichia coli and purified by Ni2+ nitrilotriacetic acid affinity chromatography. Both enzymes are clearly defective in RNase H function, but exhibit wild type reverse transcriptase activity.

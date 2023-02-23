@@ -1,0 +1,10 @@
+
+Stability Analysis of Neural Networks With Two Delay Components Based on Dynamic Delay Interval Method
+
+
+
+
+ 
+In this paper, a dynamic delay interval (DDI) method is proposed to deal with the stability problem of neural networks with two delay components. This method extends the fixed interval of a time-varying delay to a dynamic one, which relaxes the restriction on upper and lower bounds of the delay intervals. Combining the reciprocally convex combination technique and Wirtinger integral inequality, the DDI method leads to some much less conservative delay-dependent stability criteria based on a linear matrix inequality for neural networks with two delay components. Furthermore, the criteria for the system with a single time-varying delay are provided. Some examples are given to illustrate the effectiveness of the obtained results.
+
+

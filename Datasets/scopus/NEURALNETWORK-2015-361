@@ -1,0 +1,10 @@
+
+Modeling sustainability report scoring sequences using an attractor network
+
+
+
+
+ 
+© 2015 Elsevier B.V. This work experimentally explores the metric Attractor Neural Network for modeling Corporate Sustainability Reporting patterns of a set of global companies. A small-world topology configuration is used for the metric network, and compared with a configuration obtained from the Mutual Information (MI) between companies, in terms of the usual dilution and shortcut ratios. The resulting MI topology configuration is depicted for mesoscopic blocks distributed by continents and economic sectors. The reporting sequence is learned as static patterns, as well as, a temporal sequence from year 1999 to 2013. The retrieval of the sequence showed a saturation point around 2010 where the reporting pattern stalled. We showed that the MI topology configuration obtained for continents, reinforces previous research about the role of Europe as a driver about sustainability and its influence worldwide. Also, the MI configuration outlines recent (post-crises) behavior, of the involved economic sectors.
+
+

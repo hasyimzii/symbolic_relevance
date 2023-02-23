@@ -1,0 +1,10 @@
+
+Towards accurate intrusion detection based on improved clonal selection algorithm
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York Artificial immune system constructs a dynamic and adaptive information defense system through a function similar to the biological immune system. In order to resist the external invasion of useless and harmful information and ensure the effectiveness and the harmlessness of received information. Due to the low accuracy and the high false positive rate of the existing clonal selection algorithms applied to intrusion detection, in this paper, we propose an improved clonal selection algorithm. The improved method detects the intrusion behavior by selecting the best individual overall and cloning them. Experimental results show that the improved algorithm achieves very good performance when applied to intrusion detection. And it is shown that the algorithm is better than BP neural network with its 99.5 % accuracy and 0.1 % false positive rate.
+
+

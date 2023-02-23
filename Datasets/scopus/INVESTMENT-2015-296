@@ -1,0 +1,10 @@
+
+Diversity-weighted portfolios with negative parameter
+
+
+
+
+ 
+© 2015, Springer-Verlag Berlin Heidelberg. We analyze a negative-parameter variant of the diversity-weighted portfolio studied by Fernholz et al. (Finance Stoch 9(1):1–27, 2005), which invests in each company a fraction of wealth inversely proportional to the company’s market weight (the ratio of its capitalization to that of the entire market). We show that this strategy outperforms the market with probability one over sufficiently long time-horizons, under a non-degeneracy assumption on the volatility structure and under the assumption that the market weights admit a positive lower bound. Several modifications of this portfolio are put forward, which outperform the market under milder versions of the latter no-failure condition, and one of which is rank-based. An empirical study suggests that such strategies as studied here have indeed the potential to outperform the market and to be preferable investment opportunities, even under realistic proportional transaction costs.
+
+

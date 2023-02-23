@@ -1,0 +1,10 @@
+
+An application of artificial neural network to choose optimal drive functions of the satellite
+
+
+
+
+ 
+© 2015 IEEE. The paper presents a method for determining optimal courses of drive functions which are applied during a satellite orientation change manoeuvre. This task was realized in two steps. First, a series of simulations was performed, during which the optimisation problem has been solved using the Nelder-Mead algorithm. Dynamic optimisation results are optimal courses of driving functions for a given angle of rotation and time of motion. Those results are neural network learning sets, which are created in the next step. The main task of the neural network is such choice of the driving courses for given inputs that panel vibrations after a manoeuvre are minimized. In presented simulations multilayer perceptron has been applied. The results were obtained using the Nelder-Mead method and neural networks were compared.
+
+

@@ -1,0 +1,10 @@
+
+Channel Estimation Using Radial Basis Function Neural Network in OFDM–IDMA System
+
+
+
+
+ 
+© 2015, Springer Science+Business Media New York. In this paper, channel estimation based on Radial Basis Function Neural Network (RBFNN) is proposed to estimate channel frequency responses in orthogonal frequency division multiplexing–interleave division multiple access (OFDM–IDMA) systems. Several channel estimation techniques including least squares (LS) and minimum mean square error (MMSE) known as conventional pilot based channel estimation algorithms and multilayered perceptron (MLP) with two different training algorithms like Levenberg–Marquardt (LM) and resilient backpropagation (RBP) are also utilized to be able to make comparisons with our proposed method with the help of bit error rate and mean square errror (MSE) graphs. It is demonstrated with computer simulations that the method in which RBFNN is used for channel estimation shows better performance than LS, multilayered perceptron–Resilient backpropagation (MLP–RBP) and multilayered perceptron–Levenberg–Marquardt (MLP–LM) without the requirement of channel statistics and noise information that are essential for MMSE algorithm to estimate the channel coefficients. Even though MMSE algorithm still shows the best performance, our proposed channel estimator has the advantage of being less complex and easy to apply which makes it a serious candidate for channel estimation in OFDM–IDMA system.
+
+

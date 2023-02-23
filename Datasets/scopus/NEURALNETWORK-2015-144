@@ -1,0 +1,10 @@
+
+Automatic detection of necrosis, normoxia and hypoxia in tumors from multimodal cytological images
+
+
+
+
+ 
+© 2015 IEEE. The efficacy of cancer treatments (e.g., radiotherapy, chemotherapy, etc.) has been observed to critically depend on the proportion of hypoxic regions (i.e., a region deprived of adequate oxygen supply) in tumor tissue, so it is important to estimate this proportion from histological samples. Medical imaging data can be used to classify tumor tissue regions into necrotic or vital and then the vital tissue into normoxia (i.e., a region receiving a normal level of oxygen), chronic or acute hypoxia. Currently, this classification is a lengthy manual process performed using (immuno-)fluorescence (IF) and hematoxylin and eosin (HE) stained images of a histological specimen, which requires an expertise that is not widespread in clinical practice. In this paper, we propose a fully automated way to detect and classify tumor tissue regions into necrosis, normoxia, chronic hypoxia and acute hypoxia using IF and HE images from the same histological specimen. Instead of relying on any single classification methodology, we propose a principled combination of the following current state-of-the-art classifiers in the field: Adaboost, support vector machine, random forest and convolutional neural networks. Results show that on average we can successfully detect and classify more than 87% of the tumor tissue regions correctly. This automated system for estimating the proportion of chronic and acute hypoxia could provide clinicians with valuable information on assessing the efficacy of cancer treatments.
+
+

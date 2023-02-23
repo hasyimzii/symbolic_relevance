@@ -1,0 +1,10 @@
+
+Multistability for delayed neural networks via sequential contracting
+
+
+
+
+ 
+© 2015 IEEE. In this paper, we explore a variety of new multistability scenarios in the general delayed neural network system. Geometric structure embedded in equations is exploited and incorporated into the analysis to elucidate the underlying dynamics. Criteria derived from different geometric configurations lead to disparate numbers of equilibria. A new approach named sequential contracting is applied to conclude the global convergence to multiple equilibrium points of the system. The formulation accommodates both smooth sigmoidal and piecewiselinear activation functions. Several numerical examples illustrate the present analytic theory.
+
+

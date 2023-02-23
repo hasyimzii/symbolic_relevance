@@ -1,0 +1,10 @@
+
+Heterogeneous and anisotropic long-term concrete damage of the dez arch dam using thermal inverse analysis
+
+
+
+
+ 
+© 2015 Taylor & Francis In this paper, an assumption used in the recent work of the author and his contributors considers the long-term concrete damage of the Dez arch dam as a homogeneous and isotropic process, was investigated in more detail and was adjusted. To this end, the vertical dam sections were divided into nine and six subsections along the thickness and height directions of the dam, respectively. In each subsection, a transversely isotropic damaged elastic constitutive law was considered for diagnostic analyses. Following the previous authors’ mentioned work, an optimization procedure (minimization of a certain error function) accompanied with an inverse thermal analysis was carried out. That analysis was performed within the framework of finite element (FE) method. Mentioned error function was defined as the sum of the squared residuals. Residuals were set as difference between nodal recorded displacements with inverse pendulums of the dam and the corresponding computed ones with the proposed model. Parameters considered as unknowns in the present inverse analysis, which have contributions in that above-mentioned error function, were the five independent elastic moduli presented in the formulation of the earlier mentioned transversely isotropic damaged elastic constitutive law: two Young’s moduli: one in the planes parallel to the up and down stream surfaces of the dam, called in-plane and the other in the perpendicular planes to those planes, named out-of-plane Young’s modulus; two Poisson’s ratios (in-plane and out-of-plane); and one shear modulus (out-of-plane). These parameters were identified performing numerous thermal inverse analyses. Obtained results revealed that the long-term damage of concrete of the Dez dam is a heterogeneous and anisotropic phenomenon because that the magnitude of the mentioned error function was obtained smaller than the corresponding value in the previous study which had been performed before based on the homogeneous and isotropic damage evolution assumption.
+
+

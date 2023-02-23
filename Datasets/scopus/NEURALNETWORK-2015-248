@@ -1,0 +1,10 @@
+
+Adaptive Neural Output Feedback Control of Uncertain Nonlinear Systems With Unknown Hysteresis Using Disturbance Observer
+
+
+
+
+ 
+© 1982-2012 IEEE. In this paper, an adaptive neural output feedback control scheme is proposed for uncertain nonlinear systems that are subject to unknown hysteresis, external disturbances, and unmeasured states. To deal with the unknown nonlinear function term in the uncertain nonlinear system, the approximation capability of the radial basis function neural network (RBFNN) is employed. Using the approximation output of the RBFNN, the state observer and the nonlinear disturbance observer (NDO) are developed to estimate unmeasured states and unknown compounded disturbances, respectively. Based on the RBFNN, the developed NDO, and the state observer, the adaptive neural output feedback control is proposed for uncertain nonlinear systems using the backstepping technique. The first-order sliding-mode differentiator is employed to avoid the tedious analytic computation and the problem of "explosion of complexity" in the conventional backstepping method. The stability of the whole closed-loop system is rigorously proved via the Lyapunov analysis method, and the satisfactory tracking performance is guaranteed under the integrated effect of unknown hysteresis, unmeasured states, and unknown external disturbances. Simulation results of an example are presented to illustrate the effectiveness of the proposed adaptive neural output feedback control scheme for uncertain nonlinear systems.
+
+

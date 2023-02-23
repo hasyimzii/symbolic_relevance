@@ -1,0 +1,2 @@
+Cavity search: an algorithm for the isolation and display of cavity like binding regions.
+A set of algorithms designed to enhance the display of protein binding cavities is presented. These algorithms, collectively entitled CAVITY SEARCH, allow the user to isolate and fully define the extent of a particular cavity. Solid modeling techniques are employed to produce a detailed cast of the active site region, which can then be color coded to show both electrostatic and steric interactions between the protein cavity and a bound ligand.

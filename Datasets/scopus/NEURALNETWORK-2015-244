@@ -1,0 +1,10 @@
+
+Neural-dynamic-method-based dual-arm CMG scheme with time-varying constraints applied to humanoid robots
+
+
+
+
+ 
+© 2015 IEEE. We propose a dual-arm cyclic-motiongeneration (DACMG) scheme by a neural-dynamic method, which can remedy the joint-angle-drift phenomenon of a humanoid robot. In particular, according to a neural-dynamic design method, first, a cyclic-motion performance index is exploited and applied. This cyclic-motion performance index is then integrated into a quadratic programming (QP)-type scheme with time-varying constraints, called the time-varyingconstrained DACMG (TVC-DACMG) scheme. The scheme includes the kinematic motion equations of two arms and the time-varying joint limits. The scheme can not only generate the cyclic motion of two arms for a humanoid robot but also control the arms to move to the desired position. In addition, the scheme considers the physical limit avoidance. To solve the QP problem, a recurrent neural network is presented and used to obtain the optimal solutions. Computer simulations and physical experiments demonstrate the effectiveness and the accuracy of such a TVC-DACMG scheme and the neural network solver.
+
+

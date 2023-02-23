@@ -1,0 +1,10 @@
+
+Multi-AUV Task Assignment and Path Planning with Ocean Current Based on Biological Inspired Self-organizing Map and Velocity Synthesis Algorithm
+
+
+
+
+ 
+© 2015 TSI® Press An integrated multiple autonomous underwater vehicles (multi-AUV) dynamic task assignment and path planning algorithm is proposed for three-dimensional underwater workspace with ocean current. The proposed algorithm in this paper combines biological inspired self-organizing map (BISOM) and a velocity synthesis algorithm (VS). The goal is to control a team of AUVs to visit all targets, while guaranteeing AUV’s motion can offset the impact of ocean currents. First, the SOM neural network is developed to assign a team of AUVs to achieve multiple target locations in underwater environments. Then to avoid obstacle autonomously for each AUV to visit the corresponding target, the biological inspired neurodynamics model (BINM) is used to update weights of the winner of SOM, and realize AUVs path planning autonomously. Lastly, the velocity synthesis algorithm is applied to optimize a path for each AUV to visit the corresponding target in dynamic environment with the ocean current. To demonstrate the effectiveness of the proposed algorithm, simulation results are given in this paper. Undoubtedly, the proposed algorithm is capable of dealing with task assignment and path planning in different environment. The path of the AUV is not affected by the effects of ocean currents and there are no great changes.
+
+

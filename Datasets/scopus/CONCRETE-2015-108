@@ -1,0 +1,10 @@
+
+Target detection algorithm based on spatial-contextual image one class classification
+
+
+
+
+ 
+© 2015, Editorial Board of Journal of Infrared and Laser Engineering. All right reserved. In order to implement the automatic target detection in hyperspectral image, a target detection algorithm was proposed based on spatial-contextual one classification. Features of combining space and spectrum were used for the algorithm, principles of SVDD classifier and the algorithm process were studied. Firstly, the single class classification principle of support vector data description (SVDD) was analyzed this paper. Secondly, considering the characteristics of hyperspectral image, how to use spatial and spectral features as the SVDD classifier input was introduced. Then, the principle of the algorithm was explained by comparing and analyzing the single class classifier performance combined space and spectrum. Last, the concrete realization method of the algorithm was given. Experimental results show that, this method is superior to the conventional CEM algorithm, in a foreign naval base'data in AVIRIS imaging, the accuracy that detects the aircraft target is more than 90%, which can meet the requirement of stablility and reliability, low false alarm rate, high recognition rate of the target detection.
+
+

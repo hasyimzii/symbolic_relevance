@@ -1,0 +1,10 @@
+
+Application of self-organizing maps to the stock exchange data analysis
+
+
+
+
+ 
+© 2015 IEEE. In this paper the application of Self-Organizing Maps to analyze the stock market data is presented. The impact of this type of the neural network on the performance of investment strategies is discussed. The considered characteristics include the size of the network based on the average number of learning patterns per neuron, conscience mechanism, method of weights update and learning coefficient. Performance of each network configuration is verified against the simple investment strategy, which on the basis of average Rate of Return (RoR) generates 'buy' and 'sell' signals. Results show that SOMs with the conscience mechanism performs better than the counterpart without it.
+
+

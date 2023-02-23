@@ -1,0 +1,10 @@
+
+Robust integral of neural network and error sign control of MIMO nonlinear systems
+
+
+
+
+ 
+© 2015 IEEE. This paper presents a novel state-feedback control scheme for the tracking control of a class of multi-input multioutput continuous-time nonlinear systems with unknown dynamics and bounded disturbances. First, the control law consisting of the robust integral of a neural network (NN) output plus sign of the tracking error feedback multiplied with an adaptive gain is introduced. The NN in the control law learns the system dynamics in an online manner, while the NN residual reconstruction errors and the bounded disturbances are overcome by the error sign signal. Since both of the NN output and the error sign signal are included in the integral, the continuity of the control input is ensured. The controller structure and the NN weight update law are novel in contrast with the previous effort, and the semiglobal asymptotic tracking performance is still guaranteed by using the Lyapunov analysis. In addition, the NN weights and all other signals are proved to be bounded simultaneously. The proposed approach also relaxes the need for the upper bounds of certain terms, which are usually required in the previous designs. Finally, the theoretical results are substantiated with simulations.
+
+

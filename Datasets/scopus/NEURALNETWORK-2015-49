@@ -1,0 +1,10 @@
+
+Computer simulation and optimization for reversed-phase HPLC separation: A novel algorithm simulating and optimizing the non-linear and non-ideal separation process in analytical chromatography
+
+
+
+
+ 
+© 2015 Elsevier B.V. A novel algorithm simulating and optimizing separation process in analytical chromatography is developed. The non-linearity of analytical chromatography was based on Langmuir isotherm equation. Meanwhile, non-ideal chromatography shows non-equilibrium distribution of the solutes between the two phases. Then, a new concept named "phase transfer probability factor" was defined to describe the non-equilibrium distribution extent. Subsequently, the algorithm can be used to fit the reversed-phase HPLC (RP-HPLC) experimental and simulated chromatograms associated with the aid of genetic algorithm (GA). Moreover, based on the method, the RP-HPLC separation process of the mixture samples including phenol, hydroquinone, resorcinol, and 4-nitrophenol was simulated and optimized with the aid of multiple layer perceptron artificial neural networks (MLP-ANNs) and GA. The proposed method can easily be generalized to other kinds of analytical chromatographic techniques.
+
+

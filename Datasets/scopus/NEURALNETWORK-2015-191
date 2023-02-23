@@ -1,0 +1,10 @@
+
+A new method for constructing granular neural networks based on rule extraction and extreme learning machine
+
+
+
+
+ 
+© 2015 Elsevier B.V. All rights reserved. This paper introduces a framework of granular neural networks named rough rule granular extreme learning machine (RRGELM), and develops its comprehensive design process. The proposed granular neural networks are formed on the basis of rough decision rules extracted from training samples through rough set theory. Firstly, Sample data are reduced by the algorithms of attributes reduction and attributes values reduction in rough set theory, and then they are compressed to an irredundant data set. In this data set, each sample can represent a rough rule, and is expressed as an If-Then rule which indicates the relationship between the input and output pattern. Moreover, the confidence level and the coverage level of each rule are calculated. Secondly, granular-neurons can be constructed through the If-Then rules, and all the granular-neurons constitute rule matching layer which is regarded as the hidden layer of the RRGELM. The linked weights between the input neurons and granular-neurons can be determined by the confidences of rough decision rules, while the linked weights between the output neurons and granular-neurons can be initialized as the contributions of the rough rules to the classification. Finally, the extreme learning machine (ELM) algorithm is introduced to improve the learning speed of the RRGELM, rather than the BP algorithm used by other traditional GNN models. Good performance of the proposed RRGELM is demonstrated on several well-known benchmark data sets.
+
+

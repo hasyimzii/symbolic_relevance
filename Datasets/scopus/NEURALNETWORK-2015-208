@@ -1,0 +1,10 @@
+
+Development of quadruped robot with locomotion rhythm generator using pulse-type hardware neural networks
+
+
+
+
+ 
+© 2015, ISAROB. This paper discussed about development of quadruped robot which could perform the quadruped animal-like locomotion. Locomotion rhythm of the quadruped robot was generated using the pulse-type hardware neural networks (P-HNN). Quadruped robot had mechanical components and electrical components. The mechanical components of the quadruped robot consist of the body frame, link mechanisms, 4 legs and 4 servo motors to realize the quadruped animal-like locomotion. The body frame, link mechanisms and 4 legs were made from aluminum base alloy. The electrical components of the quadruped robot consist of control board, battery and P-HNN. P-HNN generates the locomotion rhythms using synchronization phenomena such as biological neural networks. The control board actuates the servo motors according to the generated locomotion rhythms. As a result, constructed quadruped robot could perform the quadruped animal-like locomotion using the generated locomotion rhythm, which was shown in this paper.
+
+

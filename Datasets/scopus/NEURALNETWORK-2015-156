@@ -1,0 +1,10 @@
+
+Productivity in multi-pass laser forming of thin AISI 304 stainless steel sheets
+
+
+
+
+ 
+© 2015 Springer-Verlag London Laser forming is an incremental sheet-metal forming process that offers the advantages of high flexibility, requires no hard tooling, no external forces and easy clamping systems. The main limit of the process lies in small angles produced per pass that dramatically affects the process productivity. Actually, long time should be waited between consecutive passes to avoid surface oxidation either material melting. The present work analyses the productivity in multi-pass laser forming. Single and multi-pass laser forming experimental tests were conducted using a high power diode laser to assess the influence of the main process parameters, i.e. laser power, scanning speed, cooling media and number of irradiations on bending angle and cooling time. An artificial neural network was trained with experimental data to determine the optimal processing conditions that minimize the processing time required to produce a given bending angle. From the achieved results, it is shown the importance of considering the cooling time while choosing the processing conditions in multi-pass laser bending; actually, the study demonstrates that processing conditions that maximize the bending angle per pass do not necessarily correspond to those that reduce the processing time.
+
+

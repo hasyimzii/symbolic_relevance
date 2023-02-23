@@ -1,0 +1,10 @@
+
+Mechanical characterization and inclusion based boundary element modeling of lightweight concrete containing foam particles
+
+
+
+
+ 
+© 2015 Elsevier Ltd. This paper investigates the effective material properties of lightweight concrete containing polymer foam particles through both experiments and numerical modeling. Different volume fractions of foam particles have been added to cement paste to fabricate lightweight concrete samples. To interpret the experimental results, an inclusion method based boundary integral equation has been proposed. The effect of the material mismatch between the foam particles and the cement matrix can be simulated by an eigenstrain, which is a fictitious nonmechanical strain. Due to the interaction between particles and boundary effect, the eigenstrain on a particle is not uniform. An asymptotic analysis shows that a quadratic distribution of the eigenstrain over each particle provides very good accuracy. Since the discretization of particles is not needed due to applying an analytic form of eigenstrain field, a large number of spherical inhomogeneities can be simulated and the local field can be calculated in a lightweight concrete sample. The formulation has been implemented in a software package for the simulation of material samples and has been verified with the finite element method for two top-down particles embedded in a cylinder. The simulation results based on idealized microstructure exhibit a very good agreement with the experimental results of the effective elastic moduli. A simple and empirical study also predicts the strengths of the composites very well. The developed algorithm can be used for virtual mechanical experiments of particulate composites.
+
+

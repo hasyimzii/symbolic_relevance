@@ -1,0 +1,10 @@
+
+Adaptive neural tracking control of a class of MIMO pure-feedback time-delay nonlinear systems with input saturation
+
+
+
+
+ 
+© 2015 Taylor & Francis Considering interconnections among subsystems, we propose an adaptive neural tracking control scheme for a class of multiple-input-multiple-output (MIMO) non-affine pure-feedback time-delay nonlinear systems with input saturation. Neural networks (NNs) are employed to approximate unknown functions in the design procedure, and the separation technology is introduced here to tackle the problem induced from unknown time-delay items. The adaptive neural tracking control scheme is constructed by combining Lyapunov–Krasovskii functionals, NNs, the auxiliary system, the implicit function theory and the mean value theorem along with the dynamic surface control technique. Also, it is proven that the strategy guarantees tracking errors converge to a small neighbourhood around the origin by appropriate choice of design parameters and all signals in the closed-loop system uniformly ultimately bounded. Numerical simulation results are presented to demonstrate the effectiveness of the proposed control strategy.
+
+

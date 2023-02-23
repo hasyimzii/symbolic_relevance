@@ -1,0 +1,10 @@
+
+Study on parameters of H JC constitutive model based on numerical simulation of concrete SHPB test
+
+
+
+
+ 
+© 2015, Editorial Office of Chinese Journal of Computational Mechanics. All right reserved. To study the parameter value of HJC constitutive model and its influence on dynamic performance of concrete, the numerical simulation of concrete SHPB test, which is based on the original parameters of HJC constitutive model, was performed by using the finite element analysis software ANSYS/LS-DYNA, and the numerical results showed a certain margin of error with the test results. Therefore, some key parameters for dynamic behavior of concrete were determined according to the physical meanings. Through changing the key parameters and maintaining the other parameters unchanged, the additional numerical analyses of concrete SHPB tests were accomplished and the influences of key parameters on the dynamic performance of concrete were obtained. Furthermore, the original parameter of HJC constitutive model was modified on the basis of the analysis results. And it can be drawn that the revised-parameter-based results agree well with the test results and can reflect the dynamic performance of concrete more accurately.
+
+

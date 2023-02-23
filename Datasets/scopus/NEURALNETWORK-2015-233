@@ -1,0 +1,10 @@
+
+Adaptive Finite-Time Complete Periodic Synchronization of Memristive Neural Networks with Time Delays
+
+
+
+
+ 
+© 2014, Springer Science+Business Media New York. This paper is concerned with the adaptive finite-time complete periodic synchronization issue for memristive based neural networks with time delays. Under the framework of Filippov solutions of the differential equations with discontinuous right-hand side, based on Mawhin-like coincidence theorem in set-valued analysis theory, the existence of periodic solution is proved. By applying Lyapunov–Krasovskii functional approach, adaptive controller is designed and unknown control parameters are determined by adaptive update law. A novel and useful finite-time complete synchronization condition is obtained in terms of linear matrix inequalities to ensure the synchronization goal. An illustrative example is given to demonstrate the effectiveness of the theoretical results.
+
+

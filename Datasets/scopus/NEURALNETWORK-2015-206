@@ -1,0 +1,10 @@
+
+Neural networks as a tool for georadar data processing
+
+
+
+
+ 
+© 2015 Piotr Szymczyk et al., published by De Gruyter Open 2015. In this article a new neural network based method for automatic classification of ground penetrating radar (GPR) traces is proposed. The presented approach is based on a new representation of GPR signals by polynomials approximation. The coefficients of the polynomial (the feature vector) are neural network inputs for automatic classification of a special kind of geologic structure - a sinkhole. The analysis and results show that the classifier can effectively distinguish sinkholes from other geologic structures.
+
+

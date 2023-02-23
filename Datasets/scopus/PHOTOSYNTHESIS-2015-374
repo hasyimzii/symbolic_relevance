@@ -1,0 +1,10 @@
+
+Markov chain-like quantum biological modeling of mutations, aging, and evolution
+
+
+
+
+ 
+© 2015 by the authors; licensee MDPI, Basel, Switzerland. Recent evidence suggests that quantum mechanics is relevant in photosynthesis, magnetoreception, enzymatic catalytic reactions, olfactory reception, photoreception, genetics, electron-transfer in proteins, and evolution; to mention few. In our recent paper published in Life, we have derived the operator-sum representation of a biological channel based on codon basekets, and determined the quantum channel model suitable for study of the quantum biological channel capacity. However, this model is essentially memoryless and it is not able to properly model the propagation of mutation errors in time, the process of aging, and evolution of genetic information through generations. To solve for these problems, we propose novel quantum mechanical models to accurately describe the process of creation spontaneous, induced, and adaptive mutations and their propagation in time. Different biological channel models with memory, proposed in this paper, include: (i) Markovian classical model, (ii) Markovian-like quantum model, and (iii) hybrid quantumclassical model. We then apply these models in a study of aging and evolution of quantum biological channel capacity through generations. We also discuss key differences of these models with respect to a multilevel symmetric channel-based Markovian model and a Kimura model-based Markovian process. These models are quite general and applicable to many open problems in biology, not only biological channel capacity, which is the main focus of the paper. We will show that the famous quantum Master equation approach, commonly used to describe different biological processes, is just the first-order approximation of the proposed quantum Markov chain-like model, when the observation interval tends to zero. One of the important implications of this model is that the aging phenotype becomes determined by different underlying transition probabilities in both programmed and random (damage) Markov chain-like models of aging, which are mutually coupled.
+
+

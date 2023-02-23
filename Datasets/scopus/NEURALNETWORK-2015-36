@@ -1,0 +1,10 @@
+
+			A convergence-accelerated Zhang neural network and its solution application to Lyapunov equation
+
+
+
+
+ 
+© 2016 Elsevier B.V. Lyapunov equation is widely encountered in scientific and engineering fields, and especially used in the control community to analyze the stability of a control system. In this paper, a convergence-accelerated Zhang neural network (CAZNN) is proposed and investigated for solving online Lyapunov equation. Different from the conventional gradient neural network (GNN) and the original Zhang neural network (ZNN), the proposed CAZNN model adopts a sign-bi-power activation function, and thus possesses the best convergence performance. Furthermore, we prove that the CAZNN model can converge to the theoretical solution of Lyapunov equation within finite time, instead of converging exponentially with time. Simulative results also verify the effectiveness and superiority of the CAZNN model for solving online Lyapunov equation, as compared with the GNN model and the ZNN model.
+
+

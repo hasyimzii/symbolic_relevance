@@ -1,0 +1,10 @@
+
+On the kernel Extreme Learning Machine speedup
+
+
+
+
+ 
+© 2015 Elsevier B.V. All rights reserved. In this paper, we describe an approximate method for reducing the time and memory complexities of the kernel Extreme Learning Machine variants. We show that, by adopting a Nyström-based kernel ELM matrix approximation, we can define an ELM space exploiting properties of the kernel ELM space that can be subsequently used to apply several optimization schemes proposed in the literature for ELM network training. The resulted ELM network can achieve good performance, which is comparable to that of its standard kernel ELM counterpart, while overcoming the time and memory restrictions on kernel ELM algorithms that render their application in large-scale learning problems prohibitive.
+
+

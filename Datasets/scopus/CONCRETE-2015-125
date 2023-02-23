@@ -1,0 +1,10 @@
+
+Optimal shakedown analysis of plane reinforced concrete frames according to Eurocodes
+
+
+
+
+ 
+© 2015 The Author(s) We present an updated mathematical model of shakedown optimization for reinforced concrete plane frames subjected to variable and repeated uncertain loading within a known domain. In such structures, plastic redistribution of forces is known to occur, and various mechanisms of system collapse at shakedown have been identified, such as plastic yielding and sign-changing. We develop a general nonlinear mixed-integer optimization problem that reduces to a linear programming problem, and we demonstrate the duality of the linear programming problem for the static and kinematic formulations. We derive strength conditions according to Eurocode 2 and an iterative process of optimization, where stiffness properties of frame elements are allowed to vary. The frame cross-sections are rectangular and made from doubly reinforced concrete; the material is considered composite. We successfully demonstrate the numerical optimization procedure on a two-storey reinforced concrete plane frame. We present variations of interaction loci of each optimized section in graphical form.
+
+

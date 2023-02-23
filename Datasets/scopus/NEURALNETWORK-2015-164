@@ -1,0 +1,10 @@
+
+An advanced method for pedestrian dead reckoning using BLSTM-RNNs
+
+
+
+
+ 
+© 2015 IEEE. Location estimation and navigation, especially on smartphones has shown great progress in the past decade due to its low cost and ability to work without additional infrastructure. However, a challenge is the positioning, both in terms of step detection, step length approximation as well as heading estimation, which must be accurate and robust, even when the use of the device is varied in terms of placement or orientation. In this paper, we propose a scheme for retrieving relevant information to detect steps and to estimate the correct step length from raw inertial measurement unit (IMU) data. This approach uses Bidirectional Long Short-Term Memory Recurrent Neural Networks (BLSTM-RNNs). Designed to take contextual information into account, the network can process data gathered from different positions, resulting in a system, which is invariant with respect to transformation and distortions of the input patterns. An experimental evaluation on a dataset produced from 10 individuals demonstrates that this new approach achieves significant improvements over previous attempts and increase the current state-of-the-art results even in the presence of variations and degradations. We achieved a mean classification rate of 98.5% and a standard deviation of 0.70 for 10000 different test sequences and an average error of 1.45% regarding the step length. Thus is the best result on the task gathered in the experiments compared with competing techniques.
+
+

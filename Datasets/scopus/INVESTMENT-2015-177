@@ -1,0 +1,10 @@
+
+Max-Min Optimization Problem for Variable Annuities Pricing
+
+
+
+
+ 
+© 2015 World Scientific Publishing Company. In this paper, we study the valuation of variable annuities for an insurer. We concentrate on two types of these contracts, namely guaranteed minimum death benefits and guaranteed minimum living benefits that allow the insured to withdraw money from the associated account. Here, the price of variable annuities corresponds to a fee, fixed at the beginning of the contract, that is continuously taken from the associated account. We use a utility indifference approach to determine the indifference fee rate. We focus on the worst case for the insurer, assuming that the insured makes the withdrawals that minimize the expected utility of the insurer. To compute this indifference fee rate, we link the utility maximization in the worst case for the insurer to a sequence of maximization and minimization problems that can be computed recursively. This allows to provide an optimal investment strategy for the insurer when the insured follows the worst withdrawal strategy and to compute the indifference fee. We finally explain how to approximate these quantities via the previous results and give numerical illustrations of parameter sensitivity.
+
+

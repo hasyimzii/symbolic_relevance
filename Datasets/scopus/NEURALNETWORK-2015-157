@@ -1,0 +1,10 @@
+
+A novel micro-assembly method based on the mapping between assembly force and position
+
+
+
+
+ 
+© 2015 Springer-Verlag London To realise a high-quality automated and intelligent micro-assembly process, a new method has been propositioned to direct the assembly process. Due to the limitation of visual guidance, a micro-force is used to instruct the contact process: this can not only judge the assembly status but also provide quantitative analysis. These are all realised on the basis of the mapping relationship between assembly force and position, which is established through a combined error back propagation (BP) network and a genetic algorithm (GA). According to the analysis of the mapping relationship and the assembly force, a contact assembly control strategy is designed, which helps achieve high assembly precision and high assembly quality. When two parts make contact in the assembly process, the control system firstly analyses the assembly force information. Once two or three directional force components are of the same order of magnitude, the mutual influence thereof will be decoupled. Then, the direction having the largest force component is chosen and discarded: the relative positions of the matching parts in this direction will be adjusted. Experimental results are included in support of the theoretical work, which demonstrates the assembly precision is less than 2 μm and the minimum to the sub-micron level. The assembly method based on the mapping between assembly force and position is of significance for automated assembly, as it can improve assembly precision and is generally applicable in the area of micro-assembly technology.
+
+

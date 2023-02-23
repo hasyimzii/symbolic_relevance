@@ -1,0 +1,10 @@
+
+Astrocyte-neuron communication as cascade of equivalent circuits
+
+
+
+
+ 
+© 2015 Elsevier Ltd. The propagation of the neural information in the cerebral cortex relies on the transfer of electrochemical impulses and diffusion of neurotransmitter molecules between neuron cells connected in a network through synaptic junctions. In this scenario, increasing interest is growing on the critical role of glia cells, in particular astrocytes, in supporting the neuronal communication. Neuroglias communicate to each other through calcium signaling and are able to sense the activity of adjacent neurons and release gliotransmitter molecules such as glutamate and D-serine, which bind on receptors located on the synaptic terminal of neurons. In other terms, astrocytes can potentially modulate the neuronal activity of adjacent neurons as well as distant neurons through calcium signaling. In this paper, we describe the neuron-astrocyte communication paradigm, first identifying the molecular processes constituting the communication and then representing each process with equivalent electronic circuits, characterized by frequency response. The aim of this work is to propose an alternative tool for the stimulus-response analysis of the astrocyte-neuron system, in particular to quantify the impact of astrocytic stimulation on the natural activity of spiking neurons. The frequency response of the equivalent circuits shows that certain stimulation patterns evoked through the astrocytes are more effective than others and have the potential of significantly alter the neuronal activity.
+
+

@@ -1,0 +1,10 @@
+
+MLP technique based reinforcement learning control of discrete pure-feedback systems
+
+
+
+
+ 
+© 2015 Elsevier B.V. The reinforcement learning control with neural networks (NNs) is investigated for a class of pure-feedback systems in discrete time using minimal-learning-parameter (MLP) technique. To make the dynamics feasible for controller design, the nth order system is transformed into the prediction model. By selecting the "strategic" utility function including the future performance, the critic NN is designed. The action NN is employed to minimize both the strategic utility function and the tracking error. A radial basis function (RBF) NN is employed to approximate the unknown control with the MLP technique which greatly reduces the number of the online adaptive parameters. The uniformly ultimate boundedness (UUB) of the closed-loop tracking error is guaranteed. The feasibility of the proposed controller is verified by a simulation example.
+
+

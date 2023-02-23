@@ -1,0 +1,10 @@
+
+Data-based multiple-model prediction of the production rate for hematite ore beneficiation process
+
+
+
+
+ 
+© 2015 Elsevier Ltd. The prediction of the production rate of the hematite ore beneficiation process is important to plant-wide optimization. This paper presents a data-based multi-model approach to predict the production rate with multiple operating modes. The inputs of the predictive model are the performance indices of each unit process, and the output is the global production index (the production rate) of the hematite ore beneficiation process. The multiple models are developed by integrating the fuzzy clustering algorithm and machine learning algorithm. A global model, Takagi-Sugeno-Kang fuzzy model, and multiple neural network model were compared using the data obtained from a practical industrial process, and the effectiveness of the proposed algorithm was proven.
+
+

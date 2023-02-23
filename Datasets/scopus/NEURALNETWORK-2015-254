@@ -1,0 +1,10 @@
+
+Analysis of physiological responses and use of fuzzy information granulationâ€"based neural network for recognition of three emotions
+
+
+
+
+ 
+© 2015 ETRI. In this study, we investigate the relationship between emotions and the physiological responses, with emotion recognition, using the proposed fuzzy information granulationâ€"based neural network (FIGNN) for boredom, pain, and surprise emotions. For an analysis of the physiological responses, three emotions are induced through emotional stimuli, and the physiological signals are obtained from the evoked emotions. To recognize the emotions, we design an FIGNN recognizer and deal with the feature selection through an analysis of the physiological signals. The proposed method is accomplished in premise, consequence, and aggregation design phases. The premise phase takes information granulation using fuzzy c-means clustering, the consequence phase adopts a polynomial function, and the aggregation phase resorts to a general fuzzy inference. Experiments show that a suitable methodology and a substantial reduction of the feature space can be accomplished, and that the proposed FIGNN has a high recognition accuracy for the three emotions using physiological signals.
+
+

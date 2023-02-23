@@ -1,0 +1,10 @@
+
+Adaptive filters: stable but divergent
+
+
+
+
+ 
+© 2015, Rupp. The pros and cons of a quadratic error measure in the context of various applications have often been discussed. In this tutorial, we argue that it is not only a suboptimal but definitely the wrong choice when describing the stability behavior of adaptive filters. We take a walk through the past and recent history of adaptive filters and present 14 canonical forms of adaptive algorithms and even more variants thereof contrasting their mean-square with their l2−stability conditions. In particular, in safety critical applications, the convergence in the mean-square sense turns out to provide wrong results, often not leading to stability at all. Only the robustness concept with its l2−stability conditions ensures the absence of divergence.
+
+

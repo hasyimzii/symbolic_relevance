@@ -1,0 +1,10 @@
+
+Exponential stability of a class of competitive neural networks with multi-proportional delays
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York In this paper, the exponential stability of a class of competitive neural networks with multi-proportional delays is studied. First, through suitable transformations, a class of competitive neural networks with multi-proportional delays can be equivalently turned into a class of competitive neural networks with multi-constant delays and variable coefficients. By using fixed point theorem, the existence and uniqueness of equilibrium point of the system is proved. Furthermore by constructing appropriate delay differential inequality, two delay-independent and delay-independent sufficient conditions for the exponential stability of equilibrium point are obtained. Finally, several examples and their simulations are given to illustrate the effectiveness of the obtained results.
+
+

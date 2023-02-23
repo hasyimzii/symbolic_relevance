@@ -1,0 +1,10 @@
+
+Estimation of energy consumption on arbitrary trajectories of an omnidirectional automated guided vehicle
+
+
+
+
+ 
+© 2015 IEEE. This paper presents an approach to estimate the energy consumption of an omnidirectional Automated Guided Vehicle (AGV) equipped with four Mecanum wheels for any given trajectory. We derive an energy model for such a robot using experimental data, and perform the estimation by applying the trajectory's translational and rotational velocity profiles to it. These profiles are given as the output of a motion planning algorithm. The results can then be used to compare different trajectories between fixed starting and goal poses. Instead of employing universal function approximators such as artificial neural networks, we use a model based on polynomial functions to derive a better understanding of the physical effects at work.
+
+

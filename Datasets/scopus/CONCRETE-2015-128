@@ -1,0 +1,10 @@
+
+Family of state space least mean power of two-based algorithms
+
+
+
+
+ 
+© 2015, Moinuddin et al.; licensee Springer. In this work, a novel family of state space adaptive algorithms is introduced. The proposed family of algorithms is derived based on stochastic gradient approach with a generalized least mean cost function J[k]=E[∥ε[k]∥2L] for any integer L. Since this generalized cost function is having power `2L’, it includes the whole family of the power of two-based algorithms by having different values of L. The novelty of the work resides in the fact that such a cost function has never been used in the framework of state space model. It is a well-known fact that the knowledge of state space model improves the estimation of state parameters of that system. Hence, by employing the state space model with a generalized cost function, we provide an efficient way to estimate the state parameters. The proposed family of algorithms inherit simplicity in its structure due to the use of stochastic gradient approach in contrast to the other model-based algorithms such as Kalman filter and its variants. This fact is supported by providing a comparison of the computational complexities of these algorithms. More specifically, the proposed family of algorithms has computational complexity far lesser than that of the Kalman filter. The stability of the proposed family of algorithms is analysed by providing the convergence analysis. Extensive simulations are presented to provide concrete justification and to compare the performances of the proposed family of algorithms with that of the Kalman filter.
+
+

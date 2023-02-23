@@ -1,0 +1,10 @@
+
+Response of concrete gravity dam by damage model under seismic excitation
+
+
+
+
+ 
+© 2015 Elsevier Inc. The aim of this study is to investigate the earthquake damage response of the concrete gravity dam. It is well known that simulation of concrete structures up to rupture requires nonlinear behavior of the models. The material behavior whose principle is based on the damage mechanics has been implemented in a finite element program. Thismodel takes into account the dissymmetry of the behavior of concrete and considers cracking in tension and rupture in compression. The dynamic equilibriumequations ofmotion are solved by using the explicit central differencemethod which is based on approximation of velocities and accelerationswith quotients of finite difference of known values of displacements with regular time step. For numerical application, two dimensional seismic analysis of Koyna gravity dam is performed by using the 1967 Koyna earthquake records. The results obtained are shown in the time history graphs of the horizontal and vertical displacements of the nodal point located at the crest of the dam. These are the stresses, the strains and the cumulated damage at the integration points respectively.
+
+

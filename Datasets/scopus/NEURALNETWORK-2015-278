@@ -1,0 +1,10 @@
+
+Supervised learning using spike-timing-dependent plasticity of memristive synapses
+
+
+
+
+ 
+© 2015 IEEE. We propose a supervised learning model that enables error backpropagation for spiking neural network hardware. The method is modeled by modifying an existing model to suit the hardware implementation. An example of a network circuit for the model is also presented. In this circuit, a three-terminal ferroelectric memristor (3T-FeMEM), which is a field-effect transistor with a gate insulator composed of ferroelectric materials, is used as an electric synapse device to store the analog synaptic weight. Our model can be implemented by reflecting the network error to the write voltage of the 3T-FeMEMs and introducing a spike-timing-dependent learning function to the device. An XOR problem was successfully demonstrated as a benchmark learning by numerical simulations using the circuit properties to estimate the learning performance. In principle, the learning time per step of this supervised learning model and the circuit is independent of the number of neurons in each layer, promising a high-speed and low-power calculation in large-scale neural networks.
+
+

@@ -1,0 +1,10 @@
+
+Stability of bidirectional associative memory neural networks with Markov switching via ergodic method and the law of large numbers
+
+
+
+
+ 
+© 2015 Elsevier B.V. This paper devotes to stability analysis of continuous time and discrete time bidirectional associative memory (BAM) neural networks whose parameters are randomly varying in a finite state Markov chain sense. Based on the ergodic theory of continuous time Markov chain, the matrix measure approach and Lyapunov theory, almost sure stability and exponential stability in the mean square for continuous time BAM neural networks are derived. We also present some new stability results for discrete time BAM neural networks with the help of the law of large numbers. Meanwhile, some examples with numerical simulations are given to show that the Markov chain plays an important role in stability of neural networks.
+
+

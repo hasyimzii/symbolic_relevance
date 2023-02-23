@@ -1,0 +1,10 @@
+
+Identification and control of nonlinear dynamics of a mobile robot in discrete time using an adaptive technique based on neural PID
+
+
+
+
+ 
+© 2014, The Natural Computing Applications Forum. In this work, original results, concerning the application of a discrete-time adaptive PID neural controller in mobile robots for trajectory tracking control, are reported. In this control strategy, the exact dynamical model of the robot does not need to be known, but a neural network is used to identify the dynamic model. To implement this strategy, two controllers are implemented separately: a kinematic controller and an adaptive neural PID controller. The uncertainty and variations in the robot dynamics are compensated by an adaptive neural PID controller. It is efficient and robust in order to achieve a good tracking performance. The stability of the proposed technique, based on the discrete-time Lyapunov's theory, is proven. Finally, experiments on the mobile robot have been developed to show the performance of the proposed technique, including the comparison with a classical PID.
+
+

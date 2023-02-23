@@ -1,0 +1,10 @@
+
+A backpropagation neural network to improve arabic stemming
+
+
+
+
+ 
+© 2005 - 2015 JATIT & LLS. Stemming aims to identify the roots or stem of each word by eliminating the grammatical affixes or lexical information. Many approaches have been proposed in terms of stemming for various languages. Unlike English language, Arabic stemming is not a simple task of eliminating suffixes and prefixes. Arabic has a complex morphology where the process of stemming requires comprehensive analysis for such morphology. Several approaches have been proposed to enhance Arabic stemming. However, the state of the art of Arabic stemming algorithms such as Khoja and Light stemmer were built using rule-based approach. Hence, recent researches have attempted to examine the machine learning technique regarding to its capability of identifying word’s stem based on training. Nonetheless, there is still room for improvement in terms of addressing new features that have the ability to assign accurate weight for the words. In fact, assigning an accurate weight for the words plays an essential role in terms of classifying its actual root. Therefore, this study aims to develop a set of features that would enhance the process of weighting for words. The proposed set of features consists of affixes, word length and tenses. Then, the acquired weight that would be obtained from the proposed features will be entered as an input for a backpropagation neural network classifier in order to output the actual stem. The corpus that has been used in this study is an Open Source Arabic Corpus (OSAC), which consists of 21,861 documents that are distributed among multiple topics including economy, sport, social, religion, stories, health, law, astronomy and food recipes. Two stemmers i.e. Khoja and Light stemmers have been used as baseline for comparison with the proposed method. The experimental results have shown that the proposed method has outperformed both of Khoja and Light stemmers by achieving 88% precision and 82% recall. In addition, this study proposed a new sampling method in terms of Arabic stemming evaluation.
+
+

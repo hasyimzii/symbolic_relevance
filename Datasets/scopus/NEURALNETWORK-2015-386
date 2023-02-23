@@ -1,0 +1,10 @@
+
+Universal consistency of extreme learning machine for RBFNs case
+
+
+
+
+ 
+© 2015 Elsevier B.V. This paper concerns the universal consistency of extreme learning machine (ELM) for radial basis function networks (RBFNs). That is, the estimator constructed by ELM for RBFNs learning system can approximate an arbitrary regression function to any accuracy, as long as the number of the training samples is sufficiently large. Furthermore, we also give the conditions for the kernel functions, with which the corresponding ELM-RBFNs estimator is strongly universal consistency. These results not only underlie the feasibility of ELM for RBFNs case, but also provide guidance of practical selection for kernel functions in ELM application.
+
+

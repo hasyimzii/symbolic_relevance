@@ -1,0 +1,10 @@
+
+A 2.5-dimensional infinite element based method for the prediction of structure-borne low-frequency noise from concrete rail transit bridges
+
+
+
+
+ 
+© 2015, Nanjing University of Aeronautics an Astronautics. All right reserved. A two-and-a-half dimensional (2.5D) procedure based on infinite element method (IFEM) is proposed to predict the bridge-borne noise with higher efficiency, yet no loss of accuracy. The two-dimensional (2D) infinite element model of a bridge with a constant cross section is developed to calculate the acoustic transfer vectors. Then, spatial modal acoustic transfer vectors (MATVs) of the bridge are derived using the space-wavenumber transforms of its 3D modal shapes. The MATVs obtained from 2.5D IFEM and 3D boundary element method are then compared to verify the accuracy of the 2.5D method. The vehicle-track-bridge dynamic interaction analysis is then conducted, and the bridge-borne noise is finally computed through the MATVs and modal coordinate responses of the bridge. The 2.5D procedure is employed to simulate the sound pressure radiating from the concrete bridge in one of Shanghai rail transit lines, and the numerical results are compared with the measured counterparts from field tests. The simulated and measured results match well in both time and frequency domains at near-field points. Nevertheless, the numerical results are smaller than the measured ones for far-field points, mainly due to the neglect of sound pressure induced by adjacent spans.
+
+

@@ -1,0 +1,10 @@
+
+Visual voice activity detection based on spatiotemporal information and bag of words
+
+
+
+
+ 
+© 2015 IEEE. A novel method for Visual Voice Activity Detection (V-VAD) that exploits local shape and motion information appearing at spatiotemporal locations of interest for facial region video description and the Bag of Words (BoW) model for facial region video representation is proposed in this paper. Facial region video classification is subsequently performed based on Single-hidden Layer Feedforward Neural (SLFN) network trained by applying the recently proposed kernel Extreme Learning Machine (kELM) algorithm on training facial videos depicting talking and non-talking persons. Experimental results on two publicly available V-VAD data sets, denote the effectiveness of the proposed method, since better generalization performance in unseen users is achieved, compared to recently proposed state-of-the-art methods.
+
+

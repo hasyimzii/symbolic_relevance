@@ -1,0 +1,10 @@
+
+A novel criterion to select hidden neuron numbers in improved back propagation networks for wind speed forecasting
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York This paper analyzes various earlier approaches for selection of hidden neuron numbers in artificial neural networks and proposes a novel criterion to select the hidden neuron numbers in improved back propagation networks for wind speed forecasting application. Either over fitting or under fitting problem is caused because of the random selection of hidden neuron numbers in artificial neural networks. This paper presents the solution of either over fitting or under fitting problems. In order to select the hidden neuron numbers, 151 different criteria are tested by means of the statistical errors. The simulation is performed on collected real-time wind data and simulation results prove that proposed approach reduces the error to a minimal value and enhances forecasting accuracy The perfect building of improved back propagation networks employing the fixation criterion is substantiated based on the convergence theorem. Comparative analyses performed prove the selection of hidden neuron numbers in improved back propagation networks is highly effective in nature.
+
+

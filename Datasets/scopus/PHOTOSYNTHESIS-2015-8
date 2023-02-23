@@ -1,0 +1,10 @@
+
+Simulating cyanobacterial phenotypes by integrating flux balance analysis, kinetics, and a light distribution function
+
+
+
+
+ 
+© 2015 He et al. Background: Genome-scale models (GSMs) are widely used to predict cyanobacterial phenotypes in photobioreactors (PBRs). However, stoichiometric GSMs mainly focus on fluxome that result in maximal yields. Cyanobacterial metabolism is controlled by both intracellular enzymes and photobioreactor conditions. To connect both intracellular and extracellular information and achieve a better understanding of PBRs productivities, this study integrates a genome-scale metabolic model of Synechocystis 6803 with growth kinetics, cell movements, and a light distribution function. The hybrid platform not only maps flux dynamics in cells of sub-populations but also predicts overall production titer and rate in PBRs. Results: Analysis of the integrated GSM demonstrates several results. First, cyanobacteria are capable of reaching high biomass concentration (>20 g/L in 21 days) in PBRs without light and CO2 mass transfer limitations. Second, fluxome in a single cyanobacterium may show stochastic changes due to random cell movements in PBRs. Third, insufficient light due to cell self-shading can activate the oxidative pentose phosphate pathway in subpopulation cells. Fourth, the model indicates that the removal of glycogen synthesis pathway may not improve cyanobacterial bio-production in large-size PBRs, because glycogen can support cell growth in the dark zones. Based on experimental data, the integrated GSM estimates that Synechocystis 6803 in shake flask conditions has a photosynthesis efficiency of ~2.7 %. Conclusions: The multiple-scale integrated GSM, which examines both intracellular and extracellular domains, can be used to predict production yield/rate/titer in large-size PBRs. More importantly, genetic engineering strategies predicted by a traditional GSM may work well only in optimal growth conditions. In contrast, the integrated GSM may reveal mutant physiologies in diverse bioreactor conditions, leading to the design of robust strains with high chances of success in industrial settings.
+
+

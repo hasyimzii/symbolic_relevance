@@ -1,0 +1,10 @@
+
+Numerical and parametric study of curved steel-concrete-steel sandwich composite beams under concentrated loading
+
+
+
+
+ 
+© 2015 RILEM The curved steel-concrete-steel (SCS) sandwich structure has been developed as the ice-resistant wall for Arctic oil and gas drilling platform. This developed curved SCS sandwich structure adopts ultra-lightweight cement composite and overlapped headed shear studs as the core material and bonding measures at the steel-concrete interface, respectively. This paper develops a three-dimensional finite element (FE) model by general commercial FE program ABAQUS to simulate the ultimate strength behaviour of the curved SCS sandwich beam. The developed FE model considers the geometric and material nonlinearities of the concrete, steel plates and connectors. The reasonable agreement between FE analysis and the quasi-static tests on nine SCS sandwich beams confirms the accuracy of the FEM in predicting the ultimate shear resistance and cracks in the concrete core of the curved SCS sandwich beam. Based on this validated FE model, a subsequence parametric study comprising 54 cases investigates the influences of the curvature, thickness of the steel face plate and core material, and horizontal movements of the supports on the shear resistance of the curved SCS sandwich beams. Finally, the paper validates accuracy of an analytical model on the shear resistance of the curved SCS sandwich beam via a comparison against a total of 41 results (32 FEA and 9 tests).
+
+

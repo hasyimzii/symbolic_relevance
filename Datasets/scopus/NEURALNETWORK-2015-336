@@ -1,0 +1,11 @@
+
+Adaptive Neuro-Fuzzy Model for Grid-Connected Photovoltaic System
+									
+
+
+
+
+ 
+© 2015 Taiwan Fuzzy Systems Association and Springer-Verlag Berlin Heidelberg. This paper proposed an adaptive neuro-fuzzy inference system (ANFIS) model to multilevel inverter for grid-connected photovoltaic (PV) system. The purpose of the proposed controller is to avoid the requirement of any optimal PWM (pulse width-modulated) switching-angle generator and proportional-integral controller. The proposed method strictly prevents the variations present in the output voltage of the cascaded H-bridge multilevel inverter. Here, the ANFIS models have the inputs which are the grid voltage and the difference voltage, and the output target is the control voltage. By means of these parameters, the ANFIS makes the rules and can be tuned perfectly. During the testing time, the ANFIS provides the control voltage according to the different inputs. Then, the ANFIS-based algorithm for multilevel inverter for grid-connected PV system is implemented in the MATLAB/simulink platform, and the effectiveness of the proposed control technique is analyzed by comparing the model's performances with the neural network, fuzzy logic control, etc.
+
+

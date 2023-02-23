@@ -1,0 +1,10 @@
+
+In-process cutting tool remaining useful life evaluation based on operational reliability assessment
+
+
+
+
+ 
+© 2015 Springer-Verlag London In this paper, a method for evaluating the remaining useful life of an individual cutting tool while the tool is in process is proposed. The method is based on the operational reliability of a cutting tool which is used to assess its ability to complete a machining operation. Sensitive features extracted from force, vibration and acoustic emission signals are used to form characteristic matrices. Based on the kernel principal component analysis method, subspace matrices can be developed by reducing redundant information. The principal angle between the matrices of the normal state and the running state in the subspace is calculated. The cosine value of the minimum principal angle is used to assess the tool operational reliability. The remaining useful life of a cutting tool can be evaluated when the operational reliability assessment result is one of the back propagation neural network model’s input parameters together with some machining parameters. A chaotic genetic algorithm is used to optimize the initial weights and thresholds of the model with improved ergodicity and recurrence properties. The chaotic variables are introduced to improve the global searching ability and convergence speed. A case study is presented to validate the performance of the proposed method. The remaining useful life of an individual cutting tool can be evaluated quantitatively without the need of large samples and probability or statistic techniques.
+
+

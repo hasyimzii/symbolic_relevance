@@ -1,0 +1,10 @@
+
+On minimizing drawdown risks of lifetime investments
+
+
+
+
+ 
+© 2015 Elsevier B.V. Drawdown measures the decline of portfolio value from its historic high-water mark. In this paper, we study a lifetime investment problem aiming at minimizing the risk of drawdown occurrences. Under the Black-Scholes framework, we examine two financial market models: a market with two risky assets, and a market with a risk-free asset and a risky asset. Closed-form optimal trading strategies are derived under both models by utilizing a decomposition technique on the associated Hamilton-Jacobi-Bellman (HJB) equation. We show that it is optimal to minimize the portfolio variance when the fund value is at its historic high-water mark. Moreover, when the fund value drops, the proportion of wealth invested in the asset with a higher instantaneous rate of return should be increased. We find that the instantaneous return rate of the minimum lifetime drawdown probability (MLDP) portfolio is never less than the return rate of the minimum variance (MV) portfolio. This supports the practical use of drawdown-based performance measures in which the role of volatility is replaced by drawdown.
+
+

@@ -1,0 +1,10 @@
+
+H∞ state estimation for discrete-time delayed systems of the neural network type with multiple missing measurements
+
+
+
+
+ 
+© 2015 IEEE. This paper investigates the H∞ state estimation problem for a class of discrete-time nonlinear systems of the neural network type with random time-varying delays and multiple missing measurements. These nonlinear systems include recurrent neural networks, complex network systems, Lur'e systems, and so on which can be described by a unified model consisting of a linear dynamic system and a static nonlinear operator. The missing phenomenon commonly existing in measurements is assumed to occur randomly by introducing mutually individual random variables satisfying certain kind of probability distribution. Throughout this paper, first a Luenberger-like estimator based on the imperfect output data is constructed to obtain the immeasurable system states. Then, by virtue of Lyapunov stability theory and stochastic method, the H∞ performance of the estimation error dynamical system (augmented system) is analyzed. Based on the analysis, the H∞ estimator gains are deduced such that the augmented system is globally mean square stable. In this paper, both the variation range and distribution probability of the time delay are incorporated into the control laws, which allows us to not only have more accurate models of the real physical systems, but also obtain less conservative results. Finally, three illustrative examples are provided to validate the proposed control laws.
+
+

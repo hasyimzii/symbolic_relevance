@@ -1,0 +1,10 @@
+
+Meso-scale image-based modeling of reinforced concrete and adaptive multi-scale analyses on damage evolution in concrete structures
+
+
+
+
+ 
+© 2015 Elsevier B.V. All rights reserved. This paper presents new image-based multi-grid and adaptive multi-scale modeling methods to simulate trans-scale process of reinforced concrete (RC) from evolving random meso-damage to macro-scopic cracks and eventually to catastrophic rupture. Adaptivity ensures continuous scale changes in the model due to evolving damage without user's intervention in the computation. The methods provided an effective numerical tool to understand macroscopic material degradation behavior from meso-scale with sufficient precision. Through cases study, the results shows that the developed methods can be used to reveal well the failure mechanisms of RC by considering the real random heterogeneous meso-structures within material as well as better computational efficiency.
+
+

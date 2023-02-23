@@ -1,0 +1,10 @@
+
+Demonstrating non-inferiority of easy interpretable methods for insolvency prediction
+
+
+
+
+ 
+© 2015 Elsevier B.V. All rights reserved. Insolvency prediction and credit rating are challenging tasks used to evaluate commercial enterprises based on qualitative and quantitative attributes. One way to approach this task is machine learning whereby hypotheses are trained on sample data. The advantages are the automatization of the process obviating the need of human knowledge and thus, its high level objectivity. Nevertheless, this approach does not claim to be perfect as it does not completely replace human knowledge. Hence, these hypotheses are intended to be used as decision support for financial experts and thus, offer an advantage over black box hypotheses. We demonstrate how easily interpretable white box hypotheses (Decision Trees (DTs) and Disjunctive Normal Forms (DNFs)) are not inferior to more difficult interpretable gray box hypotheses (Random Forests (RFs) and Artificial Neural Networks (ANNs)) or even non-interpretable black box hypotheses (Support Vector Machines (SVMs)). We calculate DTs by means of Quinlans famous C4.5 algorithm. For DNFs, we developed an algorithm we call threshold heuristic. In our case study, a database with financial statements of 5152 enterprises is used to evaluate the performance in insolvency prediction for all classifiers. A common problem in insolvency prediction is extremely imbalanced data because naturally there are very few insolvent enterprises. Therefore we apply an asymmetric bagging method which increases the performance with extremely imbalanced data sets. In our case study, interpretable hypotheses perform better than other hypotheses. DTs have a better β-error, whereas DNFs outperform DTs with respect to the α-error. We compared both hypothesis classes and exemplary hypotheses. Both are interpretable in different ways leaving the choice to preference. This leads to the conclusion that interpretable threshold based methods are appropriate for classification problems in finance. In this domain, they are not inferior to more sophisticated methods like SVMs.
+
+

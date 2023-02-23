@@ -1,0 +1,10 @@
+
+Efficient keyword search for public-key setting
+
+
+
+
+ 
+© 2015 IEEE. Querying over encrypted data is gaining increasing popularity in cloud based data hosting services. Security and efficiency are recognized as two important and yet conflicting requirements for querying over encrypted data. In this paper we propose an efficient public-key encryption with keyword search scheme (EPEKS for short) that support binary search for inverted index-based encrypted data. First, we describe approaches of constructing a searchable encryption scheme that supports binary search. Second, we present a novel framework for EPEKS, and provide its formal security definitions in terms of IND-PEKS-CKA security and search pattern privacy by modifying Nishioka's security notions [1]. Third, built on the proposed framework, we design a concrete EPEKS scheme based on the groups of prime order. The scheme enjoys strong notions of security, namely statistical IND-PEKS-CKA security and statistical search pattern privacy. Finally, we experimentally evaluate the proposed EPEKS scheme and show that it is significantly more efficient in terms of search over encrypted data than existing search pattern secure PEKS schemes.
+
+

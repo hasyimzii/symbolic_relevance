@@ -1,0 +1,10 @@
+
+A method to determine photosynthetic activity from oxygen microsensor data in biofilms subjected to evaporation
+
+
+
+
+ 
+© 2015 Elsevier B.V. Phototrophic biofilms are widely distributed in nature and their ecological importance is well recognized. More recently, there has been a growing interest in using artificial phototrophic biofilms in innovative photobioreactors for production of microalgal biomass in biotechnological applications. To study physiological processes within these biofilms, microsensors have been applied in several studies. Here, the 'light-dark shift method' relies on measurement of photosynthetic activity in terms of light-induced oxygen production. However, when applied to non-submerged biofilms that can be found in numerous locations in nature, as well as in some types of photobioreactors, limitations of this approach are obvious due to rapid removal of gaseous species at the biofilm surface. Here, we introduce a mathematical correction to recover the distribution of the actual photosynthetic activity along the depth gradient in the biofilm, based on a numerical solution of the inversed diffusion equation of oxygen. This method considers changes in mass transport during the measurement period as can found on biofilms possessing a thin flow/mass transfer boundary layer (e. g., non-submerged biofilms). Using both simulated and real microsensor data, the proposed method was shown to be much more accurate than the classical method, which leads to underestimations of rates near the biofilm surface. All test profiles could be recovered with a high fit. According to our simulated microsensor measurements, a depth resolution of ≤. 20. μm is recommended near the surface. We conclude that our method strongly improves the quality of data acquired from light-dark measurements of photosynthetic activity in biofilms.
+
+

@@ -1,0 +1,10 @@
+
+Prediction of angular distortion in no gap butt joint using BPNN and inherent strain considering the actual bead geometry
+
+
+
+
+ 
+						© 2015 Springer-Verlag London The angular distortion is a typical out-of-plane distortion, and it has negative effects on the performance of welded structures. However, the researches on angular distortion of welded structures using intelligent algorithm and mathematical analysis are comparatively less. In this article, the influence from the bead profile on the angular distortion is analyzed, and the angular distortion of tungsten inert gas arc welding with no gap would be predicted by back propagation neural network and the novel inherent strain considering the actual bead geometry model, and the prediction accuracy is also evaluated through comparative analysis of the results with each other. The average relative error of the model built using inherent strain considering the actual bead geometry model method is only 1.289 % and better than that predicted by back propagation neural network algorithm (4.772 %). Meanwhile, the inherent strain considering the actual bead geometry model prediction stability that is estimated using standard deviation is also clearly better than that of back propagation neural network. Actually, the prediction methods by back propagation neural network algorithm and inherent strain considering the actual bead geometry model are proved to be correct and stable. Therefore, the proposed methods can be used to predict the angular distortion of the welded structures with no gap butt joint and guide the actual welding process to decrease the welding deformation.
+
+

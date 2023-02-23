@@ -1,0 +1,10 @@
+
+Interaction of arabidopsis trihelix-domain transcription factors VFP3 and VFP5 with agrobacterium virulence protein VirF
+
+
+
+
+ 
+Agrobacterium is a natural genetic engineer of plants that exports several virulence proteins into host cells in order to take advantage of the cell machinery to facilitate transformation and support bacterial growth. One of these effectors is the F-box protein VirF, which presumably uses the host ubiquitin/proteasome system (UPS) to uncoat the packaging proteins from the invading bacterial T-DNA. By analogy to several other bacterial effectors, VirF most likely has several functions in the host cell and, therefore, several interacting partners among host proteins. Here we identify one such interactor, an Arabidopsis trihelixdomain transcription factor VFP3, and further show that its very close homolog VFP5 also interacted with VirF. Interestingly, interactions of VirF with either VFP3 or VFP5 did not activate the host UPS, suggesting that VirF might play other UPS-independent roles in bacterial infection. To better understand the potential scope of VFP3 function, we used RNAi to reduce expression of the VFP3 gene. Transcriptome profiling of these VFP3-silenced plants using high-throughput cDNA sequencing (RNA-seq) revealed that VFP3 substantially affected plant gene expression; specifically, 1,118 genes representing approximately 5% of all expressed genes were significantly either up-or down-regulated in the VFP3 RNAi line compared to wild-type Col-0 plants. Among the 507 up-regulated genes were genes implicated in the regulation of transcription, protein degradation, calcium signaling, and hormone metabolism, whereas the 611 down-regulated genes included those involved in redox regulation, light reactions of photosynthesis, and metabolism of lipids, amino acids, and cell wall. Overall, this pattern of changes in gene expression is characteristic of plants under stress. Thus, VFP3 likely plays an important role in controlling plant homeostasis.
+
+

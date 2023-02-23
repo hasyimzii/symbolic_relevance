@@ -1,0 +1,10 @@
+
+Bridge deep learning to the physical world: An efficient method to quantize network
+
+
+
+
+ 
+© 2015 IEEE. As better performance is achieved by deep convolutional network with more and more layers, the increasing number of weighting and bias parameters makes it only possible to be implemented on servers in cyber space but infeasible to be deployed in physical-world embedded systems because of huge storage and memory bandwidth requirements. In this paper, we proposed an efficient method to quantize the model parameters. Instead of taking the quantization process as a negative effect on precision, we regarded it as a regularize problem to prevent overfitting, and a two-stage quantization technique including soft- and hard-quantization is developed. With the help of our quantization method, not only 93.75% of the parameter memory size can be reduced by replacing the word length from 32-bit to 2-bit, but the testing accuracy after quantization is also better than previous approaches in some dataset, and the additional training overhead is only 3% of the ordinary one.
+
+

@@ -1,0 +1,10 @@
+
+Biological image classification using rough-fuzzy artificial neural network
+
+
+
+
+ 
+© 2015 Elsevier Ltd. All right sreserved. This paper presents a methodology to biological image classification through a Rough-Fuzzy Artificial Neural Network (RFANN). This approach is used in order to improve the learning process by Rough Sets Theory (RS) focusing on the feature selection, considering that the RS feature selection allows the use of low dimension features from the image database. This result could be achieved, once the image features are characterized using membership functions and reduced it by Fuzzy Sets rules. The RS identifies the attributes relevance and the Fuzzy relations influence on the Artificial Neural Network (ANN) surface response. Thus, the features filtered by Rough Sets are used to train a Multilayer Perceptron Neuro Fuzzy Network. The reduction of feature sets reduces the complexity of the neural network structure therefore improves its runtime. To measure the performance of the proposed RFANN the runtime and training error were compared to the unreduced features.
+
+

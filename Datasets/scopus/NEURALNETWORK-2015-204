@@ -1,0 +1,10 @@
+
+V4 Neural Network Model for Shape-Based Feature Extraction and Object Discrimination
+
+
+
+
+ 
+© 2015, Springer Science+Business Media New York. Visual area V4 plays an important role in the neural mechanism of shape recognition. V4 neurons exhibit selectivity for the orientation and curvature of boundary fragments. In this paper, we propose a novel neural network model of V4 for shape-based feature extraction and other vision tasks. The low-level layers of the model consist of computational units simulating simple cells and complex cells in the primary visual cortex. These layers extract preliminary visual features including edges and orientations. The V4 computational units calculate the entropy of the extracted features as a measure of visual saliency. The features around salient points are then selected and encoded with a layer of restricted Boltzmann machine to generate an intermediate representation of object shapes. The model is evaluated in shape distinction, feature detection, feature matching, and object discrimination experiments. The results demonstrate that this model generates discriminative local representation of object shapes. It shows a successful attempt to construct a computation model of visual object recognition in the brain.
+
+

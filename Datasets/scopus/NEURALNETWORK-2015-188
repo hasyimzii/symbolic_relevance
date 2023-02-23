@@ -1,0 +1,10 @@
+
+A complex-valued projection neural network for constrained optimization of real functions in complex variables
+
+
+
+
+ 
+© 2015 IEEE. In this paper, we present a complex-valued projection neural network for solving constrained convex optimization problems of real functions with complex variables, as an extension of real-valued projection neural networks. Theoretically, by developing results on complex-valued optimization techniques, we prove that the complex-valued projection neural network is globally stable and convergent to the optimal solution. Obtained results are completely established in the complex domain and thus significantly generalize existing results of the real-valued projection neural networks. Numerical simulations are presented to confirm the obtained results and effectiveness of the proposed complex-valued projection neural network.
+
+

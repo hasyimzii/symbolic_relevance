@@ -1,0 +1,10 @@
+
+Short-term forecast method of hot-blast stove gas consumption trend based on PSO-BP neural network
+
+
+
+
+ 
+© 2015 by Binary Information Press. The gas consumption of hot-blast stove is closely related to the iron production and directly affects the balance of gas pipe network in iron and steel plant. Aimed at solving the forecast problem of hot-blast stove gas consumption, a forecasting method is proposed, which is BP neural network optimized by particle swarm algorithm (PSO-BP). After data noise reduction of hot-blast stove gas consumption, this neural network model has been constructed using basic processing factors and historical data. Through PSO-BP neural network algorithm, 60 min's trend of blast furnace gas consumed by the hot-blast stove has been forecasted. Finally, the forecasting results of gas consumption calculated by PSO-BP algorithm are compared with BP algorithm, verified that PSO-BP neural network algorithm has higher accuracy and better performance. The predictive accuracy of the proposed method meets the requirements of the gas scheduling, and will guided the scheduling of steel production and energy balance effectively.
+
+

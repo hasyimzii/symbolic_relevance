@@ -1,0 +1,10 @@
+
+Nitrogen detected TROSY at high field yields high resolution and sensitivity for protein NMR
+
+
+
+
+ 
+© 2015 Springer Science+Business Media Dordrecht. Detection of 15N in multidimensional NMR experiments of proteins has sparsely been utilized because of the low gyromagnetic ratio (γ) of nitrogen and the presumed low sensitivity of such experiments. Here we show that selecting the TROSY components of proton-attached 15N nuclei (TROSY 15NH) yields high quality spectra in high field magnets (>600 MHz) by taking advantage of the slow 15N transverse relaxation and compensating for the inherently low 15N sensitivity. The 15N TROSY transverse relaxation rates increase modestly with molecular weight but the TROSY gain in peak heights depends strongly on the magnetic field strength. Theoretical simulations predict that the narrowest line width for the TROSY 15NH component can be obtained at 900 MHz, but sensitivity reaches its maximum around 1.2 GHz. Based on these considerations, a 15N-detected 2D 1H-15N TROSY-HSQC (15N-detected TROSY-HSQC) experiment was developed and high-quality 2D spectra were recorded at 800 MHz in 2 h for 1 mM maltose-binding protein at 278 K (τc ∼ 40 ns). Unlike for 1H detected TROSY, deuteration is not mandatory to benefit 15N detected TROSY due to reduced dipolar broadening, which facilitates studies of proteins that cannot be deuterated, especially in cases where production requires eukaryotic expression systems. The option of recording 15N TROSY of proteins expressed in H2O media also alleviates the problem of incomplete amide proton back exchange, which often hampers the detection of amide groups in the core of large molecular weight proteins that are expressed in D2O culture media and cannot be refolded for amide back exchange. These results illustrate the potential of 15NH-detected TROSY experiments as a means to exploit the high resolution offered by high field magnets near and above 1 GHz.
+
+

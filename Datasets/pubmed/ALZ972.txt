@@ -1,0 +1,2 @@
+The mortality of adults with Down syndrome as a function of age.
+This study sought to test the hypothesis that adults with Down Syndrome may age faster than the general population by comparing the rate of increase in their mortality with age with that of the general population by the method originally described by Gompertz. The differences were not statistically significant. There is a striking difference in morbidity, the Down's adults being highly vulnerable. Alzheimer populations do not lend themselves readily to this type of analysis.

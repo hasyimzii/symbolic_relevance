@@ -1,0 +1,10 @@
+
+Selective neural network ensembles in reinforcement learning: Taking the advantage of many agents
+
+
+
+
+ 
+© 2015 Elsevier B.V. Ensemble models can achieve more accurate and robust predictions than single learners. A selective ensemble may further improve the predictions by selecting a subset of the models from the entire ensemble, based on a quality criterion. We consider reinforcement learning ensembles, where the members are artificial neural networks. In this context, we extensively evaluate a recently introduced algorithm for ensemble subset selection in reinforcement learning scenarios. The aim of the learning strategy is to select members whose weak decisions are compensated by strong decisions for collected states. The correctness of a decision is determined by the Bellman error. In our empirical evaluations, we compare the benchmark performances of the full ensembles and the selective ensembles in generalized maze and in SZ-Tetris. Both are large state environments. We found that while the selective ensembles have a small number of agents, they significantly outperform the large ensembles. We therefore conclude that selecting an informative subset of many agents may be more efficient than training single agents or full ensembles.
+
+

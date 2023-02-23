@@ -1,0 +1,10 @@
+
+Pinning synchronization of directed networks with switching topologies: A multiple lyapunov functions approach
+
+
+
+
+ 
+© 2015 IEEE. This paper studies the global pinning synchronization problem for a class of complex networks with switching directed topologies. The common assumption in the existing related literature that each possible network topology contains a directed spanning tree is removed in this paper. Using tools from M-matrix theory and stability analysis of the switched nonlinear systems, a new kind of network topology-dependent multiple Lyapunov functions is proposed for analyzing the synchronization behavior of the whole network. It is theoretically shown that the global pinning synchronization in switched complex networks can be ensured if some nodes are appropriately pinned and the coupling is carefully selected. Interesting issues of how many and which nodes should be pinned for possibly realizing global synchronization are further addressed. Finally, some numerical simulations on coupled neural networks are provided to verify the theoretical results.
+
+

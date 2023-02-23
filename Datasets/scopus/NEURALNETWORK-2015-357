@@ -1,0 +1,10 @@
+
+Query-adaptive late fusion with neural network for instance search
+
+
+
+
+ 
+© 2015 IEEE. Bag-of-Word based model is one of the state-of-the-art approaches for object retrieval or also known as instance search problem. Although this model and its extensions are good for rich-textured objects, it is still unsolved for searching on textureless ones. In this paper, we propose to combine this model with Deformable Part Models object detector using late fusion technique to improve final result. To find the optimal weights for each type of query objects, we further propose to use a neural network to learn query features including object area, number of shared visual words to get optimal weights for each model. Experimental results on TRECVID Instance Search (INS) dataset with queries in INS2013 and INS2014 show that our proposed method significantly improves 18.48% and 14.63% in mAP respectively comparing to standard BOW model and outperform other state-of-the-art methods. This method opens a new way of adaptively combining DPM, an object detector, in a hybrid model for visual instance search.
+
+

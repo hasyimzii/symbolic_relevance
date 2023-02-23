@@ -1,0 +1,10 @@
+
+Comparative analysis of classifier performance on MR brain images
+
+
+
+
+ 
+© 2015, Zarka Private Univ. All rights reserved. This paper, aims to reveal a comparative analysis of classifier performance of MR brain images, particularly for the brain tumor detection and classification. The detection of brain tumor stands in need of Magnetic Resonance Imaging (MRI). The moment invariant feature extraction has been evaluated to categorize the MRI slices as normal, benign and malignant by Neural Network (NN) classifier. In our comparative study, we examine the precision rate of aforementioned classification with extracted features and the classification of brain images with selected features by Association Rule (AR) based NN classifier. The results are then analyzed with Receiver Operating Characteristics (ROC) curve and compared to illustrate the method producing higher accuracy rate in tumor recognition. Factually, our analysis proves that the classifier works below feature extraction followed by rule pruning method affords better accuracy rate.
+
+

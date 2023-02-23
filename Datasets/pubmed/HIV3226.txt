@@ -1,0 +1,2 @@
+A biological response modifier, PSK, inhibits reverse transcriptase in vitro.
+We found that PSK has an antiviral effect on human immunodeficiency virus (HIV) in vitro. One of the mechanisms of this effect is attributable to the inhibition of binding of HIV with lymphocytes. Here, we found that PSK inhibits reverse transcriptase in a non competitive way in vitro. Such inhibition may be important in its anti HIV effect as well as its inhibitory effect on the binding of HIV with lymphocytes.

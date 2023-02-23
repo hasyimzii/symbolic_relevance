@@ -1,0 +1,10 @@
+
+A fast cellular automata algorithm for liquid diffusion phenomenon modeling
+
+
+
+
+ 
+© 2013, Springer-Verlag Berlin Heidelberg. Liquid Diffusion Phenomenon (LDP) has been studied by numerous works in order to predict its dynamical behavior. In this article, two main contributions are presented and discussed. The first one, a Cellular Automata based algorithm is proposed in order to predict the LDP dynamical behavior. The proposed algorithm creates a set of images to form a video stream. The predicted images are compared to the original ones taken from the actual LDP scenario. In the second contribution, three benchmark strategies are discussed, which are pixel intensity, area of region of diffusion (ROD), and shape of ROD. The results of comparisons have shown high similarities to original images with an averaged percentage of similarity of 94 %. The experiments contain 600 predicted and 600 original images. The obtained results have been compared to a Cellular Neural Network based model in terms of computation time.
+
+

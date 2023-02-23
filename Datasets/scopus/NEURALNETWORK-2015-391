@@ -1,0 +1,10 @@
+
+A reduced-order approach to filtering for systems with linear equality constraints
+
+
+
+
+ 
+© 2016. In this paper, the filtering problem is investigated for a class of discrete systems with linear equality constraints. The system under consideration is subject to both noises and time-varying constrained conditions. Attention is focused on the design of a new reduced-order filter under a mild assumption such that the estimation performance of the proposed filter outperforms those of the traditional filters. By using the reorganized constraint information, the original system is transformed to a reduced-order system. A new recursive state estimator is developed, which is proved to have higher estimation precision than several existing filters. Subsequently, further analysis shows that the constrained Kalman predictor is a special case of the proposed filter. Finally, a numerical example is employed to demonstrate the effectiveness of our approach.
+
+

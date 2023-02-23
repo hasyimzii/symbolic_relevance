@@ -1,0 +1,10 @@
+
+LR-CNN for fine-grained classification with varying resolution
+
+
+
+
+ 
+© 2015 IEEE. In this work, we present an extended study of image representations for fine-grained classification with respect to image resolution. Understudied in literature, this parameter yet presents many practical and theoretical interests, e.g. in embedded systems where restricted computational resources prevent treating high-resolution images. It is thus interesting to figure out which representation provides the best results in this particular context. On this purpose, we evaluate Fisher Vectors and deep representations on two significant finegrained oriented datasets: FGVC Aircraft [1] and PPMI [2]. We also introduce LR-CNN, a deep structure designed for classification of low-resolution images with strong semantic content. This net provides rich compact features and outperforms both pre-trained deep features and Fisher Vectors.
+
+

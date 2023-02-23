@@ -1,0 +1,10 @@
+
+Experimental investigation of open circuit voltage during start-up process of HT-PEMFC
+
+
+
+
+ 
+© 2015 Elsevier Ltd. All rights reserved. This paper investigates the open circuit voltage (OCV) during the warm-up process of a high temperature proton exchange membrane fuel cell (HT-PEMFC) from 140 °C to the desired temperature of 180 °C, where the temperature increases with time. The heating strategy involves the external heating of the fuel cell with constant heat input rate. The commonly used Nernst equation, to predict the OCV of the fuel cell, is usually used in transient start-up models. Thus, this papers highlights the limitations of using the Nernst equation where the temperature increases transiently with time. A polybenzimidazole-based HTPEM single cell was set up and the OCV was measured under constant heating power supplied by an external source. A parametric study was done by varying the external heating power and the effect on the OCV was observed. The results showed that the OCV reduces non-linearly with respect to temperature, when the fuel cell is subjected to a constant heating power. This behaviour is clearly in contrast with the Nernst equation, which considers the temperature as steady state. For effective comparison, the OCV was also measured under steady state temperatures, showing an almost constant reduction gradient of ∼ -2.3×10-4 V/°C. However, the behaviour under a constant heating power show curvilinear reduction of the OCV as the temperature increases. In addition, as the external heating power is increased, the degree of curvature of the OCV profile is greater. Thus, the results clearly indicate that the accuracy of using the Nernst equation in transient thermal start-up models can be improved, by considering a non linear behaviour, as shown in this paper.
+
+

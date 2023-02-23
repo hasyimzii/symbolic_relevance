@@ -1,0 +1,11 @@
+
+Alarming events detection based on audio signals recognition
+
+
+
+
+ 
+© 2015 IEEE. Many zones, especially wild areas need surveillance systems in order to protect them against potential destroying actions. An attractive solution for automatic surveillance systems consists in audio based systems, which present some advantages compared with video or mixt surveillance systems. This paper proposes an alarming events detection system with two detection levels. On the first level the system detects only if the event is a dangerous one (alarm on) or a normal one (alarm off). On the second level, if it is the case, the system identifies exactly the nature of events in four classes: chainsaw, gunshot, human voice or tractors. The system uses a set of features of the audio signals associated with the events, as input data for two artificial neural networks that act as pattern recognition components. The experimental results prove that our system is a very reliable one, presenting the maximum possible correct recognition rate (100%) on the first level and very high correct recognition rates on the second level: 99.50% across all data set (training, validation and testing) and 95.0% in the independent testing data subset.
+							
+
+

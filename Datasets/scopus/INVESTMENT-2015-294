@@ -1,0 +1,10 @@
+
+Real Estate Pricing Models: Theory, Evidence, and Implementation
+
+
+
+
+ 
+© 2013, Springer Science+Business Media New York. We construct a theory of real estate pricing that is directly applicable to empirical analysis. Using a dynamic portfolio optimization strategy, we first show that under defined technical conditions, the theoretical equilibrium price of a piece of real estate can be described as a linear combination of attributes common to all pieces of real estate. However, in the absence of such technical conditions, i.e., under more realistic circumstances, real estate prices may diverge from their theoretical equilibrium prices. This logical consideration suggests the utility of extending the classical hedonic model, specifically to a mixed effect model developed with the application of the Box–Cox transformation. By using our model to analyze data obtained from Japanese Real Estate Investment Trust (J-REIT) records, we demonstrate our model’s ability to yield accurate results. By using our model to develop Real Estate Valuation Maps, an online valuation and mapping tool that appraises real estate prices and their associated risks, we demonstrate our model’s utility.
+
+

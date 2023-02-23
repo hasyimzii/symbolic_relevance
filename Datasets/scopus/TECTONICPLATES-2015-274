@@ -1,0 +1,10 @@
+
+Semiautomatic fracture zone tracking
+
+
+
+
+ 
+© 2015. American Geophysical Union. All Rights Reserved. Oceanic fracture zone traces are widely used in studies of seafloor morphology and plate kinematics. Satellite altimetry missions have resulted in high-resolution gravity maps in which all major fracture zones and other tectonic fabric can be identified, and numerous scientists have digitized such lineaments. We have initiated a community effort to maintain low-cost infrastructure that allows seafloor fabric lineaments to be stored, accessed, and updated. A key improvement over past efforts is our processing software (released as a GMT5 supplement) that allows for semiautomatic corrections to previously digitized fracture zone traces given improved gridded data sets. Here we report on our seafloor fabric processing tools, which complement our database of seafloor fabric lineations, magnetic anomaly identifications, and plate kinematic models.
+
+

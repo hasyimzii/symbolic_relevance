@@ -1,0 +1,10 @@
+
+Predicting the moment capacity of RC beams exposed to fire using ANNs
+
+
+
+
+ 
+© 2015 Elsevier Ltd. All rights reserved. This research investigates the implementation of artificial neural networks (ANNs) to estimate the moment capacity (Mr) of reinforced concrete (RC) beams under rising temperatures due to fire. 280 data were obtained for ANN model. Input layer in ANN model consisted of eight input parameters; the beam width (bw), the beam depth (d), the ratio of (bw/d), distance from the beam edge to the center of the rebar (d′), the ratio of (d′/d), fire time (texposure), the reinforcement area (Ast), and concrete compressive strength (fc). It is shown that the ANN model can be used to predict the Mr of RC beams exposed to fire with high accuracy. The predicted Mr by ANN are consistent with the results obtained using Mr equation. It was observed from the results the ANN model reduces the computational complexity problem in determining Mr. Consequently, the ANN model was used to examine the effects of the inputs parameters on Mr.
+
+

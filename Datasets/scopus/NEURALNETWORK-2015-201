@@ -1,0 +1,10 @@
+
+Synchronization of memristor-based coupling recurrent neural networks with time-varying delays and impulses
+
+
+
+
+ 
+© 2015 IEEE. Synchronization of an array of linearly coupled memristorbased recurrent neural networks with impulses and time-varying delays is investigated in this brief. Based on the Lyapunov function method, an extended Halanay differential inequality and a new delay impulsive differential inequality, some sufficient conditions are derived, which depend on impulsive and coupling delays to guarantee the exponential synchronization of the memristor-based recurrent neural networks. Impulses with and without delay and time-varying delay are considered for modeling the coupled neural networks simultaneously, which renders more practical significance of our current research. Finally, numerical simulations are given to verify the effectiveness of the theoretical results.
+
+

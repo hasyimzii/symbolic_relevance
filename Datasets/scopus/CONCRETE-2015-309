@@ -1,0 +1,10 @@
+
+Meshless modeling framework for fiber reinforced concrete structures
+
+
+
+
+ 
+© 2015 Elsevier Ltd. All rights reserved. In this study, a meshless analysis framework based on the non-ordinary state-based peridynamic method is proposed to predict the response of fiber reinforced concrete (FRC) structures. The approach includes a semi-discrete method in modeling the fiber reinforcement. With this approach, additional degrees of freedom from fibers are not present, and thus the computational efficiency is enhanced. Furthermore, there is no need to monitor concrete crack paths as the crack initiation, growth, and coalescence are an inherent outcome of the proposed framework. This is demonstrated through several examples. The accuracy is maintained for a failure analysis of FRC beams under bending.
+
+

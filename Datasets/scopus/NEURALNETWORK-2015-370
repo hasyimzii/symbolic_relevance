@@ -1,0 +1,10 @@
+
+Combining deep learning and unsupervised clustering to improve scene recognition performance
+
+
+
+
+ 
+© 2015 IEEE. Deep Neural Networks (DNN) are now the state-of-the-art for many image and object recognition tasks, as illustrated by their performance on standard benchmarks. The success of DNNs is attributed to their ability to learn rich mid-level image representations, as opposed to hand-designed low-level features used in other image analysis methods. Typically a large dataset of unlabeled images is used for unsupervised feature learning, and then standard classifiers are trained on the features extracted from the images in a labeled set. In this paper, we show that clustering the images using the features from the DNN allows more accurate per-cluster classifiers to be learned, which improves the overall classification accuracy. We demonstrate the effectiveness of our approach on a scene recognition task.
+
+

@@ -1,0 +1,2 @@
+A simple, reliable clinical behavioral scale for assessing demented patients.
+A behavioral rating scale for demented patients is described. The scale has proven easy to learn and shows high reliability and consistency. It correlates well with clinical impressions of disability and also with the older scale developed by Blessed et al.

@@ -1,0 +1,10 @@
+
+Light-Driven Ca2+ Ion Pump: How Does It Work?
+
+
+
+
+ 
+© 2015 American Chemical Society. Work done by Bennett et al. [ Nature 2002, 420, 398-401 ] demonstrated that Ca2+ ions can be actively transported through a lipid bilayer membrane by an artificial photosynthetic machine. However, details of the pump process, such as the oxidation state of the shuttle molecule and stoichiometry of the shuttle-ion complex, are not fully understood, which hinders the development of ion pumps of this type with higher efficiency. In this study, we combine all atom molecular dynamics simulations and quantum mechanics calculations to estimate the time scale of the shuttle-ion complex diffusion process and charge transfer step. We find that the process of shuttle-ion complex diffusion across the lipid bilayer membrane is the rate-limiting step, with a time scale of seconds to minutes. Other processes such as charge transfer between the redox reaction center and the shuttle molecule have picoseconds time scales. We also show that a shuttle-ion complex with 2:1 stoichiometry ratio has a lower energy barrier across the lipid membrane than other choices of complexes. The calculations show that the Ca2+ ion is likely to be shuttled by a semiquinone type of shuttle molecule as this has the lowest free energy barrier across the lipid bilayer membrane, the fewest electrons transferred in the redox cycle, and it does not generate (or require) proton flow. Estimates of ion flow rates are consistent with measured values.
+
+

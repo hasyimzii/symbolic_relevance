@@ -1,0 +1,10 @@
+
+Dynamic optimisation of articulated vehicle motion for control of stability in critical situation
+
+
+
+
+ 
+© 2015 IEEE. In the case of unforeseen obstacles, the nominal trajectory of articulated vehicle has to be modified, in order to avoid collisions. The paper presents comparison of dynamic optimisation methods used to calculate optimal braking torques applied to wheels of an articulated vehicle in lane following/changing manoeuvre in order to prevent vehicle before rollover. Gradient, gradientless and evolutionary methods have been employed in order to solve dynamic optimisation problem. The aim of the optimisation is to calculate appropriate braking torques for each wheel in order to restore stability of an articulated vehicle. Calculation of the objective function requires integration of the equations describing the motion of the vehicle. In the paper results obtained from different dynamic optimisation methods have been presented and compared.
+
+

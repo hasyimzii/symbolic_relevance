@@ -1,0 +1,10 @@
+
+Comparison of three unsupervised neural network models for first Painlevé Transcendent
+
+
+
+
+ 
+© 2014, The Natural Computing Applications Forum. In this paper, a reliable soft computing framework is presented for the approximate solution of initial value problem (IVP) of first Painlevé equation using three unsupervised neural network models optimized with sequential quadratic programming (SQP). These mathematical models are constructed in the form of feed-forward architecture including log-sigmoid, radial base and tan-sigmoid activation functions in the hidden layers. The optimization of designed parameters for each model is performed with SQP, an efficient constraint optimization problem-solving algorithm. The designed methodology is tested on the IVP, and comparative study is carried out with standard solution based on numerical and analytical solvers. The accuracy, convergence and effectiveness of the schemes are validated on the given benchmark problem by large number of simulations and their comprehensive analysis.
+
+

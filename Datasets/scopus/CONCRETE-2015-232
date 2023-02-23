@@ -1,0 +1,10 @@
+
+Multi-valued Abstraction Using Lattice Operations
+
+
+
+
+ 
+© 2015 IEEE. In model checking, abstractions can cause spurious results, which need to be verified in the concrete system to gain conclusive results. Verification based on a multi-valued logic can distinguish between conclusive and inconclusive results, provides increased precision, and allows for encoding additional information into the model, which gives rise to new applications. To ensure a correct abstraction, one can use a mixed simulation [1] to relate a multi-valued model to its abstraction. In this paper we extend the notion of mixed simulation to include inconsistent values, thereby resolving an asymmetry in the definition and allowing for abstractions with increased precision when inconsistent values are available.
+
+

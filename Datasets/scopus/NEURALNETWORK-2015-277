@@ -1,0 +1,10 @@
+
+Formation controller design based on PNDSC for underactuated AUV
+
+
+
+
+ 
+© 2015, Northeast University. All right reserved. For the formation control problem of underactuated autonomous underwater vehicles (AUV) subject to dynamical uncertainty and unknown ocean disturbances, a formation control algorithm is proposed based on a predictor-based neural dynamic surface control (PNDSC) method. The dynamic surface control technique is introduced into the controller design, and neural networks are employed to approximate the dynamical uncertainty and ocean disturbance. In addition, the prediction errors are used to update the neural iterative updating laws. Lyapunov stability analysis demonstrates that all signals in the closed-loop are uniformly ultimately bounded. Simulation results show the effectiveness of the proposed method.
+
+

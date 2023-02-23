@@ -1,0 +1,10 @@
+
+Prediction of facial soft tissue deformations with improved rubin-bodner model after craniomaxillofacial (CMF) surgery
+
+
+
+
+ 
+© 2015 IEEE. Accurate prediction of the soft tissue deformation is a key issue in craniomaxillofacial (CMF) surgery, which makes it possible to transform a good surgical plan to a successful real surgical outcome. However, it is difficult to simulate the soft tissue reactions caused by CMF surgery according to its nonlinear and anisotropic attributes. In this paper, we originally improved the Rubin-Bodner (RB) model to describe the biomechanical interaction of the soft tissue after CMF surgery, where the elastic relevant parameters are trained by Generalized Regression Neural Network (GRNN) corresponding to different CMF surgical types respectively. Subsequently, finite element model (FEM) is applied to calculate the stress of each node in the RB model. Finally, the statistical Kernel Ridge Regression (KRR) method is implemented to obtain the relationship between the bone displacement and the stress. Therefore, we can predict the soft tissue deformation from the displacement of the facial bone. Cross-validation has been demonstrated and satisfactory performance has been presented.
+
+

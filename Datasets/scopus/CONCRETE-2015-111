@@ -1,0 +1,10 @@
+
+A displacement-based adaptive pushover method considering modal sign reversal for RC frame structures
+
+
+
+
+ 
+© 2015 John Wiley & Sons, Ltd. Summary Nonlinear static procedures are favored tools for practical applications in the structural engineering profession. However, some limitations are associated with them, including their deficiencies to properly reflect higher modal effects and inertial seismic forces fluctuations in their responses. Some different adaptive pushover methods intended to improve these limitations have been proposed in the literature, but each one has come out with a special deficiency. In this study, based on the concepts of the displacement-based adaptive pushover, a new dual-run procedure method called Improved DAP (IDAP) has been developed, aiming to improve higher modal and sign reversal consideration of pushover methods. The seismic scope of this study has been focused on near-fault regions. Four concrete SMRF with different heights have been employed for the evaluations. The results of the proposed method in terms of capacity curves, interstory and shear profiles are compared with those of the IDA method. Results indicate that the ability of the new method in reproducing seismic story forces and capacity curves, as well as interstory drifts, has been improved in comparison with its primitive counterpart.
+
+

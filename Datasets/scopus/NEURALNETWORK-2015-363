@@ -1,0 +1,10 @@
+
+Algorithmic model for risk assessment of heart failure patients
+
+
+
+
+ 
+© 2015 IEEE. A leading cause of hospital admission in the elderly is heart failure and it is considered a major financial burden since the hospitalization costs are high. This is intensified with a lack of medical professionals due to a continuing significant increase of patients with heart failure as a result of obesity, diabetes and aging population. Integration of an intelligent decision support system into a home telemonitoring system seems a more-and-more supported solution. Therefore, the use of ambiguity for risk assessment of patients with heart failure is investigated. An algorithmic model is made using ambiguity and notions of fuzzy logic. The algorithmic model stores knowledge about patients as a group of interpretable fuzzy rules and uses them for risk assessment. The study shows that its achieved results are promising in comparison to a Bayesian network classifier, a nearest neighbor classifier, multilayer neural network, 1R classifier, a decision list, and a logistic regression model.
+
+

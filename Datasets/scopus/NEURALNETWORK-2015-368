@@ -1,0 +1,10 @@
+
+Tools for ultrasonic diagnostic image classification
+
+
+
+
+ 
+© 2015 IEEE. Classification tool based on the Kohonen artificial neural network was designed and implemented. The tool attended to be used at high performance computing clusters and distributed systems like computing Grids. Proposed tools were applied to classification of ultrasonic medical diagnostic data. Testing of the classifying system showed more than 90% recognition accuracy for certain diagnoses.
+
+

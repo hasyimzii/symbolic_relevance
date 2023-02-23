@@ -1,0 +1,10 @@
+
+Exploiting similarity in system identification tasks with recurrent neural networks
+
+
+
+
+ 
+© 2015 Elsevier B.V. A novel dual-task learning approach based on recurrent neural networks with factored tensor components for system identification tasks is presented. The goal is to identify the dynamics of a system given few observations which are augmented by auxiliary data from a similar system. The problem is motivated by real-world use cases and a mathematical problem description is given. Further, our proposed model-the factored tensor recurrent neural network (FTRNN)-and two alternative models are introduced which are benchmarked on the cart-pole and mountain car simulations. We show that the FTRNN consistently and significantly outperformed the competing models in accuracy and data-efficiency.
+
+

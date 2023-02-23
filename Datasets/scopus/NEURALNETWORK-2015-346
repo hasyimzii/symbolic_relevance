@@ -1,0 +1,10 @@
+
+A fast and efficient pre-training method based on layer-by-layer maximum discrimination for deep neural networks
+
+
+
+
+ 
+© 2015 Elsevier B.V.. In this paper, through extension of the present methods and based on error minimization, two fast and efficient layer-by-layer pre-training methods are proposed for initializing deep neural network (DNN) weights. Due to confrontation with a large number of local minima, DNN training often does not converge. By proper initializing of DNN weights instead of random values at the beginning of the training, it is possible to avoid many local minima. The first version of the proposed method is for pre-training the deep bottleneck neural network (DBNN) in which the DBNN is broken down to some corresponding single-hidden-layer bottleneck neural networks (BNN) which must be trained first. The weight values resulting from their training are then applied in the DBNN. The proposed method was utilized to pre-train a five-hidden-layer DBNN to extract the non-linear principal components of face images in the Bosphorus database. A comparison of the randomly initialized DBNN result with pre-trained DBNN by the layer-by-layer pre-training method shows that this method not only increased the convergence rate of training but also improved its generalizability. Furthermore, it has been shown that this method yields higher efficiency and convergence speed in comparison with some of the previous pre-training methods. This paper also presents the bidirectional version of the layer-by-layer pre-training method for hetero-associative DNN pre-training. This method pre-trains DNN weights in forward and backward manner in parallel. Bidirectional layer-by-layer pre-training was utilized to pre-train the classifier DNN weights, and revealed that both the training speed and the recognition rate were improved in Bosphorus and CK+ databases.
+
+

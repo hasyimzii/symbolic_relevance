@@ -1,0 +1,10 @@
+
+Neural Networks for Sequential Data: A Pre-training Approach based on Hidden Markov Models
+
+
+
+
+ 
+© 2015 Elsevier B.V. In the last few years, research highlighted the critical role of unsupervised pre-training strategies to improve the performance of artificial neural networks. However, the scope of existing pre-training methods is limited to static data, whereas many learning tasks require to deal with temporal information. We propose a novel approach to pre-training sequential neural networks that exploits a simpler, first-order Hidden Markov Model to generate an approximate distribution of the original dataset. The learned distribution is used to generate a smoothed dataset that is used for pre-training. In this way, it is possible to drive the connection weights in a better region of the parameter space, where subsequent fine-tuning on the original dataset can be more effective. This novel pre-training approach is model-independent and can be readily applied to different network architectures. The benefits of the proposed method, both in terms of accuracy and training times, are demonstrated on a prediction task using four datasets of polyphonic music. The flexibility of the proposed strategy is shown by applying it to two different recurrent neural network architectures, and we also empirically investigate the impact of different hyperparameters on the performance of the proposed pre-training strategy.
+
+

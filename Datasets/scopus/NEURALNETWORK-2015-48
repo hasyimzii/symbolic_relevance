@@ -1,0 +1,10 @@
+
+Querying Bayesian networks to design experiments with application to 1AGY serine esterase protein engineering
+
+
+
+
+ 
+© 2015 Elsevier B.V. Current experimental research in several scientific areas must deal with the issue of high dimensionality and complexity. In particular, experimental design strategies are hindered by the limited number of points that can be tested due to technical and economic constraints. In this paper we propose a novel approach called QueBN-design (Querying Bayesian network design) derived by coupling conditional probabilistic inference in Bayesian network models and evolutionary principles. As proof-of-principle, we evaluate the performance of our approach in a simulation study achieving very good results also in comparison with other commonly used designs. Further, we address the problem of engineering synthetic proteins, and in particular the 1AGY serine esterase protein. Also in this case results indicate that QueBN-design can effectively guide the search in very large experimental spaces testing a very limited number of points, outperforming other evolutionary and classical benchmark designs.
+
+

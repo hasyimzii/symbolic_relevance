@@ -1,0 +1,10 @@
+
+Event recognition in personal photo collections using hierarchical model and multiple features
+
+
+
+
+ 
+© 2015 IEEE. With the proliferation of digital cameras and mobile devices, people are taking many more photos than ever before. The explosive growth of personal photos leads to problems of photo organization and management. There is a growing need for tools to automatically manage photo collections. Recognizing events in photo collections is one efficient way to organize photos. The use of textual event labels can allow us to categorize and locate an event without browsing through an entire photo collection. Most existing research on this topic focuses on recognizing events from single photos and only a few studies have examined event recognition in personal photo collections. In this paper, we propose a hierarchical model to recognize events in personal photo collections using multiple features, including time, objects, and scenes. Since some events are more difficult to identify and categorize, ambiguous events require fine event classifiers, while the coarse categories of the events can be sufficiently organized with a coarse event classifier. We evaluate our coarse-to-fine hierarchical model on a real-world dataset consisting of personal photo collections, and our model achieves promising results.
+
+

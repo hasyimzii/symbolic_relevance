@@ -1,0 +1,10 @@
+
+Combined H∞ and passivity state estimation of memristive neural networks with random gain fluctuations
+
+
+
+
+ 
+© 2015 Elsevier B.V. In this paper, we discussed non-fragile state estimation problem for a class of memristive neural networks with two different types of memductance functions and uncertain time-varying delays. The required results are derived by using a suitable Lyapunov-Krasovskii functional (LKF) and using linear matrix inequality (LMI) approach together with Wirtinger-type inequality analysis. The sufficient conditions are presented for the existence of non-fragile state estimator based on the combined H∞ and passivity performance criterions. The results are proposed in terms of LMIs, which can guarantee the global asymptotic stability of the error dynamics between the considered memristive RNNs and its non-fragile observer. Finally, a numerical example is presented to illustrate the effectiveness of the theoretical results via simulations.
+
+

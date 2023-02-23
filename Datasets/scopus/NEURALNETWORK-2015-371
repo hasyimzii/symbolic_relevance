@@ -1,0 +1,10 @@
+
+Could linear model bridge the gap between low-level statistical features and aesthetic emotions of visual textures?
+
+
+
+
+ 
+© 2015 Elsevier B.V. Aesthetic perceptions are common in everyday life, even though we are not aware of these natural behavior and ability. The exploration of the processing pathways in human aesthetic perception of visual textures by modeling is vital and valuable in important domains such as product design and architecture. After conducting semantic differential rating experiments, we model the relationship between low-level texture features and aesthetic properties involved in human aesthetic texture perception. In this paper, we use multiple linear regression models to bridge the gap between computation texture features and aesthetic emotions that are more interpretable and clearer in structure than artificial neural network models. In feature extraction stage, four different categories of low level features are used to objectively represent the characteristics of visual textures. To reduce the information redundancy of the feature set and the complexity of the prediction model, the dimensionality reduction of the extracted feature set using stochastic neighbor embedding is implanted. In psychological experiment stage, the semantic differential rating experiment is conducted to collect the aesthetic perceptions of selected texture stimuli from participants, and then the aesthetic properties are assigned to three different model layers based on the neural mechanisms of aesthetic perception. Before model building, an evaluation of the presentation ability of feature subsets is firstly carried out to investigate whether there is a potential relationship between 8 high level aesthetic properties and the feature set including 106 texture features. Next, we describe the generation of a multiple linear regression model for aesthetic prediction by taking a reduced feature set as dependent variables. Experimental results indicate that the hierarchical feed-forward layer model of aesthetic texture perception proposed in our research can link computational texture features with aesthetic texture properties quite well.
+
+

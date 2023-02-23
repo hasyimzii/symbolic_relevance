@@ -1,0 +1,10 @@
+
+An ensemble of invariant features for person re-identification
+
+
+
+
+ 
+© 2015 IEEE. We propose an ensemble of invariant features for person re-identification. The proposed method requires no domain learning and can effectively overcome the issues created by the variations of human poses and viewpoint between a pair of different cameras. Our ensemble model utilizes both holistic and region-based features. To avoid the misalignment problem, the test human object sample is used to generate multiple virtual samples, by applying slight geometric distortion. The holistic features are extracted from a publically available pre-trained deep convolutional neural network. On the other hand, the region-based features are based on our proposed Two-Way Gaussian Mixture Model Fitting and the Completed Local Binary Pattern texture representations. To make better generalization during the matching without additional learning processes for the feature aggregation, the ensemble scheme combines all three feature distances using distances normalization. The proposed framework achieves robustness against partial occlusion, pose and viewpoint changes. In addition, the experimental results show that our method exceeds the state of the art person re-identification performance based on the challenging benchmark 3DPeS.
+
+

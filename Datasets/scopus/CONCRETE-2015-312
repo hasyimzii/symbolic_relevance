@@ -1,0 +1,10 @@
+
+Macroscopic probabilistic cracking approach for the numerical modelling of fluid leakage in concrete
+
+
+
+
+ 
+© 2015, Springer-Verlag Berlin Heidelberg. The article presents a numerical finite element study of fluid leakage in concrete. Concrete cracking is numerically modelled in the framework of a macroscopic probabilistic approach. Material heterogeneity and the related mechanical effects are taken into account by defining the elementary mechanical properties according to spatially uncorrelated random fields. Each finite element is considered as representative of a volume of heterogeneous material, whose mechanical behaviour depends on its own volume. The parameters of the statistical distributions defining the elementary mechanical properties thus vary over the computational mesh element-by-element. A weak hydro-mechanical coupling assumption is introduced to represent the influence of cracking on the variation of transfer properties: it is assumed that the mechanical cracking of a finite element induces a loss of isotropy of its own permeability tensor. At the elementary level, an experimentally enhanced parallel plates model is used to relate the local crack permeability to the elementary crack aperture. A Monte Carlo-like approach allows to statistically validate the numerical method. The self-consistency of the proposed modelling strategy is finally explored through the numerical simulation of the hydro-mechanical splitting test, recently proposed by authors to evaluate the real-time evolution of the transfer properties of a concrete sample under loading.
+
+

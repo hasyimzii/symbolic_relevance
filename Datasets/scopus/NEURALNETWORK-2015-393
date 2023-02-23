@@ -1,0 +1,10 @@
+
+A consensus control strategy for dynamic power system look-ahead scheduling
+
+
+
+
+ 
+© 2015 Elsevier B.V. Flexible loads are important resources to help maintain the power balance of smart grid. However, the control center is not able to exactly sense and control them because of their large quantity and wide distribution. In order to get the flexible loads to participate in the dynamic power system look-ahead scheduling, this paper proposes a three-layer 'centralized coordination, distributed control' structure in which the load agents are introduced to perform the coordination based on the consensus control. Then, the optimal control strategy of the control center and the consensus control strategy of the load agents are designed. With the communication among different flexible loads, the distributed cooperative control is implemented. At last, the efficiency of the proposed mode and strategies is proven through the simulation carried out under the standard IEEE 9-bus system, and the effect of topology and communication is also analyzed.
+
+

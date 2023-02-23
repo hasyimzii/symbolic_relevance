@@ -1,0 +1,10 @@
+
+Seismic response of an 8-story RC-building from ambient vibration analysis
+
+
+
+
+ 
+© 2014, Springer Science+Business Media Dordrecht. In this study, we assess the dynamic characteristics of an 8-story RC-building composed by two units connected through a structural joint. This building, belonging to one of the largest hospitals in northern Greece, has been selected in the framework of an European funded project as test site for developing a structural health monitoring system and it is instrumented with a permanent strong motion network. The assessment of the dynamic characteristics is performed using ambient vibration recorded by a temporary seismic network installed inside the structure. Non-parametric identification methods, namely the peak picking and frequency domain decomposition, are applied to perform operational modal analysis and extract the natural frequencies and mode shapes of the structural system. Since the detection of changes in the shear wave velocity inside the building is relevant for health monitoring analysis, we use the ambient vibration recordings to perform a deconvolution interferometry. Moreover, a shear-beam model is considered to estimate the velocity in the first three floors, where the distribution of internal sources introduces complex patterns in the impulse response functions. The velocity for lowest part of the building is estimated by optimizing the match between the arrival times of the empirical and theoretical pulses. Finally, the velocities and quality factors estimated from ambient vibration analysis are consistent with preliminary results obtained analyzing earthquake data recorded in the same building.
+
+

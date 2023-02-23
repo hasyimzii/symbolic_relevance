@@ -1,0 +1,10 @@
+
+A portable SIMO radar for through wall detection and imaging
+
+
+
+
+ 
+© 2015 IEEE. This paper details the hardware operation, theoretical underpinnings and field validation tests of a portable, ultra-wideband, SIMO stepped frequency continuous wave sense through the wall radar system. The system is fully software defined and capable of transmitting and receiving a linearly stepped frequency waveform between 1GHz and 4GHz with reconfigurable frequency hop and sweep rates. Using such a system as the starting point, the theoretical method for extracting target range information from the receive frequency sweeps and constructing radar imagery is detailed using the pulse echo model. Combining this imaging technique along with the radar hardware yields a system capable of spatially locating targets inside of buildings from standoff distances. Experiments and verification tests of the system were conducted at the Indiana Muscatatuck Urban Training center and results are presented detailing system performance for static and moving targets inside of concrete block buildings. Radar imaging results demonstrate the system's spatial resolution and sensitivity to both moving and stationary targets.
+
+

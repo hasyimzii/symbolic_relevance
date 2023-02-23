@@ -1,0 +1,10 @@
+
+A new delayed projection neural network for solving quadratic programming problems with equality and inequality constraints
+
+
+
+
+ 
+© 2015 Elsevier B.V. In this paper, a new delayed projection neural network is presented for solving quadratic programming problems subject to equality and inequality constraints. Compared with the existing neural networks for solving such problems, the proposed neural network has fewer neurons and a one-layer architecture. Further, we demonstrate the existence and uniqueness of the continuous solution. By using differential inequality technique, the new neural network is shown to be globally exponentially convergent to optimal solution. Finally, recurring to the numerical method, simulation results with some applications show the effectiveness of the proposed neural network.
+
+

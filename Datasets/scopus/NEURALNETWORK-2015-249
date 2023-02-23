@@ -1,0 +1,10 @@
+
+Peaking-free output-feedback adaptive neural control under a nonseparation principle
+
+
+
+
+ 
+© 2015 IEEE. High-gain observers have been extensively applied to construct output-feedback adaptive neural control (ANC) for a class of feedback linearizable uncertain nonlinear systems under a nonlinear separation principle. Yet due to static-gain and linear properties, high-gain observers are usually subject to peaking responses and noise sensitivity. Existing adaptive neural network (NN) observers cannot effectively relax the limitations of high-gain observers. This paper presents an outputfeedback indirect ANC strategy under a nonseparation principle, where a hybrid estimation scheme that integrates an adaptive NN observer with state variable filters is proposed to estimate plant states. By applying a single Lyapunov function candidate to the entire system, it is proved that the closed-loop system achieves practical asymptotic stability under a relatively low observer gain dominated by controller parameters. Our approach can completely avoid peaking responses without control saturation while keeping favourable noise rejection ability. Simulation results have shown effectiveness and superiority of this approach.
+
+

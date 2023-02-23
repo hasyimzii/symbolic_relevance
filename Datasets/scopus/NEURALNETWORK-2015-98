@@ -1,0 +1,10 @@
+
+Weather classification with deep convolutional neural networks
+
+
+
+
+ 
+© 2015 IEEE. In this paper, we study weather classification from images using Convolutional Neural Networks (CNNs). Our approach outperforms the state of the art by a huge margin in the weather classification task. Our approach achieves 82.2% normalized classification accuracy instead of 53.1% for the state of the art (i.e., 54.8% relative improvement). We also studied the behavior of all the layers of the Convolutional Neural Networks, we adopted, and interesting findings are discussed.
+
+

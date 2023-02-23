@@ -1,0 +1,2 @@
+Nucleotide sequence of a cloned cDNA corresponding to secreted mu chain of mouse  immunoglobulin.
+The cDNA complementary to a mouse immunoglobulin mu heavy chain mRNA has been cloned into the PstI site of the plasmid vector pBR322. A hybrid plasmid pmu 183.5 containing a 1850 bp insert has been selected by differential screening. The nucleotide sequence of the inset encodes the four constant domains, the terminal piece and the 3' untranslated region.

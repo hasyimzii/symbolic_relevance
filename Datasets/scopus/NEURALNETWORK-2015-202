@@ -1,0 +1,10 @@
+
+Autoregressive coefficient-invariant control chart pattern recognition in autocorrelated manufacturing processes using neural network ensemble
+
+
+
+
+ 
+© 2013, Springer Science+Business Media New York. Pattern recognition is an important issue in statistical process control because unnatural control chart patterns (CCPs) exhibited on control charts can be associated with specific causes that adversely affect the manufacturing process. In recent years, many machine learning techniques [e.g., artificial neural networks (ANNs) and support vector machine (SVM)] have been successfully used to the CCP recognition (CCPR) in autocorrelated manufacturing processes. However, these existing researches can only detect and classify unnatural CCPs but do not provide more detailed process information, for example the autocorrelation level, which would be very useful for quality practitioners to search the assignable causes that give rise to the out-of-control situation. This study proposes a neural network ensemble-enabled autoregressive coefficient-invariant CCPR model for on-line recognition of seven typical types of unnatural CCP, assuming that the process observations are AR(1) correlated over time with unknown constant autoregressive coefficient. In this model, each individual back propagation network (BPN) is trained to recognize only CCPs with the specific autoregressive coefficient of the underlying process, while the outputs of all these individual BPNs are combined via a learning vector quantization network (LVQN). The experimental results indicate that the proposed CCPR model can not only accurately recognize the specific CCP types but also efficiently identify the autoregressive coefficient of the underlying autocorrelated manufacturing process. Empirical comparisons also show that the proposed CCPR model outperform other existing CCPR approaches in literature. In addition, a demonstrative application is provided to illustrate the utilization of the proposed CCPR model to the CCPR in autocorrelated manufacturing processes.
+
+

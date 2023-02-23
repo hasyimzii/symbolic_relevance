@@ -1,0 +1,10 @@
+
+The performance evaluation of diagonal recurrent neural network with different chaos neurons
+
+
+
+
+ 
+© 2015 The Natural Computing Applications Forum In this paper, different chaos neurons are added in hidden layer of diagonal recurrent neural network. The advanced networks can solve the problem of long training time because of the convergence of chaos neuron. The Logistic map, the Chebyshev map, and the Sine map are used to construct networks. These networks are applied for image compression in order to compare their performance. The result of simulation test shows that the networks with chaos neurons are superior to traditional diagonal recurrent network in the effect of image reconstruction, and the networks with different chaotic maps are analyzed and compared for the first time.
+
+

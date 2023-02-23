@@ -1,0 +1,10 @@
+
+Deep learning in acoustic modeling for Automatic Speech Recognition and Understanding - An overview
+
+
+
+
+ 
+© 2015 IEEE. This paper will discuss the progress made in Automatic Speech Recognition and Understanding (ASRU) by applying Deep Learning (DL) in the frame of acoustic modeling. After explaining the concept of DL, specific algorithms like Restricted Bolzmann Machine (RBM), Convolutional Neural Network (CNN), Autoencoder (AE), Deep Belief Network (DBN), will be presented and evaluated. Experiments in the academic research but also in the industry with DL structures concerning Phone Recognition and Large Vocabulary Continuous Speech Recognition (LVCSR) will be highlighted, confirming the usefulness of the DL framework in ASRU. Some considerations about the future of this new and effective machine learning paradigm will conclude the paper.
+
+

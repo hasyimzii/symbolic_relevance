@@ -1,0 +1,10 @@
+
+Effective analysis of lung infection using fuzzy rules
+
+
+
+
+ 
+© 2015 SERSC. Soft Computing is a consortium of methodologies which works synergistically and provides an ability to make decision from reliable data or expert’s experience. Nowadays different types of soft computing techniques such as neural network, fuzzy logic, genetic algorithm and hybrid system are largely used in medical areas. In this paper, algorithm for analysis of lung infection is presented. The main focus is to develop system architecture to find probable disease stage patient may have. Severity level of disease is determined by using rule base method. The algorithm uses output of Rulebase and entered by user to determine level of infection.
+
+

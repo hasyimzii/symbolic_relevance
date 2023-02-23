@@ -1,0 +1,11 @@
+
+Equation-free analysis of spike-timing-dependent plasticity
+			 
+
+
+
+
+ 
+© 2015, Springer-Verlag Berlin Heidelberg. Spike-timing-dependent plasticity is the process by which the strengths of connections between neurons are modified as a result of the precise timing of the action potentials fired by the neurons. We consider a model consisting of one integrate-and-fire neuron receiving excitatory inputs from a large number—here, 1000—of Poisson neurons whose synapses are plastic. When correlations are introduced between the firing times of these input neurons, the distribution of synaptic strengths shows interesting, and apparently low-dimensional, dynamical behaviour. This behaviour is analysed in two different parameter regimes using equation-free techniques, which bypass the explicit derivation of the relevant low-dimensional dynamical system. We demonstrate both coarse projective integration (which speeds up the time integration of a dynamical system) and the use of recently developed data mining techniques to identify the appropriate low-dimensional description of the complex dynamical systems in our model.
+
+

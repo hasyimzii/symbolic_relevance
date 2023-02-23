@@ -1,0 +1,10 @@
+
+Diagonal recurrent neural networks for parameters identification of terrain based on wheel–soil interaction analysis
+
+
+
+
+ 
+© 2015 The Natural Computing Applications Forum Wheeled mobile robots (WMR) are often applied to travel on outdoor unstructured environment, such as loose soil or variable field terrain. Learning the knowledge of terrain has played a significant role for better mobility and stability of WMR. In this study, a diagonal recurrent neural network-based adaptive method is proposed to identify terrain parameters by the platform of a single driving wheel. According to the classical terramechanics model of wheel–soil interaction, a decoupling simplification model is developed by closed-form analytical equations. Five unknown terrain parameters are divided into two groups and included in two complex nonlinear equations. These parameters are used to compute the model outputs of force and torque of wheel–soil interaction. Dynamic back propagation algorithm is applied to update these parameters for compensating the errors between the prediction of neural network and measurable data in real time. The results of simulation show that the terrain parameters can be obtained and approximate the experimental value of terrain parameters when the predictive errors converge to zero.
+
+

@@ -1,0 +1,10 @@
+
+Vehicle form feature evolutionary prediction based on data-driven
+
+
+
+
+ 
+© 2015, CIMS. All right reserved. To overcome the defeats of traditional design methods due to relying on the qualitative empirical knowledge, a method of vehicle form feature evaluation prediction was proposed. The vehicle form features were extracted and quantized to obtain the initial evolution sequence, and a novel forecasting model based on grey theory, back-propagation neural network and Markov chain was proposed to solve the problem of small sample and data volatility. By using data replacement method and grey model, the fitted values of form features were obtained preliminarily, which was taken as input to train BP Neutral Network (BPNN) with the measured value as output. The evolutionary prediction result of form feature was received, and Markov chain was used to eliminate the errors caused by system randomness, thus the final prediction results were obtained. Validation of the proposed method was performed with the prediction of lateral contour line of a certain brand automobile was taken as an example to verify the effectiveness of the proposed method.
+
+

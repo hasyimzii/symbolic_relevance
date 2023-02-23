@@ -1,0 +1,11 @@
+
+Multi-objective operation optimization for electric multiple unit-based on speed restriction mutation
+			 
+
+
+
+
+ 
+© 2015 Elsevier B.V. The electric multiple unit (EMU) is a complex system running in dynamic environments. Satisfaction on real-time manual operation strategy of the EMU with respect to the multi-objective operation demands, including security, punctuality, accurate train parking, energy saving and ride comfort, depends on the drivers' experience and a given V-S curve (velocity versus position curve). To improve the operation strategy, a multi-objective optimization model of EMU operation is developed on the basis of dynamic analysis and speed restriction mutation. Using a modified particle swarm optimization algorithm, a Pareto optimal solution set is obtained by the online optimization of the EMU's operation strategy. Finally, according to the preference order ranking, an optimal operation strategy is sorted out from the Pareto set which satisfies the multi-objective requirements in real time. Experimental results on the field data of CRH380AL (China's railway high-speed EMU type-380AL) demonstrate the effectiveness of the proposed approach.
+
+

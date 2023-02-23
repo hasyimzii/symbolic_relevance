@@ -1,0 +1,10 @@
+
+A new technique for restricted Boltzmann machine learning
+
+
+
+
+					 
+© 2015 IEEE. Over the last decade, deep belief neural networks have been a hot topic in machine learning. Such networks can perform a deep hierarchical representation of input data. The first layer can extract low-level features, the second layer can extract high-level features and so on. In general, deep belief neural network represents many-layered perceptron and permits to overcome some limitations of conventional multilayer perceptron due to deep architecture. In this work we propose a new training technique called Reconstruction Error-Based Approach (REBA) for deep belief neural network based on restricted Boltzmann machine. In contrast to classical Hinton's training approach, which is based on a linear training rule, the proposed technique is based on a nonlinear learning rule. We demonstrate the performance of REBA technique for the MNIST dataset visualization. The main contribution of this paper is a novel view on the training of a restricted Boltzmann machine.
+
+

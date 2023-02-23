@@ -1,0 +1,10 @@
+
+Hebbian Network of Self-Organizing Receptive Field Neurons as Associative Incremental Learner
+
+
+
+
+ 
+© 2015 Imperial College Press. Associative learning plays a major role in the formation of the internal dynamic engine of an adaptive system or a cognitive robot. Interaction with the environment can provide a sparse and discrete set of sample correlations of input-output incidences. These incidences of associative data points can provide useful hints for capturing underlying mechanisms that govern the system's behavioral dynamics. In many approaches to solving this problem, of learning system's input-output relation, a set of previously prepared data points need to be presented to the learning mechanism, as a training data, before a useful estimations can be obtained. Besides data-coding is usually based on symbolic or nonimplicit representation schemes. In this paper, we propose an incremental learning mechanism that can bootstrap from a state of complete ignorance of any representative sample associations. Besides, the proposed system provides a novel mechanism for data representation in nonlinear manner through the fusion of self-organizing maps and Gaussian receptive fields. Our architecture is based solely on cortically-inspired techniques of coding and learning as: Hebbian plasticity and adaptive populations of neural circuitry for stimuli representation. We define a neural network that captures the problem's data space components using emergent arrangement of receptive field neurons that self-organize incrementally in response to sparse experiences of system-environment interactions. These learned components are correlated using a process of Hebbian plasticity that relates major components of input space to those of the output space. The viability of the proposed mechanism is demonstrated through multiple experimental setups from real-world regression and robotic arm sensory-motor learning problems.
+
+

@@ -1,0 +1,2 @@
+A temperature conversion nomogram for glycosylated hemoglobin analysis.
+Analysis of glycosylated hemoglobins by commercial mini column methods was shown  to vary linearly with the ambient temperature. However, the slopes of the temperature dependence lines for diabetic and healthy individuals was different. A method for temperature correction and a nomogram is proposed.

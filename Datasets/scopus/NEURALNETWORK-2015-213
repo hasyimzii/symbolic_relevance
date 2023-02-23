@@ -1,0 +1,10 @@
+
+Hot-wire anemometric method for flow velocity vector measurement in 2D gas flows based on artificial neural network
+
+
+
+
+ 
+© 2015. For measurement of two-dimensional flow velocity vector a special multi-wire measurement probe was used. Its design allows to determine magnitude, orientation and the sense of the flow velocity vector. The conducted research were related to the analysis of the possibility of using an artificial neural network for flow velocity vector measurements. A neural network with two hidden layers was used to determine the components of velocity vector based on measurement signals. The structure of neural network was chosen experimentally. The results were compared to those obtained by the method based on King and Jorgensen formulae. Despite the increased computational cost, the method based on neural network performed ten times better in terms of mean square error.
+
+

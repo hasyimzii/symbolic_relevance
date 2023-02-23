@@ -1,0 +1,10 @@
+
+A new approach to investigate the association between brain functional connectivity and disease characteristics of attention-deficit/hyperactivity disorder: Topological neuroimaging data analysis
+
+
+
+
+ 
+© 2015 Kyeong et al. Background: Attention-deficit/hyperactivity disorder (ADHD) is currently diagnosed by a diagnostic interview, mainly based on subjective reports from parents or teachers. It is necessary to develop methods that rely on objectively measureable neurobiological data to assess brain-behavior relationship in patients with ADHD. We investigated the application of a topological data analysis tool, Mapper, to analyze the brain functional connectivity data from ADHD patients. Methods: To quantify the disease severity using the neuroimaging data, the decomposition of individual functional networks into normal and disease components by the healthy state model (HSM) was performed, and the magnitude of the disease component (MDC) was computed. Topological data analysis using Mapper was performed to distinguish children with ADHD (n = 196) from typically developing controls (TDC) (n = 214). Results: In the topological data analysis, the partial clustering results of patients with ADHD and normal subjects were shown in a chain-like graph. In the correlation analysis, the MDC showed a significant increase with lower intelligence scores in TDC. We also found that the rates of comorbidity in ADHD significantly increased when the deviation of the functional connectivity from HSM was large. In addition, a significant correlation between ADHD symptom severity and MDC was found in part of the dataset. Conclusions: The application of HSM and topological data analysis methods in assessing the brain functional connectivity seem to be promising tools to quantify ADHD symptom severity and to reveal the hidden relationship between clinical phenotypic variables and brain connectivity.
+
+

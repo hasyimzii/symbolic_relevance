@@ -1,0 +1,10 @@
+
+Sustainable manufacturing models for mass finishing process
+
+
+
+
+ 
+© 2015 Springer-Verlag London Mass finishing process is employed to improve the surface characteristics of aerospace components. The quantity of material removed and power consumed during mass finishing depend on the effect of various input process variables such as workpiece material, media deployed, process time, etc. Often in manufacturing lines, the process parameters are determined by trial-and-error approach, which results in increased material wastage and power losses. Hence, an optimization of input process parameters is of utmost importance from environmental standpoint. This requires formulation of a generalized and an explicit mathematical model. In the present work, the power consumption and material removal rate (MRR) in mass finishing process are studied using Gene Expression Programming (GEP) and artificial neural network (ANN) techniques. It was found that the proposed models were able to generalize the output characteristics of mass finishing process. The parametric and sensitivity studies showed that the media factor has the maximum influence on the power consumption and MRR. Hence, media factor needs to be optimized for achieving better environmental performance of mass finishing process.
+
+

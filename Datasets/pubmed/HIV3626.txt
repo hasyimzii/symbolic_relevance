@@ -1,0 +1,2 @@
+Rapid detection of HIV 1 in clinical samples by co culture with heat shocked cells.
+A mild heat shock (10 min at 44 degrees C), performed just before seeding on healthy PBL used for co cultivation, allows the detection of viral markers (p24 core antigen and reverse transcriptase) in a very short time. This suggests that heat shocked PBL can be employed routinely for the rapid detection of HIV 1 in clinical samples.

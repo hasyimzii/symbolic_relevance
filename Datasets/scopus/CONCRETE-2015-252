@@ -1,0 +1,10 @@
+
+Meso-scale model of reinforced concrete structures and crack propagation simulation
+
+
+
+
+ 
+© 2015, Editorial Board of Journal of Basic Science and Engineering. All right reserved. The crack propagation problem was studied based on the meso-scale model of reinforced concrete structures, and numerical simulation was executed accordingly. To begin with, a concrete structure model was established in a two-phase composite material. Secondly, the existing Weibull distribution models were employed and improved with a spatial correlation factor to reflect the relationship of mechanical properties among elements. Then the constitutive equations of concrete and steel were adopted, and the tri-linear constitutive relation of concrete was simplified using the equivalent rule of strain energy density according to solution efficiency. In the ANSYS software, a set of built-in program modules for crack propagation simulation was developed, in which a monitoring factor was introduced to solve the crack coalescence problem so that strong robustness of simulation could be achieved. To verify the numerical method, a comparison on the cracking pattern was made between the simulated and the tested for three simply supported beams with different shear-span ratio, and it shows that the results agree well with experimental phenomena.
+
+

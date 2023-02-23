@@ -1,0 +1,11 @@
+
+									 
+Neural-Network-Based Nonlinear Model Predictive Control for Piezoelectric Actuators
+
+
+
+
+ 
+© 1982-2012 IEEE. Piezoelectric actuators (PEAs) have been widely used in nanotechnology due to their characteristics of fast response, large mass ratio, and high stiffness. However, hysteresis, which is an inherent nonlinear property of PEAs, greatly deteriorates the control performance of PEAs. In this paper, a nonlinear model predictive control (NMPC) approach is proposed for the displacement tracking problem of PEAs. First, a "nonlinear autoregressive-moving-average with exogenous inputs" (NARMAX) model of PEAs is implemented by multilayer neural networks; second, the tracking control problem is converted into an optimization problem by the principle of NMPC, and then, it is solved by the Levenberg-Marquardt algorithm. The most distinguished feature of the proposed approach is that the inversion model of hysteresis is no longer a necessity, which avoids the inversion imprecision problem encountered in the widely used inversion-based control algorithms. To verify the effectiveness of the proposed modeling and control methods, experiments are made on a commercial PEA product (P-753.1CD, Physik Instrumente), and comparisons with some existing controllers and a commercial proportional-integral-derivative controller are conducted. Experimental results show that the proposed scheme has satisfactory modeling and control performance.
+
+

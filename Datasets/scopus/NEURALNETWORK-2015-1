@@ -1,0 +1,10 @@
+
+Application of game theory and neural network to study the behavioral probabilities in supply chain
+
+
+
+
+ 
+© 2005 - 2015 JATIT & LLS. All rights reserved. As a review of game theoretic approach to optimize the logistic costs with the objective of modeling interactions among players in a basic supply chain, this paper focuses on a single channel, two-echelon supply chain with a retailer and his supplier of a one-product where careful attention is given to information sharing in general and demand forecasting in particular. Therefore, in the industrial world, firms cannot risk waiting for the actual demand to occur so they can react and determine the quantities to purchase, produce or deliver. Demand forecasts are important and necessary to any member of the supply chain as they gave them the advantage of planning and anticipating for future needs. However, demand forecasting is one of those crucial decisions where an error can cost too much. This is why we choose to implement the artificial neural network as a forecasting technique. Obviously the closest actor to the market i.e the retailer has the best view of demand levels than the supplier, so sharing demand information with the other actors has an impact on the performance of the whole supply chain but it is not necessarily the case since the retailer can choose to withhold this information. This is why we focus in this investigation on the demand’s prediction when information is not shared using the artificial intelligence of neural networks.
+
+

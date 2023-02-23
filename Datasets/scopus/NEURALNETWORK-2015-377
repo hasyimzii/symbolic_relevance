@@ -1,0 +1,10 @@
+
+Experiments with smart workload allocation to cloud servers
+
+
+
+
+ 
+© 2015 IEEE. We present experiments that compare three on-line real time techniques for task allocation to different cloud servers: an adaptive random neural network (RNN) based on reinforcement algorithm, an algorithm based on ''sensible routing'', one which uses a simple analytical model to select the server is estimated to give the best response as a function of workload, and round-robin task allocation. Measurements indicate that the RNN based algorithm can make accurate decisions when it exploits frequent measurement updates.
+
+

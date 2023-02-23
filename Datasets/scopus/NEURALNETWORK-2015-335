@@ -1,0 +1,11 @@
+
+Automation in construction scheduling: a review of the literature
+										
+
+
+
+
+ 
+© 2015, Springer-Verlag London. Automating the development of construction schedules has been an interesting topic for researchers around the world for almost three decades. Researchers have approached solving scheduling problems with different tools and techniques. Whenever a new artificial intelligence or optimization tool has been introduced, researchers in the construction field have tried to use it to find the answer to one of their key problems—the “better” construction schedule. Each researcher defines this “better” slightly different. This article reviews the research on automation in construction scheduling from 1985 to 2014. It also covers the topic using different approaches, including case-based reasoning, knowledge-based approaches, model-based approaches, genetic algorithms, expert systems, neural networks, and other methods. The synthesis of the results highlights the share of the aforementioned methods in tackling the scheduling challenge, with genetic algorithms shown to be the most dominant approach. Although the synthesis reveals the high applicability of genetic algorithms to the different aspects of managing a project, including schedule, cost, and quality, it exposed a more limited project management application for the other methods.
+
+

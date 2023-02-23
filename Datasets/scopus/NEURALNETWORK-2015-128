@@ -1,0 +1,10 @@
+
+On spatial neighborhood of patch-based super resolution
+
+
+
+
+ 
+© 2015 IEEE. We propose an intuitive formulation for single image super resolution (SISR), and an algorithm based on it that outperforms the state of the art. We model the SISR problem around an aspect of natural images that is often overlooked - sharp edges - which are important for perceptual quality, and troublesome for interpolation. We justify the use of low resolution (LR) Markovian neighborhoods to estimate high resolution (HR) pixels corresponding to only the central pixel of the LR neighborhood based on our formulation. The formulation also lends itself to learning LR to HR mapping based on their pairs as training examples. We propose a learning algorithm based on polynomial neural networks to learn this mapping. Our formulation and algorithm provide further insight into performance of various single image super resolution methods.
+
+

@@ -1,0 +1,10 @@
+
+Implementation of neuro-fuzzy based portable thermographic system for detection of Rheumatoid Arthritis
+
+
+
+
+ 
+© 2015 IEEE. Thermography depends upon the infrared thermograms which records temperature variations in desired region of interest. Thermal imaging or thermography is one of the alternative to the existing diagnosis methods for analyzing human body dysfunctions. Thermography provides information about temperature variations in human skin of different body parts. Inflammation in any part of human body causes temperature changes at surrounding area, thermography can be used as a tool for monitoring dysfunctions. But some limitations and disadvantages are still present when thermography is used in bio-medical applications, so the accuracy of thermographic system need to be improved to make it a powerful diagnosis tool. Rheumatoid arthritis (RA) is an auto-immune disease that attacks healthy tissues of joints of fingers, wrist, shoulders and feet, causing pain and inflammation over these areas. Modern computer technology can be used for developing a system for auto analysis and diagnosis of RA using Artificial Neural Network. In this paper a Windows CE based portable intelligent system on Friendly ARM Mini 2440 has been implemented for detection of Rheumatoid Arthritis with the aid of fuzzy c-means segmentation algorithm and artificial neural network.
+
+

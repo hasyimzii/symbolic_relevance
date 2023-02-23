@@ -1,0 +1,10 @@
+
+Finite element analysis of initially damaged beams repaired with FRP plates
+
+
+
+
+ 
+© 2015 Elsevier Ltd. This paper presents an advanced finite element model using the general purpose FE software Ansys to simulate the flexural behaviour of initially damaged concrete beams repaired with FRP plates. The model is capable to simulate the full history stages; where the beam is initially loaded to introduce damage, then, after bonding the FRP plates, the beam is reloaded up to failure. The finite element model has been validated using experimental data in the literature and used to study the effect of concrete-FRP models, interfacial shear stress distribution, crack pattern, and failure mechanism. In addition, the effect of plate thickness and the gained load capacity in terms of damage degree have been also investigated. The predicted results indicated that the load capacity of all repaired beams is higher than that of the control beam for any damage degree. Moreover, when repairing highly damaged beams, the most likely expected mode of failure is plate debonding for any FRP plate thickness.
+
+

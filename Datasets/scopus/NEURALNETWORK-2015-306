@@ -1,0 +1,10 @@
+
+Environment-dependent denoising autoencoder for distant-talking speech recognition
+
+
+
+
+ 
+© 2015, Ueda et al. In this paper, we propose an environment-dependent denoising autoencoder (DAE) and automatic environment identification based on a deep neural network (DNN) with blind reverberation estimation for robust distant-talking speech recognition. Recently, DAEs have been shown to be effective in many noise reduction and reverberation suppression applications because higher-level representations and increased flexibility of the feature mapping function can be learned. However, a DAE is not adequate in mismatched training and test environments. In a conventional DAE, parameters are trained using pairs of reverberant speech and clean speech under various acoustic conditions (that is, an environment-independent DAE). To address the above problem, we propose two environment-dependent DAEs to reduce the influence of mismatches between training and test environments. In the first approach, we train various DAEs using speech from different acoustic environments, and the DAE for the condition that best matches the test condition is automatically selected (that is, a two-step environment-dependent DAE). To improve environment identification performance, we propose a DNN that uses both reverberant speech and estimated reverberation. In the second approach, we add estimated reverberation features to the input of the DAE (that is, a one-step environment-dependent DAE or a reverberation-aware DAE). The proposed method is evaluated using speech in simulated and real reverberant environments. Experimental results show that the environment-dependent DAE outperforms the environment-independent one in both simulated and real reverberant environments. For two-step environment-dependent DAE, the performance of environment identification based on the proposed DNN approach is also better than that of the conventional DNN approach, in which only reverberant speech is used and reverberation is not blindly estimated. And, the one-step environment-dependent DAE significantly outperforms the two-step environment-dependent DAE.
+
+

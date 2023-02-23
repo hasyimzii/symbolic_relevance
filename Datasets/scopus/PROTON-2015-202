@@ -1,0 +1,10 @@
+
+Molecular recognition of naphthalene diimide ligands by telomeric quadruplex-DNA: The importance of the protonation state and mediated hydrogen bonds
+
+
+
+
+ 
+© the Owner Societies 2016. In depth Monte Carlo conformational scans in combination with molecular dynamics (MD) simulations and electronic structure calculations were applied in order to study the molecular recognition process between tetrasubstituted naphthalene diimide (ND) guests and G-quadruplex (G4) DNA receptors. ND guests are a promising class of telomere stabilizers due to which they are used in novel anticancer therapeutics. Though several ND guests have been studied experimentally in the past, the protonation state under physiological conditions is still unclear. Based on chemical intuition, in the case of N-methyl-piperazine substitution, different protonation states are possible and might play a crucial role in the molecular recognition process by G4-DNA. Depending on the proton concentration, different nitrogen atoms of the N-methyl-piperazine might (or might not) be protonated. This fact was considered in our simulation in terms of a case by case analysis, since the process of molecular recognition is determined by possible donor or acceptor positions. The results of our simulations show that the electrostatic interactions between the ND ligands and the G4 receptor are maximized in the case of the protonation of the terminal nitrogen atoms, forming compact ND G4 complexes inside the grooves. The influence of different protonation states in terms of the ability to form hydrogen bonds with the sugar-phosphate backbone, as well as the importance of mediated vs. direct hydrogen bonding, was analyzed in detail by MD and relaxed force constant (compliance constant) simulations.
+
+

@@ -1,0 +1,10 @@
+
+The dynamic relationship between stock, bond and foreign exchange markets
+
+
+
+
+ 
+© 2015 . This paper investigates whether the deviation of a currency from its fundamentally determined rate of return affects the relationship between interest rates and stock market yields. A time-varying transition probability, the Markov-switching vector autoregressive (MS-VAR) model, is utilized for this purpose. Wald and likelihood ratio tests are computed and used as model adequacy measures. In order to analyze the link between the variables, impulse-response functions are employed. A sticky price exchange rate model is used to show the fundamentally determined rate of return of currencies. States are defined as either overvalued or undervalued, depending on the position of the observed exchange rate compared to its fundamentally determined rate. The model is applied to four major currencies: the Australian Dollar, the Canadian Dollar, the Japanese Yen, and the British Pound. Transition between the states is linked to the risk-adjusted excess return (the Sharpe ratio) of the debt and equity markets of the respective currencies in order to understand whether over- and undervaluation is connected to the returns in these markets. The results provide evidence that the relationship between economic fundamentals and nominal exchange rates are subject to change depending on the over- or undervaluation of the currencies relative to their fundamentally determined rate of return. An extension of this result shows that the Sharpe ratios of debt and equity investments in the currencies influence the evolution of the transitional dynamics of the exchange rates' deviation from their fundamental values.
+
+

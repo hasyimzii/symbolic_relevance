@@ -1,0 +1,10 @@
+
+Strategies for distant speech recognitionin reverberant environments
+
+
+
+
+ 
+© 2015, Delcroix et al.; licensee Springer. Reverberation and noise are known to severely affect the automatic speech recognition (ASR) performance of speech recorded by distant microphones. Therefore, we must deal with reverberation if we are to realize high-performance hands-free speech recognition. In this paper, we review a recognition system that we developed at our laboratory to deal with reverberant speech. The system consists of a speech enhancement (SE) front-end that employs long-term linear prediction-based dereverberation followed by noise reduction. We combine our SE front-end with an ASR back-end that uses neural networks for acoustic and language modeling. The proposed system achieved top scores on the ASR task of the REVERB challenge. This paper describes the different technologies used in our system and presents detailed experimental results that justify our implementation choices and may provide hints for designing distant ASR systems.
+
+

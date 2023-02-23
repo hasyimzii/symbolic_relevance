@@ -1,0 +1,10 @@
+
+Using Sample Selection to Improve Accuracy and Simplicity of Rules Extracted from Neural Networks for Credit Scoring Applications
+
+
+
+
+ 
+© 2015 Imperial College Press. In this paper, we present an approach for sample selection using an ensemble of neural networks for credit scoring. The ensemble determines samples that can be considered outliers by checking the classification accuracy of the neural networks on the original training data samples. Those samples that are consistently misclassified by the neural networks in the ensemble are removed from the training dataset. The remaining data samples are then used to train and prune another neural network for rule extraction. Our experimental results on publicly available benchmark credit scoring datasets show that by eliminating the outliers, we obtain neural networks with higher predictive accuracy and simpler in structure compared to the networks that are trained with the original dataset. A rule extraction algorithm is applied to generate comprehensible rules from the neural networks. The extracted rules are more concise than the rules generated from networks that have been trained using the original datasets.
+
+

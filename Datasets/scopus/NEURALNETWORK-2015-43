@@ -1,0 +1,11 @@
+
+ 
+An Improved Neural Network with Random Weights Using Backtracking Search Algorithm
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York This paper proposes a hybrid algorithm by combining backtracking search algorithm (BSA) and a neural network with random weights (NNRWs), called BSA-NNRWs-N. BSA is utilized to optimize the hidden layer parameters of the single layer feed-forward network (SLFN) and NNRWs is used to derive the output layer weights. In addition, to avoid over-fitting on the validation set, a new cost function is proposed to replace the root mean square error (RMSE). In the new cost function, a constraint is added by considering RMSE on both training and validation sets. Experiments on classification and regression data sets show promising performance of the proposed BSA-NNRWs-N.
+
+

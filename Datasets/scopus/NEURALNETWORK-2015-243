@@ -1,0 +1,10 @@
+
+Bivariate Nonisotonic Statistical Regression by a Lookup Table Neural System
+
+
+
+
+ 
+© 2015, Springer Science+Business Media New York. Linear data regression is a fundamental mathematical tool in engineering and applied sciences. However, for complex nonlinear phenomena, the standard linear least-squares regression may prove ineffective, hence calling for more involved data modeling techniques. The current research work investigates in particular nonlinear statistical regression of bivariate data that do not exhibit a monotonic dependency. The current contribution proposes a neural-network-based data processing method, termed data monotonization, followed by neural isotonic statistical regression. Such data monotonization processing is performed by means of an adaptive neural network that learns its nonlinear transfer function from the training set. The artificial neural system that performs data monotonization is implemented through a lookup table (LUT), which entails few computationally inexpensive algebraic operations to adapt and to compute the output from the input data-set. A number of learning rules to adapt such LUT-based neural system are introduced and compared in order to elucidate their relative merits and drawbacks.
+
+

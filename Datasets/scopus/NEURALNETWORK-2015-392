@@ -1,0 +1,10 @@
+
+Person re-identification with multi-level adaptive correspondence models
+
+
+
+
+ 
+© 2015 Elsevier B.V. In this work, we present a multi-level adaptive correspondence model for person re-identification. Coarse segmentation and single level representation carry poorly discriminative information for generating a signature of a target, whilst fine segmentation with a fixed matching fashion is hindered severely by misalignment of corresponding body parts. We address such a dilemma through a multi-level adaptive correspondence scheme. Our approach encodes a pedestrian based on horizontal stripes in multi-level to capture rich visual cues as well as implicit spatial structure. Then dynamic correspondence of stripes within an image pair is conducted. Considering that manually selected weights in the final fusion stage is not advisable, we employ RankSVM to seek a data-driven fusion solution. We demonstrate the effectiveness of our method on two public datasets and another new dataset built for single shot re-identification. Comparisons with state-of-the-art re-identification methods show the superior performance of our approach.
+
+

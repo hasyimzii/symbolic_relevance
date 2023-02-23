@@ -1,0 +1,10 @@
+
+Meso-scale modeling of irradiated concrete in test reactor
+
+
+
+
+ 
+© 2015 Elsevier B.V. A numerical model accounting for the effects of neutron irradiation on concrete at the mesoscale is detailed in this paper. Irradiation experiments in test reactor (Elleuch et al., 1972), i.e., in accelerated conditions, are simulated. Concrete is considered as a two-phase material made of elastic inclusions (aggregate) subjected to thermal and irradiation-induced swelling and embedded in a cementitious matrix subjected to shrinkage and thermal expansion. The role of the hardened cement paste in the post-peak regime (brittle-ductile transition with decreasing loading rate), and creep effects are investigated. Radiation-induced volumetric expansion (RIVE) of the aggregate cause the development and propagation of damage around the aggregate which further develops in bridging cracks across the hardened cement paste between the individual aggregate particles. The development of damage is aggravated when shrinkage occurs simultaneously with RIVE during the irradiation experiment. The post-irradiation expansion derived from the simulation is well correlated with the experimental data and, the obtained damage levels are fully consistent with previous estimations based on a micromechanical interpretation of the experimental post-irradiation elastic properties (Le Pape et al., 2015). The proposed modeling opens new perspectives for the interpretation of test reactor experiments in regards to the actual operation of light water reactors.
+
+

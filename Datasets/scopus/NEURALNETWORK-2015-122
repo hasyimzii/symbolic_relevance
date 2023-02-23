@@ -1,0 +1,10 @@
+
+Computationally efficient, real-time motion recognition based on bio-inspired visual and cognitive processing
+
+
+
+
+ 
+© 2015 IEEE. We propose a novel method for identifying and classifying motions that offers significantly reduced computational cost as compared to deep convolutional neural network systems with comparable performance. Our new approach is inspired by the information processing network architecture of biological visual processing systems, whereby spatial pyramid kernel features are efficiently extracted in real-time from temporally-differentiated image data. In this paper, we describe this new method and evaluate its performance with a hand motion gesture recognition task.
+
+

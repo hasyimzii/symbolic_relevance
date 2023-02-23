@@ -1,0 +1,2 @@
+Nuclear magnetic resonance (NMR). II. Imaging in dementia.
+Proton NMR imaging of the brain is rapidly becoming established as a useful investigative tool in medicine. This paper examines the usefulness of the NMR parameters  spin lattice relaxation time (T1) and proton density (PD)  in differentiating groups of patients with senile dementia of Alzheimer type (SDAT) and multi infarct dementia (MID) from each other, and from elderly controls. T1 values increase with severity of dementia. NMR parameters may also be of use in localising regions of brain damage.

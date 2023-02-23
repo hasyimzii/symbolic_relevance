@@ -1,0 +1,10 @@
+
+Nonlinear line-element modeling of flexural reinforced concrete walls
+
+
+
+
+ 
+© 2015 Elsevier Ltd. The research presented here developed a model for simulating the nonlinear cyclic response of flexure-controlled concrete walls, which meets the dual objectives of accuracy and computational efficiency. The proposed model represents a significant advancement in that it provides accurate simulation of the dominate failure mechanism exhibited by flexural walls in the laboratory and field: compression-controlled failure characterized by simultaneous crushing of concrete and buckling of longitudinal reinforcement. The first steps in the model development effort comprised assembly of an experimental database and review of current modeling approaches for walls (e.g., lumped plasticity, distributed plasticity, and continuum elements). Model evaluation indicated that the most viable option to achieve accuracy and efficiency was the use of beam-column line elements with fiber-type cross-section models at the integration points. Initially, both displacement-based and force-based element formulations were evaluated; however, the displacement-based formulation resulted in an inaccurate representation of the axial force distribution along the length of the element. Therefore, only the force-based formulation was chosen for further study. The basic model included standard 1D constitutive models for confined concrete, plain concrete and reinforcing steel. Comparing simulated and measured response data showed that the concrete and steel material models must be regularized using a mesh-dependent characteristic length and a material-dependent post-yield energy to enable accurate, mesh-objective simulation of strength loss due to compression failure. The post-yield energy values were determined using relevant experimental data, an important but missing component of prior research on material regularization. The results of this study show that use of the regularized constitutive models significantly improved the accuracy of response predictions.
+
+

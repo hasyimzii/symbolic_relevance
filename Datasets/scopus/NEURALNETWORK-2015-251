@@ -1,0 +1,10 @@
+
+Gene regulatory network evolution through augmenting topologies
+
+
+
+
+ 
+© 1997-2012 IEEE. Artificial gene regulatory networks (GRNs) are biologically inspired dynamical systems used to control various kinds of agents, from the cells in developmental models to embodied robot swarms. Most recent work uses a genetic algorithm (GA) or an evolution strategy in order to optimize the network for a specific task. However, the empirical performances of these algorithms are unsatisfactory. This paper presents an algorithm that primarily exploits a network distance metric, which allows genetic similarity to be used for speciation and variation of GRNs. This algorithm, inspired by the successful neuroevolution of augmenting topologies algorithm's use in evolving neural networks and compositional pattern-producing networks, is based on a specific initialization method, a crossover operator based on gene alignment, and speciation based upon GRN structures. We demonstrate the effectiveness of this new algorithm by comparing our approach both to a standard GA and to evolutionary programming on four different experiments from three distinct problem domains, where the proposed algorithm excels on all experiments.
+
+

@@ -1,0 +1,10 @@
+
+From estimating activation locality to predicting disorder: A review of pattern recognition for neuroimaging-based psychiatric diagnostics
+
+
+
+
+ 
+© 2015 The Authors. Psychiatric disorders are increasingly being recognised as having a biological basis, but their diagnosis is made exclusively behaviourally. A promising approach for 'biomarker' discovery has been based on pattern recognition methods applied to neuroimaging data, which could yield clinical utility in future. In this review we survey the literature on pattern recognition for making diagnostic predictions in psychiatric disorders, and evaluate progress made in translating such findings towards clinical application. We evaluate studies on many criteria, including data modalities used, the types of features extracted and algorithm applied. We identify problems common to many studies, such as a relatively small sample size and a primary focus on estimating generalisability within a single study. Furthermore, we highlight challenges that are not widely acknowledged in the field including the importance of accommodating disease prevalence, the necessity of more extensive validation using large carefully acquired samples, the need for methodological innovations to improve accuracy and to discriminate between multiple disorders simultaneously. Finally, we identify specific clinical contexts in which pattern recognition can add value in the short to medium term.
+
+

@@ -1,0 +1,10 @@
+
+Design and application of continuous deep belief network
+
+
+
+
+ 
+Copyright © 2015 Acta Automatica Sinica. All rights reserved. A continuous deep belief network (cDBN) with two hidden layers is proposed to solve the problem of low accuracy of traditional DBN in modeling continuous data. The whole process is to train the input data in an unsupervised way using continuous version of transfer function, to design the contrastive divergence in hidden-layer training process, and then to fine-tune the net by back propagation. Besides, hyper-parameters are analyzed according to stability analysis, as is given in the paper, to make sure the network finds the optimal. Experiments on Lorenz, CATS benchmark simulation and CO2 forecasting show a simplified structure, fast convergence speed and accuracy of this cDBN.
+
+

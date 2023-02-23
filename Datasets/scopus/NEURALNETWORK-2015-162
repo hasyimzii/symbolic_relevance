@@ -1,0 +1,10 @@
+
+Automatic identification of conceptual structures using deep boltzmann machines
+
+
+
+
+ 
+© 2015 ACM. This paper presents an approach to automatically extract Conceptual Graphs (CGs) from patent documents using Over-Replicated Softmax model of Deep Boltzman Machines (DBMs). The main challenge in the extraction of conceptual graphs from the natural language texts is the automatic identification of concepts and conceptual relations. The text analyzed in this work are patent documents, focused mainly on the claim's section (Claim) of the documents. The task of automatically identifying the concept and conceptual relation becomes difficult due to the complexities in the writing style of these documents as they are technical as well as legal. The analysis we have done shows that the general in-depth parsers available in the open domain fail to parse the 'claims section' sentences in patent documents. The failure of in-depth parsers led us, to develop a methodology to extract CGs using shallow parsed text. Thus in the present work we came up with a methodology which uses shallow parsed text in conjunction with DBMs, a deep learning technique for extracting CGs from sentences in the claim/novelty section of patent documents. The results obtained in our experiments are encouraging with a significant improvement over the state -of-art and are discussed in detail in this paper. We have obtained a precision of 79.34 % and a recall of 72.54%.
+
+

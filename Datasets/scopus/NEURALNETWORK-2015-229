@@ -1,0 +1,10 @@
+
+Fully connected cascade artificial neural network architecture for attention deficit hyperactivity disorder classification from functional magnetic resonance imaging data
+
+
+
+
+ 
+© 2013 IEEE. Automated recognition and classification of brain diseases are of tremendous value to society. Attention deficit hyperactivity disorder (ADHD) is a diverse spectrum disorder whose diagnosis is based on behavior and hence will benefit from classification utilizing objective neuroimaging measures. Toward this end, an international competition was conducted for classifying ADHD using functional magnetic resonance imaging data acquired from multiple sites worldwide. Here, we consider the data from this competition as an example to illustrate the utility of fully connected cascade (FCC) artificial neural network (ANN) architecture for performing classification. We employed various directional and nondirectional brain connectivity-based methods to extract discriminative features which gave better classification accuracy compared to raw data. Our accuracy for distinguishing ADHD from healthy subjects was close to 90% and between the ADHD subtypes was close to 95%. Further, we show that, if properly used, FCC ANN performs very well compared to other classifiers such as support vector machines in terms of accuracy, irrespective of the feature used. Finally, the most discriminative connectivity features provided insights about the pathophysiology of ADHD and showed reduced and altered connectivity involving the left orbitofrontal cortex and various cerebellar regions in ADHD.
+
+

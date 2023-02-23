@@ -1,0 +1,10 @@
+
+Synchronization of neural networks with control packet loss and time-varying delay via stochastic sampled-data controller
+
+
+
+
+ 
+© 2015 IEEE. This paper addresses the problem of exponential synchronization of neural networks with time-varying delays. A sampled-data controller with stochastically varying sampling intervals is considered. The novelty of this paper lies in the fact that the control packet loss from the controller to the actuator is considered, which may occur in many real-world situations. Sufficient conditions for the exponential synchronization in the mean square sense are derived in terms of linear matrix inequalities (LMIs) by constructing a proper Lyapunov-Krasovskii functional that involves more information about the delay bounds and by employing some inequality techniques. Moreover, the obtained LMIs can be easily checked for their feasibility through any of the available MATLAB tool boxes. Numerical examples are provided to validate the theoretical results.
+
+

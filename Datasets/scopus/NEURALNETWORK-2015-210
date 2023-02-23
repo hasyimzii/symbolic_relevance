@@ -1,0 +1,10 @@
+
+Forecasting future estuarine hypoxia using a wavelet based neural network model
+
+
+
+
+ 
+© 2015. Ecosystem based modeling and predictions of hypoxia in estuaries and their adjacent coastal areas have become increasingly of interest to researchers and coastal zone managers. Although progress has been made in modeling oxygen dynamics and short-term predictions, there is still a lack of long-term forecasts that incorporate multiple inputs including climatological effects such as El Niño-Southern Oscillation (ENSO) events. In this study, we first develop a hypoxic volume index (HVI) using 26-years of hypoxic volume (<62.5 μm g l-1) measurements from the main-stem of the Chesapeake Bay. Then a cross-wavelet analysis is used to identify and weight input parameters in order to build a neural network model of future hypoxic volume. The time-forward dynamic model uses cross-bay winds along with the Oceanic Niño Index (ONI), and Susquehanna River flow indexes to predict a hypoxic volume index over the next several years. Wavelet analysis indicates an anti-phase relationship between southwesterly winds and hypoxic volume index, and an 18-month phase lag between Susquehanna River index and hypoxic volume index. The neural network model results yield R-values of 0.99, and 0.91 for training, and validation and an R2 of 0.68 for predictions illustrating the usefulness and promise of these types of models for long-term predictions of hypoxic volume. Model results could be used as a climatologically based hypoxic volume baseline for comparing actual hypoxic volume response to nutrient load reductions.
+
+

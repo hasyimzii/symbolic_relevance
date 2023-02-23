@@ -1,0 +1,10 @@
+
+A neural tree for classification using convex objective function
+
+
+
+
+ 
+© 2015 Elsevier B.V.All rights reserved. In this paper, we propose a neural tree classifier, called the convex objective function neural tree (COF-NT), which has a specialized perceptron at each node. The specialized perceptron is a single layer feed-forward perceptron which calculates the errors before the neuron's non-linear activation function instead of after them. Thus, the network parameters are independent of non-linear activation functions, and subsequently, the objective function is a convex objective function. The solution can be easily obtained by solving a system of linear equations which will require less computational power than conventional iterative methods. During the training, the proposed neural tree classifier divides the training set into smaller subsets by adding new levels to the tree. Each child perceptron takes forward the task of training done by its parent perceptron on the superset of this subset. Thus, the training is done by a number of single layer perceptrons (each perceptron carrying forward the work done by its ancestors) that reach the global minima in a finite number of steps. The proposed algorithm has been tested on available benchmark datasets and the results are promising in terms of classification accuracy and training time.
+
+

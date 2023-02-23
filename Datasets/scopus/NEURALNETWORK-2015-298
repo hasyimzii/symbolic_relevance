@@ -1,0 +1,10 @@
+
+Nonlinear identification using orthogonal forward regression with nested optimal regularization
+
+
+
+
+ 
+© 2013 IEEE. An efficient data based-modeling algorithm for nonlinear system identification is introduced for radial basis function (RBF) neural networks with the aim of maximizing generalization capability based on the concept of leave-one-out (LOO) cross validation. Each of the RBF kernels has its own kernel width parameter and the basic idea is to optimize the multiple pairs of regularization parameters and kernel widths, each of which is associated with a kernel, one at a time within the orthogonal forward regression (OFR) procedure. Thus, each OFR step consists of one model term selection based on the LOO mean square error (LOOMSE), followed by the optimization of the associated kernel width and regularization parameter, also based on the LOOMSE. Since like our previous state-of-the-art local regularization assisted orthogonal least squares (LROLS) algorithm, the same LOOMSE is adopted for model selection, our proposed new OFR algorithm is also capable of producing a very sparse RBF model with excellent generalization performance. Unlike our previous LROLS algorithm which requires an additional iterative loop to optimize the regularization parameters as well as an additional procedure to optimize the kernel width, the proposed new OFR algorithm optimizes both the kernel widths and regularization parameters within the single OFR procedure, and consequently the required computational complexity is dramatically reduced. Nonlinear system identification examples are included to demonstrate the effectiveness of this new approach in comparison to the well-known approaches of support vector machine and least absolute shrinkage and selection operator as well as the LROLS algorithm.
+
+

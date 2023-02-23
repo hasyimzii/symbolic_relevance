@@ -1,0 +1,10 @@
+
+CBID: A Customer Behavior Identification System Using Passive Tags
+
+
+
+
+ 
+Different from online shopping, in-store shopping has few ways to collect the customer behaviors before purchase. In this paper, we present the design and implementation of an on-site Customer Behavior IDentification system based on passive RFID tags, named CBID. By collecting and analyzing wireless signal features, CBID can detect and track tag movements and further infer corresponding customer behaviors. We model three main objectives of behavior identification by concrete problems and solve them using novel protocols and algorithms. The design innovations of this work include a Doppler effect based protocol to detect tag movements, an accurate Doppler frequency estimation algorithm, an image-based human count estimation protocol and a tag clustering algorithm using cosine similarity. We have implemented a prototype of CBID in which all components are built by off-the-shelf devices. We have deployed CBID in real environments and conducted extensive experiments to demonstrate the accuracy and efficiency of CBID in customer behavior identification.
+
+

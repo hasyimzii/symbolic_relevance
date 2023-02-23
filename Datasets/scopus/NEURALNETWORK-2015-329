@@ -1,0 +1,10 @@
+
+A technique for burning area identification using IHS transformation and image segmentation
+
+
+
+
+ 
+© 2015, Zarka Private Univ. All rights reserved. In this paper, we have designed and developed a technique for burning area identification using Intensity Hue Saturation (IHS) transformation and image segmentation. The process of identifying the burnt area in proposed technique consists of four steps such as: IHS transformation, object segmentation, identification of smoke area using Feed-Forward Neural Network (FFNN) and discovering burning areas from the smoke segments. Here, satellite image collected from NASA is utilized for the experimental study of the proposed research. The images obtained from the NASA is given to HIS transformation that convert the RGB image into intensity, hue, saturation transformed image so that, this process is suitable for segmentation process. After the transformation of image, object segmentation technique is done based on K-means clustering algorithm. Subsequently, FFNN is used for identification of smoke area from the segments. After identifying the smoke segment, the burning area is identified through directional analysis. The proposed burnt area identification technique is analyzed with the help of sensitivity, specificity and the accuracy. Finally, experimental results say that, the proposed technique is achieved the overall accuracy 2.6%, which is better than the existing approach.
+
+

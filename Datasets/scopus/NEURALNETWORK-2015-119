@@ -1,0 +1,10 @@
+
+Real-time dynamic texture recognition using random sampling and dimension reduction
+
+
+
+
+ 
+© 2015 IEEE. In this paper, we propose a real-time dynamic texture recognition method using projections onto random hyperplanes and deep neural network filters. We divide dynamic texture videos into spatio-temporal blocks and extract features using local binary patterns (LBP). We reduce the computational cost of the exhaustive LBP method by using randomly sampled subset of pixels in a given spatio-temporal block. We use random hyperplanes and deep neural network filters to reduce the dimensionality of the final feature vectors. We test the performance of the proposed method in a dynamic texture database. We also propose an application of the proposed method to real-time detection of flames in infrared videos. We observe that the approach based on random hyperplanes produces the best results.
+
+

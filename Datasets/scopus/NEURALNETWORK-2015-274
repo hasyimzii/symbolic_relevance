@@ -1,0 +1,10 @@
+
+Wavelet-Based Power Quality Disturbances Detection and Classification Using RBFNN and Fuzzy Logic
+
+
+
+
+ 
+© 2015 Taiwan Fuzzy Systems Association and Springer-Verlag Berlin Heidelberg. This paper presents a new approach to detect and classify power quality disturbances in the power system using fuzzy logic (FL) and radial basis function neural networks (RBFNN). Feature extracted through the wavelet is used for training; after training, the obtained weight is used to classify the power quality problems in RBFNN, but it suffers from extensive computation and low convergence speed. Then to detect and classify the events, FL is proposed, the extracted characters are used to find out membership functions and fuzzy rules being determined from the power quality inherence. For the classification, five types of disturbance are taken into account. The classification performance of FL is compared with RBFNN. The classification accuracy of FL is improved with the help of cognitive as well as the social behavior of particles along with fitness value using particle swarm optimization, just by determining the ranges of the feature of the membership function for each rules to identify each disturbance specifically. The simulation result using FL possesses significant improvements and gives classification results in less than a cycle when compared over other considered approach.
+
+

@@ -1,0 +1,10 @@
+
+Polymer electrolyte membrane fuel cell fault diagnosis based on empirical mode decomposition
+
+
+
+
+ 
+© 2015 Elsevier B.V. All rights reserved. Diagnosis tool for water management is relevant to improve the reliability and lifetime of polymer electrolyte membrane fuel cells (PEMFCs). This paper presents a novel signal-based diagnosis approach, based on Empirical Mode Decomposition (EMD), dedicated to PEMFCs. EMD is an empirical, intuitive, direct and adaptive signal processing method, without pre-determined basis functions. The proposed diagnosis approach relies on the decomposition of FC output voltage to detect and isolate flooding and drying faults. The low computational cost of EMD, the reduced number of required measurements, and the high diagnosis accuracy of flooding and drying faults diagnosis make this approach a promising online diagnosis tool for PEMFC degraded modes management.
+
+

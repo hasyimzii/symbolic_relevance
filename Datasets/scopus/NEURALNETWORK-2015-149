@@ -1,0 +1,10 @@
+
+Pinning control for synchronization of HR biological neural networks: Linear active disturbance rejection approach
+
+
+
+
+ 
+© 2015, The Editorial Board of Journal of System Simulation. All right reserved. Synchronization of a complex network whose nodes are Hindmarsh-Rose biological neurons was considered. Coupling strengths of the whole network were always taken as the tuning variables. However, coupling strengths may not be changeable. In addition, synchronization was affected by different disturbances. In view of above factors, pinning control was utilized and linear active disturbance rejection control (LADRC) was designed. By this approach, synchronization was achieved in according to synchronization errors of the controlled nodes and the couplings among nodes. In the simulations, coupling strength was fixed at a relative small value, and no external disturbance case and external disturbance existing case were considered. Simulation results confirm that LADRC is able to estimate and compensate disturbances in real time, which guarantee nice performance of synchronization. Compared with other reported synchronization approaches, LADRC is less dependent of accurate model of networks, and robust enough to disturbances.
+
+

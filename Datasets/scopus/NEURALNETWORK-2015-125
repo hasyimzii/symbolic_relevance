@@ -1,0 +1,10 @@
+
+DEEPFOCAL: A method for direct focal length estimation
+
+
+
+
+ 
+© 2015 IEEE. Estimating the focal length of an image is an important preprocessing step for many applications. Despite this, existing methods for single-view focal length estimation are limited in that they require particular geometric calibration objects, such as orthogonal vanishing points, co-planar circles, or a calibration grid, to occur in the field of view. In this work, we explore the application of a deep convolutional neural network, trained on natural images obtained from Internet photo collections, to directly estimate the focal length using only raw pixel intensities as input features. We present quantitative results that demonstrate the ability of our technique to estimate the focal length with comparisons against several baseline methods, including an automatic method which uses orthogonal vanishing points.
+
+

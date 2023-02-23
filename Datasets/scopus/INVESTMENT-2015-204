@@ -1,0 +1,10 @@
+
+An alternative method to estimate parameters in modelling the behaviour of commodity prices
+
+
+
+
+ 
+© 2015 Taylor & Francis Measuring the risk of investment projects involving commodities and modelling its price dynamics behaviour is usually implemented with Kalman filtering techniques. However, because the use of these techniques has high implementation requirements, recent literature has employed approximate models. This paper proposes a new and simpler spreadsheet implementation procedure which presents lower implementation requirements than the widely used Kalman filtering estimation procedure. The proposal needs to estimate fewer parameters than usual and does not directly estimate sequences but considers the relationship between the states implicitly when defining the regression matrices. This translates into a significant reduction in processing time. We apply the proposal to estimate the parameters of a 4-factor model for four commercial commodities: crude oil, heating oil, unleaded gasoline and natural gas; we then compare the accuracy with results using the Kalman filter method. Results indicate that error measurements are approximately equal for the actual model and the approximation proposed in this paper, for both the in- and out-of-sample data-sets.
+
+

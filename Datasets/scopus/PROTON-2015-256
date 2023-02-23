@@ -1,0 +1,10 @@
+
+Combining parallel detection of proton echo planar spectroscopic imaging (PEPSI) measurements with a data-consistency constraint improves SNR
+
+
+
+
+ 
+© 2015 John Wiley & Sons, Ltd. One major challenge of MRSI is the poor signal-to-noise ratio (SNR), which can be improved by using a surface coil array. Here we propose to exploit the spatial sensitivity of different channels of a coil array to enforce the k-space data consistency (DC) in order to suppress noise and consequently to improve MRSI SNR. MRSI data were collected using a proton echo planar spectroscopic imaging (PEPSI) sequence at 3T using a 32-channel coil array and were averaged with one, two and eight measurements (avg-1, avg-2 and avg-8). The DC constraint was applied using a regularization parameter λ of 1, 2, 3, 5 or 10. Metabolite concentrations were quantified using LCModel. Our results show that the suppression of noise by applying the DC constraint to PEPSI reconstruction yields up to 32% and 27% SNR gain for avg-1 and avg-2 data with λ=5, respectively. According to the reported Cramer-Rao lower bounds, the improvement in metabolic fitting was significant (p<0.01) when the DC constraint was applied with λ ≥ 2. Using the DC constraint with λ=3 or 5 can minimize both root-mean-square errors and spatial variation for all subjects using the avg-8 data set as reference values. Our results suggest that MRSI reconstructed with a DC constraint can save around 70% of scanning time to obtain images and spectra with similar SNRs using λ=5.
+
+

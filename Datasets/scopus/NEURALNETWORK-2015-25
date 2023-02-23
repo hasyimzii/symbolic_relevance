@@ -1,0 +1,10 @@
+
+Asymmetric Actuator Backlash Compensation in Quantized Adaptive Control of Uncertain Networked Nonlinear Systems
+
+
+
+
+ 
+This paper mainly aims at the problem of adaptive quantized control for a class of uncertain nonlinear systems preceded by asymmetric actuator backlash. One challenging problem that blocks the construction of our control scheme is that the real control signal is wrapped in the coupling of quantization effect and nonsmooth backlash nonlinearity. To resolve this challenge, this paper presents a two-stage separation approach established on two new technical components, which are the approximate asymmetric backlash model and the nonlinear decomposition of quantizer, respectively. Then the real control is successfully separated from the coupling dynamics. Furthermore, by employing the neural networks and adaptation method in control design, a quantized controller is developed to guarantee the asymptotic convergence of tracking error to an adjustable region of zero and uniform ultimate boundedness of all closed-loop signals. Eventually, simulations are conducted to support our theoretical results.
+
+

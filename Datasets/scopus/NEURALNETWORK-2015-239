@@ -1,0 +1,10 @@
+
+Language identification based on deep neural network
+
+
+
+
+ 
+© 2015, Science Press. All right reserved. Aiming at the problems of confusable dialects and short-duration utterance in automatic spoken language identification (LID), an improved utterance representation method is proposed based on different layers of deep neural network (DNN). Deep bottleneck network (DBN), a DNN with an internal bottleneck layer, is employed as a front-end feature extractor. Different representations based on output layer and middle bottleneck layer of DBN for LID are obtained and fused. Evaluations on the NIST LRE2009 dataset and NIST LRE2011 Arabic dialect dataset demonstrate that the proposed method based on DBN achieves good performance.
+
+

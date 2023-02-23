@@ -1,0 +1,10 @@
+
+SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection
+
+
+
+
+ 
+© 2015, Springer Science+Business Media New York. Existing computational models for salient object detection primarily rely on hand-crafted features, which are only able to capture low-level contrast information. In this paper, we learn the hierarchical contrast features by formulating salient object detection as a binary labeling problem using deep learning techniques. A novel superpixelwise convolutional neural network approach, called SuperCNN, is proposed to learn the internal representations of saliency in an efficient manner. In contrast to the classical convolutional networks, SuperCNN has four main properties. First, the proposed method is able to learn the hierarchical contrast features, as it is fed by two meaningful superpixel sequences, which is much more effective for detecting salient regions than feeding raw image pixels. Second, as SuperCNN recovers the contextual information among superpixels, it enables large context to be involved in the analysis efficiently. Third, benefiting from the superpixelwise mechanism, the required number of predictions for a densely labeled map is hugely reduced. Fourth, saliency can be detected independent of region size by utilizing a multiscale network structure. Experiments show that SuperCNN can robustly detect salient objects and outperforms the state-of-the-art methods on three benchmark datasets.
+
+

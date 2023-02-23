@@ -1,0 +1,2 @@
+Quantifying cortical atrophy.
+Most of the methods of quantifying cortical atrophy that have been proposed involve the estimation of the volume of enlarged sulci in the cerebral cortex. The authors propose that the surface area of the sulci is a more valid measure of cortical atrophy, and describe a system for measuring the surface area of the cortex, and present data in support of the method's reliability and validity.

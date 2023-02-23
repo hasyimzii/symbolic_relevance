@@ -1,0 +1,10 @@
+
+Improved automated diagnosis of misfire in internal combustion engines based on simulation models
+
+
+
+
+ 
+© 2015 Elsevier Ltd. Abstract In this paper, a new advance in the application of Artificial Neural Networks (ANNs) to the automated diagnosis of misfires in Internal Combustion engines(IC engines) is detailed. The automated diagnostic system comprises three stages: fault detection, fault localization and fault severity identification. Particularly, in the severity identification stage, separate Multi-Layer Perceptron networks (MLPs) with saturating linear transfer functions were designed for individual speed conditions, so they could achieve finer classification. In order to obtain sufficient data for the network training, numerical simulation was used to simulate different ranges of misfires in the engine. The simulation models need to be updated and evaluated using experimental data, so a series of experiments were first carried out on the engine test rig to capture the vibration signals for both normal condition and with a range of misfires. Two methods were used for the misfire diagnosis: one is based on the torsional vibration signals of the crankshaft and the other on the angular acceleration signals (rotational motion) of the engine block. Following the signal processing of the experimental and simulation signals, the best features were selected as the inputs to ANN networks. The ANN systems were trained using only the simulated data and tested using real experimental cases, indicating that the simulation model can be used for a wider range of faults for which it can still be considered valid. The final results have shown that the diagnostic system based on simulation can efficiently diagnose misfire, including location and severity.
+
+

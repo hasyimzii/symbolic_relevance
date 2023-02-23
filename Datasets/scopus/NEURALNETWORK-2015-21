@@ -1,0 +1,10 @@
+
+Image fusion by combining multiwavelet with nonsubsampled direction filter bank
+
+
+
+
+ 
+© 2015 Springer-Verlag Berlin Heidelberg Aiming to solving the problem of too much reductancy in nonsubsampled contourlet transform and shearlet transform, a new type of transform by combining the multiwavelet transform with nonsubsampled direction filter bank is proposed. Subsequently, a multi-scale-decomposition-based image fusion approach is presented. The pulse coupled neural networks (PCNN) are motivated by the local sum-modified-Laplacian measurement of every subband coefficient. If the coefficients generate larger firing times than the other, the coefficients will be chose to synthesize the fused image. Several experiments are performed on three kinds of images, such as multi-focus images, medical images and multispectral images. The experiments indicate that the proposed fusion method observably outperforms the other multi-scale geometry analysis methods adopting the PCNN, such as the traditional wavelet, NSCT, shearlet and other latest image fusion algorithms.
+
+

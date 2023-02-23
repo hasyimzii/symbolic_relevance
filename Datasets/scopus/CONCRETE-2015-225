@@ -1,0 +1,10 @@
+
+Robust optimization of reinforced concrete folded plate and shell roof structure incorporating parameter uncertainty
+
+
+
+
+ 
+Copyright © 2015 Techno-Press, Ltd. There is a growing trend of considering uncertainty in optimization process since last few decades. In this regard, Robust Design Optimization (RDO) scheme has gained increasing momentum because of its virtue of improving performance of structure by minimizing the variation of performance and ensuring necessary safety and feasibility of constraint under uncertainty. In the present study, RDO of reinforced concrete folded plate and shell structure has been carried out incorporating uncertainty in the relevant parameters by Monte Carlo Simulation. Folded plate and shell structures are among the new generation popular structures often used in aesthetically appealing constructions. However, RDO study of such important structures is observed to be scarce. The optimization problem is formulated as cost minimization problem subjected to the force and displacements constraints considering dead, live and wind load. Then, the RDO is framed by simultaneously optimizing the expected value and the variation of the performance function using weighted sum approach. The robustness in constraint is ensured by adding suitable penalty term and through a target reliability index. The RDO problem is solved by Sequential Quadratic Programming. Subsequently, the results of the RDO are compared with conventional deterministic design approach. The parametric study implies that robust designs can be achieved by sacrificing only small increment in initial cost, but at the same time, considerable quality and guarantee of the structural behaviour can be ensured by the RDO solutions.
+
+

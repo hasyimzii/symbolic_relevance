@@ -1,0 +1,10 @@
+
+Nonlinear control of structure using neuro-predictive algorithm
+
+
+
+
+ 
+Copyright © 2015 Techno-Press, Ltd. A new neural network (NN) predictive controller (NNPC) algorithm has been developed and tested in the computer simulation of active control of a nonlinear structure. In the present method an NN is used as a predictor. This NN has been trained to predict the future response of the structure to determine the control forces. These control forces are calculated by minimizing the differencebetween the predicted and desired responses via a numerical minimization algorithm. Since the NNPC is very time consuming and not suitable for real-time control, it is then used to train an NN controller. To consider the effectiveness of the controller onprobability of damage, fragility curves are generated. The approach is validated by using simulated response of a 3 story nonlinear benchmark building excited by several historical earthquake records. The simulation results are then compared with a linearquadratic Gaussian (LQG) active controller. The results indicate that the proposed algorithm is completely effective in relative displacement reduction.
+
+

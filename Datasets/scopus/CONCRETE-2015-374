@@ -1,0 +1,10 @@
+
+A thermodynamically consistent nonlocal damage model for concrete materials with unilateral effects
+
+
+
+
+ 
+© 2015 Elsevier B.V. This paper proposes a thermodynamically consistent constitutive model for concrete materials to solve several problems encountered in the existing damage modeling. Two separated equivalent strains and the corresponding new damage evolution laws are used to enhance the representation of asymmetrical behaviors of concrete, of which the different strengths and post-peak behaviors between tension and compression cannot simultaneously be reproduced by the classical strain-driven models. The crack opening-closure criterion related to the unilateral effect is described, using the trace of the strain tensor rather than the spectral decomposition of a specific second-order tensor, which leads to either a discontinuous stress-strain response or spurious energy dissipation upon closed load cycles. An integral-type nonlocal regularization is incorporated to solve the problem of strain-softening induced mesh non-objectivity involving mesh-size and mesh-bias dependencies. The strain-driven formalism and the explicit integration of constitutive equations improve the robustness of the numerical algorithm. Correlative studies using available benchmark test results are presented to demonstrate the performance of the model.
+
+

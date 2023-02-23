@@ -1,0 +1,10 @@
+
+Nonlinear behavior of RC beams strengthened with strain hardening cementitious composites subjected to monotonic and cyclic loads
+
+
+
+
+ 
+© 2016. Ultra High Performance Strain Hardening Cementitious Composites (UHP-SHCC) are useful for strengthening or repairing concrete members. However there is a need to use refined analytical tools to simulate response of strengthened system. In this study, ABAQUS finite element program is used to numerically perform a parametric study including two major groups. Each group contains nine specimens strengthened from the tension side with variable thickness of UHP-SHCC and reinforced with variable reinforcement ratios embedded in the strengthening layer. Two types of loading were applied: monotonic loading for the first group and cyclic loading for the second group. ABAQUS CPS4R mesh element nonlinear is used to model the concrete, while truss element nonlinear is used to model longitudinal and transverse steel reinforcement. The numerical results obtained are in good agreement with the experimental work found in the literature. The results from the parametric study showed that it is sufficient to use 1.2% additional reinforcement ratio embedded in the strengthening layer for beams strengthened with UHP-SHCC to eliminate the observed early strain localization and to gain adequate ductility under both static and cyclic loadings.
+
+

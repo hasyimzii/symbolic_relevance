@@ -1,0 +1,10 @@
+
+DSEP: A tool implementing novel method to predict side effects of drugs
+
+
+
+
+ 
+© Copyright 2015, Mary Ann Liebert, Inc. 2015. Drug side effects, or adverse drug reactions, have become a focus of public health concern. Anticipating side effects before the drugs are granted marketing authorization for clinical use can help reduce health threats. An increasing need for methods and tools that facilitate side-effect prediction still remains. Here, we present DSEP, which is a tool that is able to analyze chemistry files to predict side effects of drugs that are under development and have not been included into any database. Meanwhile, DSEP provides three computational methods, one of which is a novel method proposed by us. The method can obtain higher AUC(0.8927) and AUPR(0.4143) scores than previous work. The advantage characteristic and method made DSEP a useful tool to predict potential side effects for a given drug or compound. We use DSEP to conduct uncharacterized drugs' side-effect prediction and confirm interesting results.
+
+

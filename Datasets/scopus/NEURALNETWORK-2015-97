@@ -1,0 +1,10 @@
+
+Facial point detection using convolutional neural network transferred from a heterogeneous task
+
+
+
+
+ 
+© 2015 IEEE. We present a novel training approach that uses convolutional neural network for facial part detection. In the proposed training procedure, we use the parameters of a network obtained for a heterogeneous task as the initial parameters of the network for a target task. We employ a convolutional neural network for facial part labeling in the heterogeneous task, and then transfer the trained network so as to provide initial parameters of the network for facial point detection. This transfer of network is advantageous in the training for a target task in that 1) the network obtains representation kernels for extraction of facial part regions and 2) the network reduces detection errors at distant positions. The performance of the proposed method applied to BioID and Labeled Face Parts in the Wild datasets is comparable to that of state-of-the art methods. In addition, since our network structure is simple, processing takes approximately 3ms for one face on a standard CPU.
+
+

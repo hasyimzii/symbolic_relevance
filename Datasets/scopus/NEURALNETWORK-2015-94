@@ -1,0 +1,10 @@
+
+Vehicle-logo recognition algorithm based on convolutional neural network
+
+
+
+
+ 
+© 2015 by Binary Information Press. In recent years, machine vision has been widely used in Intelligent Transportation Systems via detecting, tracking and recognizing the vehicle information. The vehicle logo is regarded as the key feature insides the intelligent traffic management system and plays an important role of vehicle information discrimination. Convolutional Neural Network (CNN) is a kind of neural network with multi-level structure. It can effectively improve the robustness of the changes of vehicle logo within different conditions, e. g., being rotated and transformed in scales. This paper proposes a vehicle logo recognition system based on CNN, and compares its performance with the others. The experimental results show that this method can effectively improve the recognition rate of the vehicle logo.
+
+

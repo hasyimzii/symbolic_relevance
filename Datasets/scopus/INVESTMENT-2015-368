@@ -1,0 +1,10 @@
+
+The treatment-effect estimation: A case study of the 2008 economic stimulus package of China
+
+
+
+
+ 
+© 2015 Published by Elsevier B.V. Researchers often face the challenge of estimating the counterfactuals to evaluate the treatment effects. Hsiao et al. (2012) propose a method that offers more flexibilities by allowing the influence of the unobservable latent factors to vary cross-section. This paper relaxes the linear conditional mean assumption in their method by extending it to a semi-parametric setting. The asymptotic distribution properties of the average treatment effect estimator is derived and studied. The semi-parametric model and the Hsiao et al. (2012) are both applied to study the macroeconomic effect of the 2008 Chinese Economic Stimulus Program. The estimation results show the fiscal stimulus plan had raised the annual real GDP growth in China by about 3.2%, but only temporarily. These results are robust to linear setting, semiparametric setting, and various control group selections. The temporary boost in economic activities of the stimulus plan is also evident in the estimation of other economic indicators such as real investment, real consumption, real export, and real import.
+
+

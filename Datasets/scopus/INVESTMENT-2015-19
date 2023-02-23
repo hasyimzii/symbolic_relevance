@@ -1,0 +1,10 @@
+
+Chance and service level constraints for stochastic generation expansion planning
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York We consider the problem of generation expansion planning (GEP) under uncertainty. Existing and planned deployment of demand response mechanisms necessitates extensions of GEP optimization models to minimize planned investment portfolio cost. We propose a combination of service level threshold and chance constraints to abstractly capture the impact of demand response mechanisms in generation expansion planning. We examine the computational properties of solutions from the proposed optimization model using real-world data from South Korea. Our results indicate that the proposed models can be solved to optimality in tractable run-times, allowing for their use in decision support contexts and avoiding the need for heuristic solution procedures.
+
+

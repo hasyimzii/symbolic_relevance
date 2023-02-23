@@ -1,0 +1,10 @@
+
+Oil and Gas Exploration Valuation and the Value of Waiting
+
+
+
+
+ 
+© 2015 Copyright Institute of Industrial Engineers. The timing flexibility of investments in oil and gas assets can potentially add value. In this article, we examine the value of waiting in exploration projects and propose a real option-based valuation method using least-squares Monte Carlo simulation. We show that the dynamics of the oil and gas prices have a large impact on the value of the option to wait, especially for projects with long lead times and durations. The uncertainty in the forward price curve is modeled using a two-factor stochastic price process. The article also presents the valuation method in the form of MATLAB functions and routines that can be used as an efficient test and analysis platform using the industry-standard input formats.
+
+

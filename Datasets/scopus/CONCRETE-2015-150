@@ -1,0 +1,10 @@
+
+Crack width analysis of reinforced concrete members under flexure by finite element method and crack queuing algorithm
+
+
+
+
+ 
+© 2015. In reinforced concrete design, it is necessary to evaluate the crack widths so as to ensure compliance with the design codes. However, crack width analysis is not easy and so far only empirical formulas, which do not agree with each other, are available for rough estimation. Particularly, the smeared crack models, which do not allow for bond-slip of reinforcing bars, would not give any crack widths. On the other hand, the discrete crack models are difficult to apply because of the need to adaptively generate discrete crack elements to follow the crack formation. Herein, a new finite element method for discrete crack analysis, which does not require the use of discrete crack elements, is developed. The reinforcing bars are modeled by discrete bar elements and their bond-slip is allowed for using interface elements. Moreover, a crack queuing algorithm is employed to simulate the stress redistribution during cracking and a cracking criterion based on both tensile strength and fracture toughness is adopted to cater for stress concentration at crack tips for correct prediction of crack number, spacing and widths.
+
+

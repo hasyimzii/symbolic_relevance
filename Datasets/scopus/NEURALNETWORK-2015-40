@@ -1,0 +1,10 @@
+
+An enhance excavation equipments classification algorithm based on acoustic spectrum dynamic feature
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York Underground pipeline network surveillance system attracts increasingly attentions recently due to severe breakages caused by external excavation equipments in the mainland of China. In this paper, we study excavation equipments classification algorithm based on acoustic signal processing and machine learning algorithms. A cross-layer microphone array with four elements is designed to collect the acoustic database of representative excavation equipments on real construction sites. The generalized sidelobe canceller algorithm is employed for background noise reduction. The improved spectrum dynamic feature extraction algorithm is then implemented for the benchmark acoustic feature database construction of excavation equipments. To perform classification and background noise identification, the single hidden layer feedforward neural network is employed as the classifier. An improved algorithm based on the popular extreme learning machine (ELM) is proposed for classifier learning. The leave-one-out cross validation strategy is adopted for the regularization parameter optimization in ELM. Comprehensive experiments are conducted to test the effectiveness of the proposed algorithm. Comparisons with state-of-art classifiers and the Mel-frequency cepstrual coefficients acoustic features are also provided to demonstrate the superiority of our approach.
+
+

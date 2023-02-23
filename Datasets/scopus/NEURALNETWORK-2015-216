@@ -1,0 +1,10 @@
+
+A hybrid cascade neural network with an optimized pool in each cascade
+
+
+
+
+ 
+© 2014, Springer-Verlag Berlin Heidelberg. This paper proposes a new architecture and learning algorithms for a hybrid cascade neural network with pool optimization in each cascade. The proposed system is different from existing cascade systems in its capability to operate in an online mode, which allows it to work with non-stationary and stochastic nonlinear chaotic signals with the required accuracy. Compared to conventional analogs, the proposed system provides computational simplicity and possesses both tracking and filtering capabilities.
+
+

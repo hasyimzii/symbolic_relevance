@@ -1,0 +1,10 @@
+
+Modeling and optimization of the glutamic acid fermentation process using computational intelligence techniques
+
+
+
+
+ 
+© 2015 Elsevier B.V. This paper presents a framework for modeling and optimizing the glutamic acid fermentation process using computational intelligence techniques. Considering the special characteristics of such an industrial process, we propose a two-phase optimization strategy to maximize the conversion rate and product concentration of the glutamic acid. Neural network ensembles and an improved Differential Evolutionary Algorithm (DEA) with a non-inferior sorting scheme and niche technology are employed for problem solving. This work provides an approach for design of a model-free optimal control system for the fed-batch fermentation process. Experimental results are promising and demonstrate the applicability of the proposed modeling and optimization techniques for real world applications.
+
+

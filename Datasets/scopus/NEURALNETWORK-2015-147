@@ -1,0 +1,10 @@
+
+An adaptive neural network approach for operator functional state prediction using psychophysiological data
+
+
+
+
+ 
+© 2016 IOS Preb and the author(s). In highly automated human-machine systems, human operator functional state (OFS) prediction is an important approach to prevent accidents caused by operator fatigue, high mental workload, over anxiety, etc. In this paper, psychophysiological indices, i.e. heart rate, heart rate variability, task load index and engagement index recorded from operators who execute proceb control tasks are selected for OFS prediction. An adaptive differential evolution based neural network (ACADE-NN) is investigated. The behavior of ant colony foraging is introduced to self-adapt the control parameters of DE along with the mutation strategy at different evolution phases. The performance of ACADE is verified in the benchmark function tests. The designed ACADE-NN prediction model is used for estimation of the operator functional state. The empirical results illustrate that the proposed adaptive model is effective for most of the operators. The model outperforms the compared modeling methods and yields good generalization comparatively. It can describe the relationship between psychophysiological variables and OFS. It's applicable to abeb the operator functional state in safety-critical applications.
+
+

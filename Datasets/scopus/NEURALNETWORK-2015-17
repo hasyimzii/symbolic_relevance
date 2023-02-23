@@ -1,0 +1,10 @@
+
+A Deep Structured Model with Radius–Margin Bound for 3D Human Activity Recognition
+
+
+
+
+ 
+© 2015 Springer Science+Business Media New York Understanding human activity is very challenging even with the recently developed 3D/depth sensors. To solve this problem, this work investigates a novel deep structured model, which adaptively decomposes an activity instance into temporal parts using the convolutional neural networks. Our model advances the traditional deep learning approaches in two aspects. First, we incorporate latent temporal structure into the deep model, accounting for large temporal variations of diverse human activities. In particular, we utilize the latent variables to decompose the input activity into a number of temporally segmented sub-activities, and accordingly feed them into the parts (i.e. sub-networks) of the deep architecture. Second, we incorporate a radius–margin bound as a regularization term into our deep model, which effectively improves the generalization performance for classification. For model training, we propose a principled learning algorithm that iteratively (i) discovers the optimal latent variables (i.e. the ways of activity decomposition) for all training instances, (ii) updates the classifiers based on the generated features, and (iii) updates the parameters of multi-layer neural networks. In the experiments, our approach is validated on several complex scenarios for human activity recognition and demonstrates superior performances over other state-of-the-art approaches.
+
+

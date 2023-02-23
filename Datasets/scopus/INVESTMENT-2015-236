@@ -1,0 +1,10 @@
+
+A note on optimal investment-consumption-insurance in a Lévy market
+
+
+
+
+ 
+© 2015 Elsevier B.V. In Shen and Wei (2014) an optimal investment, consumption and life insurance purchase problem for a wage earner with Brownian information has been investigated. This paper discusses the same problem but extend their results to a geometric Itô-Lévy jump process. Our modelling framework is very general as it allows random parameters which are unbounded and involves some jumps. It also covers parameters which are both Markovian and non-Markovian functionals. Unlike in Shen and Wei (2014) who considered a diffusion framework, ours solves the problem using a novel approach, which combines the Hamilton-Jacobi-Bellman (HJB) and a backward stochastic differential equation (BSDE) in a Lévy market setup. We illustrate our results by two examples.
+
+
